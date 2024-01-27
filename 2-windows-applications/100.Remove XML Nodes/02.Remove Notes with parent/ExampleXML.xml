@@ -1,0 +1,29 @@
+<people>
+
+  <person>
+  
+    <name>Guna</name>
+    <age>21</age>
+	<email>gunarakulan@gmail.com</email>
+	
+  </person>
+  
+  
+  <person>
+  
+    <name>joker</name>
+    <age>26</age>
+	<email>jokerhacker@gmail.com</email>
+	
+  </person>
+  
+    <person>
+  
+    <name>hacker</name>
+    <age>28</age>
+	<email>hacker@gmail.com</email>
+	
+  </person>
+
+
+</people>

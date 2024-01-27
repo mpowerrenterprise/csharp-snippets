@@ -1,0 +1,4 @@
+(function($){"use strict";$(function(){$('#back-top a').on('click',function(){$('body,html').animate({scrollTop:0},700);return false;});var temp=$(window).height();$('#back-top a').addClass('hide');$(window).scroll(function(){if($(window).scrollTop()>temp){$('#back-top a').addClass('show');$('#back-top a').removeClass('hide');}
+else{$('#back-top a').addClass('hide');$('#back-top a').removeClass('show');}
+if($(window).scrollTop()<90){$('#go-down-span a').addClass('show');$('#go-down-span a').removeClass('hide');}
+else{$('#go-down-span a').addClass('hide');$('#go-down-span a').removeClass('show');}});});})(jQuery);

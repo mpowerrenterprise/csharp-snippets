@@ -1,0 +1,11 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\bin\Debug\openfildia.exe.config
+c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\bin\Debug\openfildia.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\bin\Debug\openfildia.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\obj\Debug\openfildia.Form1.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\obj\Debug\openfildia.Properties.Resources.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\obj\Debug\openfildia.csproj.GenerateResource.Cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\obj\Debug\openfildia.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\obj\Debug\openfildia.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\33.OpenFileDialog\01.Example\openfildia\bin\Debug\openfildia.exe.config
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\33.OpenFileDialog\01.Example\openfildia\obj\Debug\openfildia.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\33.OpenFileDialog\01.Example\openfildia\obj\Debug\openfildia.pdb

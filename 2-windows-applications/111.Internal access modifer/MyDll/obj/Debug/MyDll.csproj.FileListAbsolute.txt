@@ -1,0 +1,5 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\bin\Debug\MyDll.dll
+c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\bin\Debug\MyDll.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\obj\Debug\MyDll.dll
+c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\obj\Debug\MyDll.pdb

@@ -1,0 +1,17 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\TimerCon\TimerCon\bin\Debug\TimerCon.exe.config
+c:\users\joker hacker\documents\visual studio 2015\Projects\TimerCon\TimerCon\bin\Debug\TimerCon.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\TimerCon\TimerCon\bin\Debug\TimerCon.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\TimerCon\TimerCon\obj\Debug\TimerCon.Form1.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\TimerCon\TimerCon\obj\Debug\TimerCon.Properties.Resources.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\TimerCon\TimerCon\obj\Debug\TimerCon.csproj.GenerateResource.Cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\TimerCon\TimerCon\obj\Debug\TimerCon.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\TimerCon\TimerCon\obj\Debug\TimerCon.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\bin\Debug\TimerCon.exe.config
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\bin\Debug\TimerCon.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\bin\Debug\TimerCon.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.csprojResolveAssemblyReference.cache
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.Form1.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.Properties.Resources.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.csproj.GenerateResource.Cache
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.pdb

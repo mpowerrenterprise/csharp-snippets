@@ -1,0 +1,17 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\pro2\pro2\bin\Debug\pro2.exe.config
+c:\users\joker hacker\documents\visual studio 2015\Projects\pro2\pro2\bin\Debug\pro2.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\pro2\pro2\bin\Debug\pro2.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\pro2\pro2\obj\Debug\pro2.Form1.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\pro2\pro2\obj\Debug\pro2.Properties.Resources.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\pro2\pro2\obj\Debug\pro2.csproj.GenerateResource.Cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\pro2\pro2\obj\Debug\pro2.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\pro2\pro2\obj\Debug\pro2.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\bin\Debug\pro2.exe.config
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\obj\Debug\pro2.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\obj\Debug\pro2.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\bin\Debug\pro2.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\bin\Debug\pro2.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\obj\Debug\pro2.csprojResolveAssemblyReference.cache
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\obj\Debug\pro2.Form1.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\obj\Debug\pro2.Properties.Resources.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\03.MarqueeAnimationSpeed\pro2\obj\Debug\pro2.csproj.GenerateResource.Cache

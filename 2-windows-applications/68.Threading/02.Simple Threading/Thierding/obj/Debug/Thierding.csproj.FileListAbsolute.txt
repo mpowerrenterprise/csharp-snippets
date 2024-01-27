@@ -1,0 +1,16 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\bin\Debug\Thierding.exe.config
+c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\bin\Debug\Thierding.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\bin\Debug\Thierding.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\obj\Debug\Thierding.Form1.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\obj\Debug\Thierding.Properties.Resources.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\obj\Debug\Thierding.csproj.GenerateResource.Cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\obj\Debug\Thierding.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\obj\Debug\Thierding.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\68.Threading\02.Simple Threading\Thierding\bin\Debug\Thierding.exe.config
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\68.Threading\02.Simple Threading\Thierding\obj\Debug\Thierding.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\68.Threading\02.Simple Threading\Thierding\obj\Debug\Thierding.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\68.Threading\02.Simple Threading\Thierding\bin\Debug\Thierding.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\68.Threading\02.Simple Threading\Thierding\bin\Debug\Thierding.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\68.Threading\02.Simple Threading\Thierding\obj\Debug\Thierding.Form1.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\68.Threading\02.Simple Threading\Thierding\obj\Debug\Thierding.Properties.Resources.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\68.Threading\02.Simple Threading\Thierding\obj\Debug\Thierding.csproj.GenerateResource.Cache

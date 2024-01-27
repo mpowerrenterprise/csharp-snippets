@@ -1,0 +1,1 @@
+Navigated event is used for when we click links inside the website we need to change the url according to that

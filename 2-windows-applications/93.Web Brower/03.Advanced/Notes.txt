@@ -1,0 +1,2 @@
+This web brower is bashed on IE
+The Go home method will take you to the page that the IE has as homepage

@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<!-- saved from url=(0055)http://www.tutorialsteacher.com/csharp/csharp-delegates -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Delegate in C#</title>
+<meta name="keywords" content="delegate, delegates, delegates in C#, C# delegates, Free C# Tutorials for beginners, C#, .net tutorials, c# tutorial, C# tutorials, csharp tutorials, csharp tutorial, C# Programming, C# for Beginners , C# Basic Syntax, ">
+<meta name="description" content="This article explains delegates in C#. C# is a strongly-typed language.  A function can have one or more parameters of different data types. ">
+<script src="./Delegate in C#_files/ads"></script><script src="./Delegate in C#_files/pubads_impl_rendering_170.js.download"></script><script src="./Delegate in C#_files/ads(1)"></script><script async="" type="text/javascript" src="./Delegate in C#_files/gpt.js.download"></script><script src="./Delegate in C#_files/ca-pub-7448309248176309.js.download"></script><script async="" src="./Delegate in C#_files/analytics.js.download"></script><script src="./Delegate in C#_files/pPXHlLb1CGI6YEB-9-_z05e8AO8.js.download"></script><script src="./Delegate in C#_files/tPAjUEoy7r1Z4pKD3wERlshlDH0.js.download"></script><link href="./Delegate in C#_files/bootstrap.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script src="./Delegate in C#_files/jquery.min.js.download"></script>
+<script src="./Delegate in C#_files/bootstrap.min.js.download"></script>
+<link href="./Delegate in C#_files/app-1.1.css" rel="stylesheet">
+<link href="./Delegate in C#_files/csharp.css" rel="stylesheet">
+<link href="./Delegate in C#_files/common-1.0.css" rel="stylesheet">
+<script src="./Delegate in C#_files/common.js.download"></script>
+<link type="text/css" rel="stylesheet" href="./Delegate in C#_files/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="./Delegate in C#_files/css">
+<script src="./Delegate in C#_files/jquery.unobtrusive-ajax.min.js.download"> </script>
+<link rel="stylesheet" href="data:text/css;charset=utf-8;base64,Y2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gewogIGRpc3BsYXk6IGJsb2NrOwogIGJhY2tncm91bmQ6ICM0NTQ4NGQ7CiAgY29sb3I6ICNmZmY7CiAgbGluZS1oZWlnaHQ6IDEuNDU7CiAgcG9zaXRpb246IGZpeGVkOwogIHotaW5kZXg6IDkwMDAwMDAwOwogIHRvcDogMDsKICBsZWZ0OiAwOwogIHJpZ2h0OiAwOwogIHBhZGRpbmc6IC41ZW0gMWVtOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwogICAgIC1tb3otdXNlci1zZWxlY3Q6IG5vbmU7CiAgICAgIC1tcy11c2VyLXNlbGVjdDogbm9uZTsKICAgICAgICAgIHVzZXItc2VsZWN0OiBub25lOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXVtkYXRhLXZpc2liaWxpdHk9ImhpZGRlbiJdIHsKICBkaXNwbGF5OiBub25lOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXSBjbG91ZGZsYXJlLWFwcC1tZXNzYWdlIHsKICBkaXNwbGF5OiBibG9jazsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gYSB7CiAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7CiAgY29sb3I6ICNlYmViZjQ7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGE6aG92ZXIsCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGE6YWN0aXZlIHsKICBjb2xvcjogI2RiZGJlYjsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gY2xvdWRmbGFyZS1hcHAtY2xvc2UgewogIGRpc3BsYXk6IGJsb2NrOwogIGN1cnNvcjogcG9pbnRlcjsKICBmb250LXNpemU6IDEuNWVtOwogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICByaWdodDogLjRlbTsKICB0b3A6IC4zNWVtOwogIGhlaWdodDogMWVtOwogIHdpZHRoOiAxZW07CiAgbGluZS1oZWlnaHQ6IDE7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGNsb3VkZmxhcmUtYXBwLWNsb3NlOmFjdGl2ZSB7CiAgLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTsKICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXSBjbG91ZGZsYXJlLWFwcC1jbG9zZTpob3ZlciB7CiAgb3BhY2l0eTogLjllbTsKICBjb2xvcjogI2ZmZjsKfQo="><script type="text/javascript" async="" src="./Delegate in C#_files/a.min.js.download"></script><link rel="preload" href="./Delegate in C#_files/integrator.js.download" as="script"><script type="text/javascript" src="./Delegate in C#_files/integrator.js.download"></script><link rel="preload" href="./Delegate in C#_files/integrator.js(1).download" as="script"><script type="text/javascript" src="./Delegate in C#_files/integrator.js(1).download"></script><script src="./Delegate in C#_files/pubads_impl_170.js.download" async=""></script></head>
+<body class="container-fluid">
+<header class="row">
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-33844821-5', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<nav class="navbar navbar-default">
+<div class="navbar-header" id="header">
+<div class="col-xs-12 col-sm-9 ">
+<a href="http://www.tutorialsteacher.com/" class="navbar-brand ">
+<img src="./Delegate in C#_files/logo.png" alt="LOGO"></a>
+</div>
+<div class="col-sm-3 col-md-3 pull-right hidden-xs vbottom gsearch">
+<form action="http://www.google.com/" id="cse-search-box" target="_blank">
+<div>
+<input type="hidden" name="cx" value="partner-pub-7448309248176309:9010588392">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="text" name="q" size="55" placeholder="Custom Search" style="border: 1px solid rgb(126, 157, 185); padding: 2px; background: url(&quot;https://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png&quot;) left center no-repeat rgb(255, 255, 255); text-indent: 48px;">
+<input type="submit" name="sa" value="" class="searchbutton fa fa-search">
+</div>
+<input name="siteurl" type="hidden" value="www.tutorialsteacher.com/csharp/csharp-delegates"><input name="ref" type="hidden" value="www.google.lk/"><input name="ss" type="hidden" value=""></form>
+<script type="text/javascript" src="./Delegate in C#_files/brand"></script>
+</div>
+</div>
+<div id="menuContainer" class="affix-top">
+<button type="button" class="navbar-toggle navbar-toggle-2 collapsed" data-toggle="collapse" data-target="#left-menu" aria-expanded="false">
+<i class="glyphicon glyphicon-chevron-down"></i>
+</button>
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#topMenu" aria-expanded="false">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="topMenu">
+<ul class="nav navbar-nav ">
+<li><a href="http://www.tutorialsteacher.com/" id="Home"><i class="glyphicon glyphicon-home"></i></a></li>
+<li><a href="http://www.tutorialsteacher.com/core">ASP.NET Core</a></li>
+<li><a href="http://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials">MVC</a></li>
+<li><a href="http://www.tutorialsteacher.com/webapi/web-api-tutorials">Web API</a></li>
+<li><a href="http://www.tutorialsteacher.com/ioc">IoC</a></li>
+<li><a href="http://www.tutorialsteacher.com/linq/linq-tutorials">LINQ</a></li>
+<li class="active"><a href="http://www.tutorialsteacher.com/csharp/csharp-tutorials">C#</a></li>
+<li><a href="http://www.tutorialsteacher.com/angularjs/angularjs-tutorials">AngularJS</a></li>
+<li><a href="http://www.tutorialsteacher.com/nodejs/nodejs-tutorials">Node.js</a></li>
+<li><a href="http://www.tutorialsteacher.com/d3js">D3.js</a></li>
+<li><a href="http://www.tutorialsteacher.com/sass">Sass</a></li>
+<li><a href="http://www.tutorialsteacher.com/jquery/jquery-tutorials">jQuery</a></li>
+<li><a href="http://www.tutorialsteacher.com/javascript/javascript-tutorials">JavaScript</a></li>
+<li><a href="http://www.tutorialsteacher.com/articles">FAQ</a></li>
+<li><a href="http://www.tutorialsteacher.com/online-test">Tests</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<script>
+    //to fix the menu at top on scrolling
+    $('#menuContainer').affix({
+        offset: {
+            top: $('#header').height()
+        }
+    });
+    ////fix left menu
+    //$('#sidebar').affix({
+    //    offset: {
+    //        top: 205 //$('#header').height()
+    //}
+    //});
+</script>
+</header>
+<div class="row">
+
+
+</div>
+<div class="row middle-content">
+<aside class="col-sm-2 no-padding-column">
+<div class="collapse navbar-nav navbar-collapse navbar-collapse-2 left-menu " id="left-menu">
+<ul class="nav nav-list primary" id="menu">
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-tutorials">C# Tutorials</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-version-history">C# - Version History</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-environment-setup">C# - Environment Setup</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/first-csharp-program">C# - First Program</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-class">C# - Class</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-variable">C# - Variable</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-data-types">C# - Data Types</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-value-type-and-reference-type">C# - Value &amp; Reference Types</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-keywords">C# - Keywords</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-interface">C# - Interface</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-operators">C# - Operators</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-if-else">C# - Condition</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-ternary-operator">C# - Ternary Operator</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-switch">C# - switch</a>
+</li>
+<li>
+ <a href="http://www.tutorialsteacher.com/csharp/csharp-for-loop">C# - for loop</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-while-loop">C# - while loop</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-do-while-loop">C# - do-while loop</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-struct">C# - struct</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-enum">C# - enum</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-stringbuilder">C# - StringBuilder</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/array-csharp">C# - Array</a>
+<ul>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-multi-dimensional-array">C# - Multi-dimensional Array</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-jagged-array">C# - Jagged Array</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-collection">C# - Collections</a>
+<ul>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-arraylist">C# - ArrayList</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-sortedlist">C# - SortedList</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-stack">C# - Stack</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-queue">C# - Queue</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-hashtable">C# - Hashtable</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-indexer">C# - Indexer</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-stream-io">C# - Stream I/O</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-file">C# - File</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-fileinfo">C# - FileInfo</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-exception">C# - Exception</a>
+<ul>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-exception-handling">C# - Exception Handling</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/throw-csharp">C# - throw</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/custom-exception-csharp">C# - Custom Exception</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-delegates" class="active">C# - Delegates</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-event">C# - Event</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-generics">C# - Generics</a>
+<ul>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/constraints-in-generic-csharp">C# - Constraints</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-generic-collections">C# - Generic Collections</a>
+<ul>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-list">C# - List&lt;T&gt;</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-generic-sortedlist">C# - SortedList&lt;TKey,TValue&gt;</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-dictionary">C# - Dictionary</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-partial-class">C# - Partial Class</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-static">C# - Static</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-anonymous-method">C# - Anonymous method</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-nullable-types">C# - Nullable type</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-covariance-and-contravariance">C# - Covariance &amp; Contravariance</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-var-implicit-typed-local-variable">C# - var</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-linq">C# - LINQ</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-func-delegate">C# - Func</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-action-delegate">C# - Action</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-predicate">C# - Predicate</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-extension-method">C# - Extension method</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-anonymous-type">C# - Anonymous type</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-dynamic-type">C# - Dynamic type</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-object-initializer">C# - Object Initializer</a>
+</li>
+<li>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-useful-resources">C# - Useful Resources</a>
+</li>
+</ul>
+</div>
+</aside>
+<div class="col-sm-7 ">
+<div class="header-ad-div">
+<div data-type="ad" data-publisher="tutorialsteacher.com" data-format="728x90" data-zone="DM-Top-Header" data-tags="tutorials%2casp.net%20mvc%2cmvc%2cc#%2ccsharp%2clinq%2cnode.js%2cjavascript%2cangularjs%2cjquery"><div id="div-gpt-ad-tutorialsteacher.com/DM-Top-Header-1" style="height: 90px; width: 728px; box-sizing: border-box; border: 0px; font-size: 0px;"><div id="google_ads_iframe_/6839/tutorialsteacher.com/DM-Top-Header_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/6839/tutorialsteacher.com/DM-Top-Header_0" title="3rd party ad content" name="google_ads_iframe_/6839/tutorialsteacher.com/DM-Top-Header_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;" src="./Delegate in C#_files/saved_resource.html"></iframe></div></div></div>
+
+
+</div>
+<ul class="pager">
+<li class="next"> <a href="http://www.tutorialsteacher.com/csharp/csharp-event">Next <span>»</span></a></li>
+<li class="pervious"><a href="http://www.tutorialsteacher.com/csharp/custom-exception-csharp"><span>«</span> Previous</a></li>
+</ul>
+<article class="article">
+<h1>C# Delegate:</h1>
+<p>
+A function can have one or more parameters of different data types, but what if you want to pass a function itself as a parameter? How does C# handle the callback functions or event handler? The answer is - <strong>delegate</strong>.
+</p>
+<p>
+A delegate is like a pointer to a function. It is a reference type data type and it holds the reference of a method. All the delegates are implicitly derived from <code>System.Delegate</code> class.
+</p>
+<p>
+A delegate can be declared using <strong>delegate</strong> keyword followed by a function signature as shown below.
+</p>
+<div class="panel panel-primary">
+<div class="panel-heading">delegate syntax:</div>
+<div class="panel-body"><pre>&lt;<span class="kwrd">access modifier</span>&gt; <span class="kwrd">delegate</span> &lt;<span class="kwrd">return type</span>&gt; &lt;delegate_name&gt;(&lt;parameters&gt;)
+</pre> </div>
+</div>
+<p>
+The following example declares a Print delegate.
+</p>
+<div class="panel panel-default code-panel">
+<div class="panel-heading">Example: Declare delegate </div>
+<div class="panel-body"><pre class="csharpcode"><code>
+<span class="kwrd">public</span> <span class="kwrd">delegate</span> <span class="kwrd">void</span> Print(<span class="kwrd">int</span> <span class="kwrd">value</span>);
+
+</code></pre> </div>
+</div>
+<p>
+The Print delegate shown above, can be used to point to any method that has same return type &amp; parameters declared with Print. Consider the following example that declares and uses Print delegate.
+ </p>
+<div class="panel panel-default code-panel">
+<div class="panel-heading">Example: C# delegate </div>
+<div class="panel-body"><pre class="csharpcode"><code>
+<span class="kwrd">class</span> <span class="userclass">Program</span>
+{
+    <span class="rem">// declare delegate</span>
+    <span class="kwrd">public</span> <span class="kwrd">delegate</span> <span class="kwrd">void</span> Print(<span class="kwrd">int</span> <span class="kwrd">value</span>);
+
+    <span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
+    {
+        <span class="rem">// Print delegate points to PrintNumber</span>
+        <span class="userclass">Print</span> printDel = PrintNumber;
+          
+        printDel(100000);
+        printDel(200);
+
+        <span class="rem">// Print delegate points to PrintMoney</span>
+        printDel = PrintMoney;
+
+        printDel(10000);
+        printDel(200);
+    }
+
+    <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintNumber(<span class="kwrd">int</span> num)
+    {
+        <span class="userclass">Console</span>.WriteLine(<span class="str">"Number: {0,-12:N0}"</span>,num);
+    }
+
+    <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintMoney(<span class="kwrd">int</span> money)
+    {
+        <span class="userclass">Console</span>.WriteLine(<span class="str">"Money: {0:C}"</span>, money);
+    }
+}
+
+</code></pre> </div>
+<div class="panel-footer"><a class="btn btn-primary" href="http://www.tutorialsteacher.com/codeeditor?cid=cs-MKzHqu" target="_blank" title="Try this example code yourself">Try it</a> </div>
+</div>
+<div class="outputLabel">
+Output:
+</div>
+<samp>
+Number: 10,000 <br>
+Number: 200 <br>
+Money: $ 10,000.00 <br>
+Money: $ 200.00
+</samp>
+<p>
+In the above example, we have declared Print delegate that accepts <i>int</i> type parameter and returns void. In the Main() method, a variable of Print type is declared and assigned a PrintNumber method name. Now, invoking Print delegate will in-turn invoke PrintNumber method. In the same way, if the Print delegate variable is assigned to the PrintMoney method, then it will invoke the PrintMoney method.
+</p>
+<p>
+The following image illustrates the delegate.
+</p>
+<figure class="thumbnail center-block">
+<a href="./Delegate in C#_files/delegate.png" target="_blank">
+<img alt="delegate in C#" src="./Delegate in C#_files/delegate.png"></a>
+<figcaption class="caption">delegate in C#</figcaption>
+</figure>
+<h2>Invoking Delegate:</h2>
+<p>
+The delegate can be invoked like a method because it is a reference to a method. Invoking a delegate will in-turn invoke a method which id refered to. The delegate can be invoked by two ways: using () operator or using the Invoke() method of delegate as shown below.
+</p>
+<div class="panel panel-default code-panel">
+<div class="panel-heading">Example: Invoking a delegate</div>
+<div class="panel-body"><pre class="csharpcode"><code>
+<span class="userclass">Print</span> printDel = PrintNumber;
+printDel.Invoke(10000);
+
+<span class="rem">//or</span>
+printDel (10000);
+
+</code></pre> </div>
+</div>
+<samp>
+Number: 200 <br>
+Number: 200
+</samp>
+<h2>Delegate as a parameter:</h2>
+<p>
+A method can have a parameter of a delegate type and can invoke the delegate parameter.
+</p>
+<div class="panel panel-default code-panel">
+<div class="panel-heading">Example: Delegate Parameter</div>
+<div class="panel-body"><pre class="csharpcode"><code>
+<span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintHelper(<span class="userclass">Print</span> delegateFunc, <span class="kwrd">int</span> numToPrint)
+{
+    delegateFunc(numToPrint);
+}
+
+</code></pre> </div>
+</div>
+<p>
+In the above example, PrintHelper method has a delegate parameter of Print type and invokes it like a function:<code><i>delegateFunc(numToPrint)</i></code>.
+</p>
+<p>
+The following example shows how to use PrintHelper method that includes delegate type parameter.
+</p>
+<div class="panel panel-default code-panel">
+<div class="panel-heading">Example: Delegate parameter</div>
+<div class="panel-body"><pre class="csharpcode"><code>
+<span class="kwrd">class</span> <span class="userclass">Program</span>
+{
+    <span class="kwrd">public</span> <span class="kwrd">delegate</span> <span class="kwrd">void</span> Print(<span class="kwrd">int</span> <span class="kwrd">value</span>);
+
+
+    <span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
+    {
+        PrintHelper(PrintNumber, 10000);
+        PrintHelper(PrintMoney, 10000);
+    }
+
+    <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintHelper(<span class="userclass">Print</span> delegateFunc, <span class="kwrd">int</span> numToPrint)
+    {
+        delegateFunc(numToPrint);
+    }
+
+    <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintNumber(<span class="kwrd">int</span> num)
+    {
+        <span class="userclass">Console</span>.WriteLine(<span class="str">"Number: {0,-12:N0}"</span>,num);
+    }
+
+    <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintMoney(<span class="kwrd">int</span> money)
+    {
+        <span class="userclass">Console</span>.WriteLine(<span class="str">"Money: {0:C}"</span>, money);
+    }
+}
+</code></pre> </div>
+<div class="panel-footer"><a class="btn btn-primary" href="http://www.tutorialsteacher.com/codeeditor?cid=cs-x2KCj1" target="_blank" title="Try this example code yourself">Try it</a> </div>
+</div>
+<div class="outputLabel">
+Output:
+</div>
+<samp>
+Number: 10,000 <br>
+Money: $ 10,000.00
+</samp>
+<h2>Multicast delegate:</h2>
+<p>
+The delegate can points to multiple methods. A delegate that points multiple methods is called a multicast delegate. The "+" operator adds a function to the delegate object and the "-" operator removes an existing function from a delegate object.
+</p>
+<div class="panel panel-default code-panel">
+<div class="panel-heading">Example: Multicast delegate </div>
+<div class="panel-body"><pre class="csharpcode"><code>
+<span class="kwrd">public</span> <span class="kwrd">delegate</span> <span class="kwrd">void</span> Print(<span class="kwrd">int</span> <span class="kwrd">value</span>);
+
+<span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
+{       
+    <span class="userclass">Print</span> printDel = PrintNumber;
+    printDel += PrintHexadecimal;
+    printDel += PrintMoney;
+
+    printDel(100000);
+}
+<span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintNumber(<span class="kwrd">int</span> num)
+{
+    <span class="userclass">Console</span>.WriteLine(<span class="str">"Number: {0,-12:N0}"</span>,num);
+}
+
+<span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintMoney(<span class="kwrd">int</span> money)
+{
+    <span class="userclass">Console</span>.WriteLine(<span class="str">"Money: {0:C}"</span>, money);
+}
+
+<span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrintHexadecimal(<span class="kwrd">int</span> dec)
+{
+    <span class="userclass">Console</span>.WriteLine(<span class="str">"Hexadecimal: {0:X}"</span>, dec);
+}
+
+</code></pre> </div>
+<div class="panel-footer"><a class="btn btn-primary" href="http://www.tutorialsteacher.com/codeeditor?cid=cs-ctCJQo" target="_blank" title="Try this example code yourself">Try it</a> </div>
+</div>
+<div class="outputLabel">
+Output:
+</div>
+<samp>
+Number: 1,00,000 <br>
+Hexadecimal: 186A0 <br>
+Money: $ 1,00,000.00
+</samp>
+<p>
+As you can see in the above example, Print delegates becomes a multicast delegate because it points to three methods - PrintNumber, PrintMoney &amp; PrintHexadecimal. So invoking printDel will invoke all the methods sequentially.
+</p>
+<p>
+Delegate is also used with <a href="http://www.tutorialsteacher.com/csharp/csharp-event">Event</a>, <a href="http://www.tutorialsteacher.com/csharp/csharp-anonymous-method">Anonymous method</a>, <a href="http://www.tutorialsteacher.com/csharp/csharp-func-delegate">Func delegate</a>, <a href="http://www.tutorialsteacher.com/csharp/csharp-action-delegate">Action delegate</a>.
+</p>
+<h3>
+Further reading:
+</h3>
+<ul class="list">
+<li><a href="http://msdn.microsoft.com/en-US/library/ms173173(v=vs.80).aspx" target="_blank">When to use a delegate instead of an interface.</a></li>
+</ul>
+<div class="points">
+<div class="col-xs-2">
+<img src="./Delegate in C#_files/remember.png" alt="">
+</div>
+<div class="col-xs-10">
+<h3><span>Points to Remember :</span></h3>
+<ol>
+<li>Delegate is a function pointer. It is reference type data type.
+</li>
+<li>Syntax: <i>public delegate void &lt;function name&gt;(&lt;parameters&gt;)</i>
+</li>
+<li>A method that is going to assign to delegate must have same signature as delegate.
+</li>
+<li>Delegates can be invoke like a normal function or Invoke() method.
+</li>
+<li>
+Multiple methods can be assigned to the delegate using "+" operator. It is called multicast delegate.
+</li>
+</ol>
+</div>
+</div>
+<p>Learn about an event next.</p>
+</article>
+<div style="min-height:220px">
+<script async="" src="./Delegate in C#_files/adsbygoogle.js.download"></script>
+<ins class="adsbygoogle" style="display: block; text-align: center; height: 190px;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-7448309248176309" data-ad-slot="5182204144" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:190px;margin:0;padding:0;position:relative;visibility:visible;width:757px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:190px;margin:0;padding:0;position:relative;visibility:visible;width:757px;background-color:transparent;"><iframe width="757" height="190" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;width:757px;height:190px;" src="./Delegate in C#_files/saved_resource(1).html"></iframe></ins></ins></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<hr>
+<ul class="pager">
+<li class="next"> <a href="http://www.tutorialsteacher.com/csharp/csharp-event">Next <span>»</span></a></li>
+<li class="pervious"><a href="http://www.tutorialsteacher.com/csharp/custom-exception-csharp"><span>«</span> Previous</a></li>
+</ul>
+</div>
+<aside class="col-sm-3 right-panel hidden-xs">
+<div class="right-links-panel hidden-sm">
+<script type="text/javascript">
+        function _dmBootstrap(file) {
+            var _dma = document.createElement('script');
+            _dma.type = 'text/javascript';
+            _dma.async = true;
+            _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+        }
+        function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+        (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+    </script>
+<div data-type="ad" data-publisher="tutorialsteacher.com" data-format="300x250" data-zone="TT-DevMe-Squre2" data-tags="c#%20tutorials%2cjavascript%20tutorials%2casp.net%20mvc%20tutorials%2cjquery%20tutorials%2cnodejs%20tutorials%2cangularjs%20tutorials%2c%2clinq%20tutorials"><div id="div-gpt-ad-tutorialsteacher.com/TT-DevMe-Squre2-2" style="height: 250px; width: 300px; box-sizing: border-box; border: 0px; font-size: 0px;"><div id="google_ads_iframe_/6839/tutorialsteacher.com/TT-DevMe-Squre2_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/6839/tutorialsteacher.com/TT-DevMe-Squre2_0" title="3rd party ad content" name="google_ads_iframe_/6839/tutorialsteacher.com/TT-DevMe-Squre2_0" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;" src="./Delegate in C#_files/saved_resource(2).html"></iframe></div></div></div>
+</div>
+
+<div class="right-links-panel hidden-sm">
+<a href="http://entityframework-extensions.net/?z=tutorialsteacher" target="_blank" rel="nofollow" onclick="handleEFExtAdClick();">
+<img src="./Delegate in C#_files/ef-ext.jpg" style="border: 1px solid black"></a>
+<script>
+        function handleEFExtAdClick() {
+            ga('send', 'event', {
+                eventCategory: 'EF-Extension-Ad-Click',
+                eventAction: 'click',
+                eventLabel: event.target.href,
+                transport: 'beacon'
+            });
+        }
+    </script>
+</div>
+</aside>
+</div>
+<div class="row">
+<footer>
+<div class="footer-main">
+<div class="container">
+<div class="footer-main-wrapper">
+<div class="row">
+<div class="col-2">
+<div class="col-md-3 col-sm-6 col-xs-6 sd380">
+<div class="edugate-widget widget">
+ <div class="title-widget">TutorialsTeacher.com</div>
+<div class="content-widget">
+<p>TutorialsTeacher.com is optimized for learning web technologies step by step. Examples might be simplified to improve reading and basic understanding. While using this site, you agree to have read and accepted our terms of use and privacy policy. </p>
+<div class="info-list">
+<ul class="list-unstyled">
+<li><i class="fa fa-envelope-o"></i>feedback@tutorialsteacher.com</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-6 sd380">
+<div class="useful-link-widget widget">
+<div class="title-widget">Tutorials</div>
+<div class="content-widget">
+<div class="useful-link-list">
+<div class="row">
+<div class="col-md-6 col-sm-6 col-xs-6">
+<ul class="list-unstyled">
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/csharp/csharp-tutorials">C#</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/linq/linq-tutorials">LINQ</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials">ASP.NET MVC</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/ioc">IoC</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/core">ASP.NET Core</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.entityframeworktutorial.net/" target="_blank" rel="nofollow">Entity Framework</a></li>
+</ul>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-6">
+<ul class="list-unstyled">
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/javascript/javascript-tutorials">JavaScript</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/jquery/jquery-tutorials">jQuery</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/angularjs/angularjs-tutorials">AngularJS</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/nodejs/nodejs-tutorials">Node.js</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/d3js">D3.js</a></li>
+<li><i class="fa fa-angle-right"></i><a href="http://www.tutorialsteacher.com/sass">Sass</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="col-md-2 col-sm-4 col-xs-4 sd380">
+<div class="widget">
+<div class="title-widget">Share</div>
+<div class="content-widget">
+<div class="socials">
+<a href="javascript:void(0)" onclick="var sTop = window.screen.height/2-(218); var sLeft = window.screen.width/2-(313);window.open(&#39;http://www.facebook.com/sharer.php?u=&#39; + &#39;http://www.tutorialsteacher.com&#39;,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=626,height=456,top=&#39;+sTop+&#39;,left=&#39;+sLeft);return false;" class="facebook"><i class="fa fa-facebook"></i></a>
+<a href="javascript:void(0)" onclick="var sTop = window.screen.height/2-(218); var sLeft = window.screen.width/2-(313);window.open(&#39;https://plus.google.com/share?url=www.tutorialsteacher.com&#39; ,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=626,height=456,top=&#39;+sTop+&#39;,left=&#39;+sLeft);return false;" class="google"><i class="fa fa-google-plus"></i></a><a href="javascript:void(0)" onclick="var sTop = window.screen.height/2-(218); var sLeft = window.screen.width/2-(313);window.open(&#39;http://twitter.com/share?url=&#39; + &#39;http://www.tutorialsteacher.com&#39;,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=626,height=456,top=&#39;+sTop+&#39;,left=&#39;+sLeft);return false;" class="twitter"><i class="fa fa-twitter"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-8 col-xs-8 sd380">
+<div class="mailing-widget widget">
+<div class="title-widget">E-mail list</div>
+<div class="content-wiget">
+<p>Subscribe to TutorialsTeacher email list and get latest updates, tips &amp; tricks on C#, .Net, JavaScript, jQuery, AngularJS, Node.js to your inbox.</p>
+<form action="http://tutorialsteacher.us13.list-manage.com/subscribe/post-json?u=78cbe5cadd7cc1475359445ad&amp;id=d119ae6be2" method="post" id="subscribe-form" name="subscribe-form" class="validate" target="_blank" novalidate="">
+<div class="input-group">
+<input type="text" placeholder="Email address" class="form-control form-email-widget" name="MERGE0" id="MERGE0" size="25"><span class="input-group-btn"><input type="submit" value="Go" name="subscribe" id="mc-embedded-subscribe" class="btn btn-email"></span>
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display: none"></div>
+<div class="response" id="mce-success-response" style="display: none"></div>
+</div>
+
+<div style="position: absolute; left: -5000px;" aria-hidden="true">
+<input type="text" name="b_659e2cbd2829799e7dc94ae35_93dae2ea03" tabindex="-1" value="">
+</div>
+<div class="alert-success" id="successMsg"></div>
+<div class="alert-danger" id="failMsg"></div>
+<script data-cfasync="false" src="./Delegate in C#_files/email-decode.min.js.download"></script><script>
+                                            function submitSubscribeForm(s) {
+                                                $.ajax({
+                                                    type: "GET", url: s.attr("action"), data: s.serialize(), cache: !1, dataType: "jsonp", jsonp: "c", contentType: "application/json; charset=utf-8", error: function (s) { }, success: function (s) {
+                                                        if ("error" == s.result) {
+                                                            $("#successMsg").hide(), $("#failMsg").show();
+
+                                                            $("#failMsg").html(s.msg.split('-')[1] || s.msg);
+                                                        }
+                                                        else { $("#failMsg").hide(), $("#successMsg").show(); var e = s.msg; "success" != s.result ? s.msg && s.msg.indexOf("already subscribed") >= 0 && (e = "You're already subscribed. Thank you.") : e = "Thank you! You must confirm the subscription in your inbox.", $("#successMsg").html(e) }
+                                                    }
+                                                })
+                                            }
+                                            $(document).ready(function () { $("#subscribe-form").on("submit", function (s) { s.preventDefault(), submitSubscribeForm($("#subscribe-form")) }) });
+                                        </script>
+</form>
+<p>We respect your privacy.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hyperlink">
+<div class="pull-left hyper-left">
+<ul class="list-inline">
+<li><a href="http://www.tutorialsteacher.com/">HOME</a></li>
+<li><a href="http://www.tutorialsteacher.com/aboutus/privacy-policy">PRIVACY POLICY</a></li>
+<li><a href="http://www.tutorialsteacher.com/aboutus/terms-of-use">TERMS OF USE</a></li>
+<li><a href="http://www.tutorialsteacher.com/aboutus/advertise">ADVERTISE WITH US</a></li>
+</ul>
+</div>
+<div class="pull-right hyper-right">
+© 2018 TutorialsTeacher.com. All Rights Reserved.
+</div>
+</div>
+</div>
+</div>
+<div id="back-top"><a href="http://www.tutorialsteacher.com/csharp/csharp-delegates#top" class="hide"><i class="fa fa-angle-double-up"></i></a></div>
+</footer>
+</div>
+<script type="text/javascript">
+        $(document).ready(function () {
+            var actionName = 'csharp_delegates'.replace(/_/g, "-");
+            actionName = actionName.replace("asp-net", "asp.net");
+
+            var controllerName = 'csharp'.replace(/_/g, "-");
+
+              if ($('#menu li a[href="/' + controllerName + '/' + actionName + '"]').length == 0)
+                  $('#menu li a[href="/' + controllerName + '"]').addClass('active')
+              else
+                  $('#menu li a[href="/' + controllerName + '/' + actionName + '"]').addClass('active')
+            //top menu active menu 
+              $('#topMenu > ul li a[href *="/' + controllerName + '/"]').parent().addClass('active')
+            //$('#bs-example-navbar-collapse-1 > ul li a[href *="/' + controllerName + '"]').parent().addClass('active')
+
+        });
+    </script>
+
+
+</body></html>

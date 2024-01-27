@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<!-- saved from url=(0112)https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods -->
+<html class="js hasSidebar hasPageActions hasBreadcrumb  noTouch" lang="en-us" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta property="og:title" content="Partial Classes and Methods (C# Programming Guide)">
+	<meta property="og:image" content="https://docs.microsoft.com/_themes/docs.theme/master/en-us/_themes/images/microsoft-header.png">
+
+
+		<meta name="author" content="BillWagner">
+<meta name="ms.author" content="wiwagn">
+<meta name="manager" content="wpickett">
+<meta name="breadcrumb_path" content="/dotnet/breadcrumb/toc.json">
+<meta name="apiPlatform" content="dotnet">
+<meta name="uhfHeaderId" content="MSDocsHeader-DotNet">
+<meta name="ms.assetid" content="804cecb7-62db-4f97-a99f-60975bd59fa1">
+<meta name="caps.latest.revision" content="35">
+<meta name="ms.topic" content="article">
+<meta name="ms.date" content="07/20/2015">
+<meta name="ms.technology" content="devlang-csharp">
+<meta name="ms.prod" content=".net">
+<meta name="search.ms_sitename" content="Docs">
+<meta name="search.ms_docsetname" content="core-docs">
+<meta name="locale" content="en-us">
+<meta name="site_name" content="Docs">
+<meta name="search.ms_product" content="VS">
+<meta name="depot_name" content="VS.core-docs">
+<meta name="updated_at" content="2017-12-04 12:18 PM">
+<meta name="gitcommit" content="https://github.com/dotnet/docs/blob/5e7112313e986e16771e957ab05e643a21abd571/docs/csharp/programming-guide/classes-and-structs/partial-classes-and-methods.md">
+<meta name="original_content_git_url" content="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/partial-classes-and-methods.md">
+<meta name="document_id" content="450a248b-ab3f-ac3f-d3a5-b1e74b3355ba">
+<meta name="document_version_independent_id" content="5e05ac12-7d29-d144-a49a-e54765343c20">
+<meta name="pagetype" content="Conceptual">
+<meta name="toc_rel" content="toc.json">
+<meta name="pdf_url_template" content="https://docs.microsoft.com/pdfstore/en-us/VS.core-docs/{branchName}{pdfName}">
+<meta name="word_count" content="1337">
+
+	<meta name="scope" content=".NET">
+<link href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods" rel="canonical">
+	<title>Partial Classes and Methods (C# Programming Guide) | Microsoft Docs</title>
+
+	<link rel="stylesheet" href="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/6279661f360a6a254204.site.css">
+	<link rel="stylesheet" href="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/6279661f360a6a254204.conceptual.css">
+
+	<script async="" src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/analytics.js.download"></script><script>
+	var msDocs = {
+		data:{
+			contentLocale: 'en-us',
+			contentDir: 'ltr',
+			userLocale: 'en-us',
+			userDir: 'ltr',
+			pathToTheme: '/_themes/docs.theme/master/en-us/_themes/',
+			pageTemplate: 'Conceptual',
+			brand: '',
+			hasComments: true,
+			feedbackSystem: 'LiveFyre',
+			feedbackGitHubRepo: '',
+			feedbackGitHubRepoIsPrivate: false,
+			feedbackProductUrl: '',
+			forceVersionPicker:false		},
+		functions:{},
+		settings:{
+			extendBreadcrumb: false
+		}
+	};
+	if (!('Promise' in window && 'resolve' in window.Promise && 'reject' in window.Promise && 'all' in window.Promise && 'race' in window.Promise)) {
+		document.write('<script src="/_themes/docs.theme/master/en-us/_themes/global/js/bluebird.min.js"><\/script>');
+	}
+	if (typeof fetch !== 'function') {
+		document.write('<script src="/_themes/docs.theme/master/en-us/_themes/global/js/fetch.min.js"><\/script>');
+	}
+	</script>
+
+	<!--[if lt IE 9]>
+		<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
+		<script src="/_themes/docs.theme/master/en-us/_themes/global/js/polyfills/all.js"></script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/jquery-2.2.4.min.js.download"></script>
+	<!--<![endif]-->
+	<script>window.jQuery || document.write('<script src="/_themes/docs.theme/master/en-us/_themes/global/js/jquery/jquery-1.12.4.min.js"><\/script>')</script>
+	<script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/global.min.js.download"></script><style></style><script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/jsll-4.js.download" async="" defer=""></script>
+<link rel="stylesheet" href="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/9c-3df1cf"><script type="text/javascript" charset="utf-8" async="" src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/2.6279661f360a6a254204.2.js.download"></script><script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/8c-9ddf90" defer=""></script><script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/meversion" defer=""></script><meta name="rating.locale" content="en-us"><script async="" src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/t.js.download"></script><style>.lf { display: none!important; }</style><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/_chrome/commenting/master/open-commenting.ui.v1.0.2-7-g1b78816.master.min.js" src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/open-commenting.ui.v1.0.2-7-g1b78816.master.min.js.download"></script></head>
+
+<body lang="en-us" dir="ltr" style="overflow-y: auto;">
+<div class="header-holder">
+		<div id="headerAreaHolder" ms.pgarea="header" data-bi-name="header">    <section id="headerArea" data-m="{&quot;cN&quot;:&quot;headerArea&quot;,&quot;cT&quot;:&quot;Area_coreuiArea&quot;,&quot;id&quot;:&quot;a1Body&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;Body&quot;}">
+                    <div id="headerRegion" data-region-key="headerregion" data-m="{&quot;cN&quot;:&quot;headerRegion&quot;,&quot;cT&quot;:&quot;Region_coreui-region&quot;,&quot;id&quot;:&quot;r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;a1&quot;}">
+
+    <div id="headerUniversalHeader" data-m="{&quot;cN&quot;:&quot;headerUniversalHeader&quot;,&quot;cT&quot;:&quot;Module_coreui-universalheader&quot;,&quot;id&quot;:&quot;m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;r1a1&quot;}" data-module-id="Category|headerRegion|headerRegion|headerUniversalHeader|coreui-universalheader">
+        
+
+
+
+
+
+
+        <a data-m="{&quot;pid&quot;:&quot;h:de2fb0b1&quot;,&quot;id&quot;:&quot;n1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;m1r1a1&quot;}" class="m-skip-to-main" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#main" tabindex="0" style="z-index:800" ms.title="Skip to content">Skip to main content</a>
+
+<header role="banner" class="c-uhfh context-uhf js" itemscope="itemscope" data-header-footprint="en-us/MSDocs/MSDocsHeader-DotNet" itemtype="http://schema.org/Organization">
+    <div class="theme-light js-global-head f-closed " ms.pgarea="Universal Header">
+        <div class="c-uhfh-gcontainer">
+            <button class="c-action-trigger c-glyph glyph-global-nav-button" aria-label="Header navigation menu" aria-expanded="false" ms.title="Mobile menu button"></button>
+            <button class="c-action-trigger c-glyph glyph-arrow-htmllegacy" aria-label="Close search" aria-expanded="false" ms.title="Close Search"></button>
+                    <a data-m="{&quot;pid&quot;:&quot;h:32f2fa12&quot;,&quot;id&quot;:&quot;n2m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;m1r1a1&quot;}" id="uhfLogo" class="c-logo" itemprop="url" href="https://www.microsoft.com/" aria-label="Microsoft" ms.cmpgrp="GlobalNav_Logo">
+                        <img itemprop="logo" itemscope="itemscope" class="c-image" alt="Microsoft" src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/microsoft-gray.png">
+                        <span>Microsoft</span>
+                    </a>
+            <div class="f-mobile-title">
+                <button class="c-action-trigger c-glyph glyph-chevron-left" aria-label="See more menu options" ms.title="Mobile back button"></button>
+                <span data-global-title="Microsoft home" class="js-mobile-title">.NET</span>
+                <button class="c-action-trigger c-glyph glyph-chevron-right" aria-label="See more menu options" ms.title="Mobile forward button"></button>
+            </div>
+
+            
+            <button class="c-action-trigger c-glyph glyph-chevron-left js-primary-paddle" ms.title="Previous" aria-label="Show previous" tabindex="-1" style="display: none;"></button>
+            
+                    <nav id="uhf-g-nav" class="c-uhfh-gnav" aria-labelledby="uhfLogo" role="navigation" ms.cmpgrp="nav">
+            <ul class="js-paddle-items"><li style="transition: margin 0.667s cubic-bezier(0.16, 1, 0.29, 0.99);">
+                            <div class="c-uhf-menu js-nav-menu">
+
+                                <button id="Technologies-navigation" aria-expanded="false" aria-haspopup="true" ms.title="Technologies" ms.interactiontype="14" style="white-space:nowrap">Technologies</button>
+                                <ul class="" aria-labelledby="Technologies-navigation" aria-hidden="true" ms.cmpnm="Technologies">
+    <li ms.cmpnm="Technologies_.NET">
+        <a id="shellmenu_1" class="js-subm-uhf-nav-link" href="https://www.dot.net/" ms.title="Technologies_.NET">.NET</a>
+        
+    </li>
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Windows">
+
+        <button id="Windows-navigation" aria-expanded="false" ms.title="Windows" ms.interactiontype="14">Windows</button>
+        <ul aria-labelledby="Windows-navigation" aria-hidden="true">
+    <li ms.cmpnm="Windows_Apps">
+        <a id="shellmenu_3" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/windows" ms.title="Windows_Apps">Apps</a>
+        
+    </li>
+    <li ms.cmpnm="Windows_InternetofThings">
+        <a id="shellmenu_4" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/windows/iot" ms.title="Windows_InternetofThings">Internet of Things</a>
+        
+    </li>
+    <li ms.cmpnm="Windows_Holographic">
+        <a id="shellmenu_5" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/windows/mixed-reality" ms.title="Windows_Holographic">Mixed Reality</a>
+        
+    </li>
+    <li ms.cmpnm="Windows_MicrosoftEdge">
+        <a id="shellmenu_6" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/microsoft-edge" ms.title="Windows_MicrosoftEdge">Microsoft Edge</a>
+        
+    </li>
+    <li ms.cmpnm="Windows_Hardware ">
+        <a id="shellmenu_7" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/windows/hardware" ms.title="Windows_Hardware ">Hardware </a>
+        
+    </li>
+    <li ms.cmpnm="Windows_WindowsTechCenter">
+        <a id="shellmenu_8" class="js-subm-uhf-nav-link" href="https://technet.microsoft.com/windows" ms.title="Windows_WindowsTechCenter">IT Center</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="MicrosoftAzure">
+
+        <button id="MicrosoftAzure-navigation" aria-expanded="false" ms.title="MicrosoftAzure" ms.interactiontype="14">Microsoft Azure </button>
+        <ul aria-labelledby="MicrosoftAzure-navigation" aria-hidden="true">
+    <li ms.cmpnm="MicrosoftAzure_WhatisAzure">
+        <a id="shellmenu_10" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/overview/what-is-azure/" ms.title="MicrosoftAzure_WhatisAzure">What is Azure </a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftAzure_Products">
+        <a id="shellmenu_11" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/services/" ms.title="MicrosoftAzure_Products">Products</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftAzure_Solutions">
+        <a id="shellmenu_12" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/solutions/?v=4" ms.title="MicrosoftAzure_Solutions">Solutions</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftAzure_Pricing">
+        <a id="shellmenu_13" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/pricing/" ms.title="MicrosoftAzure_Pricing">Pricing</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftAzure_CreateaFreeAccount">
+        <a id="shellmenu_14" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/free" ms.title="MicrosoftAzure_CreateaFreeAccount">Create a free account</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="MicrosoftVisualStudio">
+
+        <button id="VisualStudio-navigation" aria-expanded="false" ms.title="MicrosoftVisualStudio" ms.interactiontype="14">Visual Studio </button>
+        <ul aria-labelledby="VisualStudio-navigation" aria-hidden="true">
+    <li ms.cmpnm="MicrosoftVisualStudio_VisualStudio">
+        <a id="shellmenu_16" class="js-subm-uhf-nav-link" href="https://www.visualstudio.com/" ms.title="MicrosoftVisualStudio_VisualStudio">Visual Studio</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftVisualStudio_VisualStudioIDE">
+        <a id="shellmenu_17" class="js-subm-uhf-nav-link" href="https://www.visualstudio.com/vs/" ms.title="MicrosoftVisualStudio_VisualStudioIDE">Visual Studio IDE</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftVisualStudio_VisualStudioTeamServices">
+        <a id="shellmenu_18" class="js-subm-uhf-nav-link" href="https://www.visualstudio.com/team-services/" ms.title="MicrosoftVisualStudio_VisualStudioTeamServices">Visual Studio Team Services</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftVisualStudio_VisualStudioCode">
+        <a id="shellmenu_19" class="js-subm-uhf-nav-link" href="https://code.visualstudio.com/" ms.title="MicrosoftVisualStudio_VisualStudioCode">Visual Studio Code</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftVisualStudio_Xamarin">
+        <a id="shellmenu_20" class="js-subm-uhf-nav-link" href="https://www.xamarin.com/" ms.title="MicrosoftVisualStudio_Xamarin">Xamarin</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftVisualStudio_VisualStudioDevEssentials">
+        <a id="shellmenu_21" class="js-subm-uhf-nav-link" href="https://www.visualstudio.com/dev-essentials/" ms.title="MicrosoftVisualStudio_VisualStudioDevEssentials">Visual Studio Dev Essentials</a>
+        
+    </li>
+    <li ms.cmpnm="MicrosoftVisualStudio_Subscriptions">
+        <a id="shellmenu_22" class="js-subm-uhf-nav-link" href="https://www.visualstudio.com/subscriptions/" ms.title="MicrosoftVisualStudio_Subscriptions">Subscriptions</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Office">
+
+        <button id="Office-navigation" aria-expanded="false" ms.title="Office" ms.interactiontype="14">Office</button>
+        <ul aria-labelledby="Office-navigation" aria-hidden="true">
+    <li ms.cmpnm="Office_OfficeDevCenter">
+        <a id="shellmenu_24" class="js-subm-uhf-nav-link" href="https://dev.office.com/" ms.title="Office_OfficeDevCenter">Office Dev Center</a>
+        
+    </li>
+    <li ms.cmpnm="Office_Office365forITpros">
+        <a id="shellmenu_25" class="js-subm-uhf-nav-link" href="https://technet.microsoft.com/en-us/office/dn788774" ms.title="Office_Office365forITpros">Office 365 for IT pros</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li ms.cmpnm="Microsoft Graph">
+        <a id="shellmenu_26" class="js-subm-uhf-nav-link" href="https://graph.microsoft.io/en-us/docs" ms.title="Microsoft Graph">Microsoft Graph</a>
+        
+    </li>
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Services ">
+
+        <button id="Services-navigation" aria-expanded="false" ms.title="Services " ms.interactiontype="14">Services </button>
+        <ul aria-labelledby="Services-navigation" aria-hidden="true">
+    <li ms.cmpnm="Services_OfficeDevCenter">
+        <a id="shellmenu_28" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/store" ms.title="Services_OfficeDevCenter">Store</a>
+        
+    </li>
+    <li ms.cmpnm="Services_Cortana">
+        <a id="shellmenu_29" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/cortana" ms.title="Services_Cortana">Cortana</a>
+        
+    </li>
+    <li ms.cmpnm="Services_Bing">
+        <a id="shellmenu_30" class="js-subm-uhf-nav-link" href="https://bing.com/dev/dev-center" ms.title="Services_Bing">Bing</a>
+        
+    </li>
+    <li ms.cmpnm="Services_ApplicationInsights">
+        <a id="shellmenu_31" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/services/application-insights" ms.title="Services_ApplicationInsights">Application Insights</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+                                    
+                                    
+                                </ul>
+                            </div>
+                        </li><li>
+                            <div class="c-uhf-menu js-nav-menu">
+
+                                <button id="Documentation-navigation" aria-expanded="false" aria-haspopup="true" ms.title="Documentation" ms.interactiontype="14" style="white-space:nowrap">Documentation</button>
+                                <ul class="" aria-labelledby="Documentation-navigation" aria-hidden="true" ms.cmpnm="Documentation">
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Build_DeveloperCenters">
+
+        <button id="Platforms-navigation" aria-expanded="false" ms.title="Build_DeveloperCenters" ms.interactiontype="14">Platforms</button>
+        <ul aria-labelledby="Platforms-navigation" aria-hidden="true">
+    <li ms.cmpnm="Documentation_Platforms_.NET">
+        <a id="shellmenu_34" class="js-subm-uhf-nav-link" href="https://www.dot.net/" ms.title="Documentation_Platforms_.NET">.NET</a>
+        
+    </li>
+    <li ms.cmpnm="Build_DeveloperCenters_MicrosoftAzure">
+        <a id="shellmenu_35" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/documentation/" ms.title="Build_DeveloperCenters_MicrosoftAzure">Microsoft Azure</a>
+        
+    </li>
+    <li ms.cmpnm="Build_DeveloperCenters_MicrosoftGraph">
+        <a id="shellmenu_36" class="js-subm-uhf-nav-link" href="https://graph.microsoft.io/en-us/docs" ms.title="Build_DeveloperCenters_MicrosoftGraph">Microsoft Graph</a>
+        
+    </li>
+    <li ms.cmpnm="Build_DeveloperCenters_VisualStudio">
+        <a id="shellmenu_37" class="js-subm-uhf-nav-link" href="https://www.visualstudio.com/vs/getting-started/" ms.title="Build_DeveloperCenters_VisualStudio">Visual Studio</a>
+        
+    </li>
+    <li ms.cmpnm="Build_DeveloperCenters_VisualStudioTeamServices">
+        <a id="shellmenu_38" class="js-subm-uhf-nav-link" href="https://docs.microsoft.com/vsts/index" ms.title="Build_DeveloperCenters_VisualStudioTeamServices">Visual Studio Team Services</a>
+        
+    </li>
+    <li ms.cmpnm="Build_DeveloperCenters_Windows">
+        <a id="shellmenu_39" class="js-subm-uhf-nav-link" href="https://docs.microsoft.com/en-us/windows" ms.title="Build_DeveloperCenters_Windows">Windows</a>
+        
+    </li>
+    <li ms.cmpnm="Build_DeveloperCenters_Office">
+        <a id="shellmenu_40" class="js-subm-uhf-nav-link" href="https://dev.office.com/docs" ms.title="Build_DeveloperCenters_Office">Office</a>
+        
+    </li>
+    <li ms.cmpnm="Build_DeveloperCenters_AllDeveloperCenters">
+        <a id="shellmenu_41" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/" ms.title="Build_DeveloperCenters_AllDeveloperCenters">All Developer Centers</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li ms.cmpnm="Learn_TechNet">
+        <a id="shellmenu_42" class="js-subm-uhf-nav-link" href="https://technet.microsoft.com/" ms.title="Learn_TechNet">TechNet</a>
+        
+    </li>
+    <li ms.cmpnm="Learn_MicrosoftDeveloperNetwork">
+        <a id="shellmenu_43" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/" ms.title="Learn_MicrosoftDeveloperNetwork">Microsoft Developer Network</a>
+        
+    </li>
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Build_TechCenters">
+
+        <button id="ITTechCenters-navigation" aria-expanded="false" ms.title="Build_TechCenters" ms.interactiontype="14">IT TechCenters</button>
+        <ul aria-labelledby="ITTechCenters-navigation" aria-hidden="true">
+    <li ms.cmpnm="TechCenter_WindowsTechCenter">
+        <a id="shellmenu_45" class="js-subm-uhf-nav-link" href="https://technet.microsoft.com/windows" ms.title="TechCenter_WindowsTechCenter">Windows IT Center</a>
+        
+    </li>
+    <li ms.cmpnm="TechCenter_Office365forITpros">
+        <a id="shellmenu_46" class="js-subm-uhf-nav-link" href="https://technet.microsoft.com/en-us/office/dn788774" ms.title="TechCenter_Office365forITpros">Office 365 for IT Pros</a>
+        
+    </li>
+    <li ms.cmpnm="TechCenter_AllTechcenters">
+        <a id="shellmenu_47" class="js-subm-uhf-nav-link" href="https://technet.microsoft.com/en-us/bb421517.aspx?wt.svl=more_centers_link" ms.title="TechCenter_AllTechcenters">All IT TechCenters</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Build_Downloads">
+
+        <button id="Downloads-navigation" aria-expanded="false" ms.title="Build_Downloads" ms.interactiontype="14">Downloads</button>
+        <ul aria-labelledby="Downloads-navigation" aria-hidden="true">
+    <li ms.cmpnm="Build_Downloads_MicrosoftDownloadCenter">
+        <a id="shellmenu_49" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/download/developer-tools.aspx" ms.title="Build_Downloads_MicrosoftDownloadCenter">Microsoft Download Center</a>
+        
+    </li>
+    <li ms.cmpnm="Build_Downloads_Microsoft Azure">
+        <a id="shellmenu_50" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/downloads/" ms.title="Build_Downloads_Microsoft Azure">Microsoft Azure</a>
+        
+    </li>
+    <li ms.cmpnm="Build_Downloads_VisualStudio">
+        <a id="shellmenu_51" class="js-subm-uhf-nav-link" href="https://www.visualstudio.com/downloads/" ms.title="Build_Downloads_VisualStudio">Visual Studio</a>
+        
+    </li>
+    <li ms.cmpnm="Build_Downloads_SDKS">
+        <a id="shellmenu_52" class="js-subm-uhf-nav-link" href="https://msdn.microsoft.com/en-us/microsoft-sdks-msdn" ms.title="Build_Downloads_SDKS">SDKs</a>
+        
+    </li>
+    <li ms.cmpnm="Build_Downloads_Windows">
+        <a id="shellmenu_53" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/windows/downloads" ms.title="Build_Downloads_Windows">Windows</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Build_Samples">
+
+        <button id="Codesamples-navigation" aria-expanded="false" ms.title="Build_Samples" ms.interactiontype="14">Code samples</button>
+        <ul aria-labelledby="Codesamples-navigation" aria-hidden="true">
+    <li ms.cmpnm="CodeSamples_Office">
+        <a id="shellmenu_55" class="js-subm-uhf-nav-link" href="https://dev.office.com/code-samples" ms.title="CodeSamples_Office">Office</a>
+        
+    </li>
+    <li ms.cmpnm="CodeSamples_MicrosoftGraph">
+        <a id="shellmenu_56" class="js-subm-uhf-nav-link" href="https://graph.microsoft.io/en-us/code-samples-and-sdks" ms.title="CodeSamples_MicrosoftGraph">Microsoft Graph</a>
+        
+    </li>
+    <li ms.cmpnm="CodeSamples_MSDN">
+        <a id="shellmenu_57" class="js-subm-uhf-nav-link" href="https://code.msdn.microsoft.com/" ms.title="CodeSamples_MSDN">MSDN</a>
+        
+    </li>
+    <li ms.cmpnm="CodeSamples_Azure">
+        <a id="shellmenu_58" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/resources/samples/" ms.title="CodeSamples_Azure">Azure</a>
+        
+    </li>
+    <li ms.cmpnm="CodeSamples_Windows">
+        <a id="shellmenu_59" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/windows/samples" ms.title="CodeSamples_Windows">Windows</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li ms.cmpnm="documentation_powershell_scripts">
+        <a id="shellmenu_60" class="js-subm-uhf-nav-link" href="https://technet.microsoft.com/scriptcenter" ms.title="documentation_powershell_scripts">PowerShell scripts</a>
+        
+    </li>
+                                    
+                                    
+                                </ul>
+                            </div>
+                        </li><li>
+                            <div class="c-uhf-menu js-nav-menu">
+
+                                <button id="Resources-navigation" aria-expanded="false" aria-haspopup="true" ms.title="Resources " ms.interactiontype="14" style="white-space:nowrap">Resources</button>
+                                <ul class="" aria-labelledby="Resources-navigation" aria-hidden="true" ms.cmpnm="Resources ">
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Connect_Blogs">
+
+        <button id="Blogs-navigation" aria-expanded="false" ms.title="Connect_Blogs" ms.interactiontype="14">Blogs</button>
+        <ul aria-labelledby="Blogs-navigation" aria-hidden="true">
+    <li ms.cmpnm="Connect_Blogs_MicrosoftAzure">
+        <a id="shellmenu_63" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/blog/" ms.title="Connect_Blogs_MicrosoftAzure">Microsoft Azure</a>
+        
+    </li>
+    <li ms.cmpnm="Connect_Blogs_VisualStudio">
+        <a id="shellmenu_64" class="js-subm-uhf-nav-link" href="https://blogs.msdn.microsoft.com/visualstudio/" ms.title="Connect_Blogs_VisualStudio">Visual Studio</a>
+        
+    </li>
+    <li ms.cmpnm="Connect_Blogs_VisualStudioTeamServices">
+        <a id="shellmenu_65" class="js-subm-uhf-nav-link" href="https://blogs.msdn.microsoft.com/visualstudioalm/" ms.title="Connect_Blogs_VisualStudioTeamServices">Visual Studio Team Services </a>
+        
+    </li>
+    <li ms.cmpnm="Connect_Blogs_DevloperTools">
+        <a id="shellmenu_66" class="js-subm-uhf-nav-link" href="https://blogs.msdn.microsoft.com/developer-tools/" ms.title="Connect_Blogs_DevloperTools">Developer tools</a>
+        
+    </li>
+    <li ms.cmpnm="Connect_Blogs_OfficeDevBlog">
+        <a id="shellmenu_67" class="js-subm-uhf-nav-link" href="https://dev.office.com/blogs" ms.title="Connect_Blogs_OfficeDevBlog">Office Dev Blog</a>
+        
+    </li>
+    <li ms.cmpnm="Connect_Blogs_ServerandManagement">
+        <a id="shellmenu_68" class="js-subm-uhf-nav-link" href="https://blogs.technet.microsoft.com/server-management/" ms.title="Connect_Blogs_ServerandManagement">Server &amp; management</a>
+        
+    </li>
+    <li ms.cmpnm="Connect_Blogs_Windows">
+        <a id="shellmenu_69" class="js-subm-uhf-nav-link" href="https://blogs.windows.com/buildingapps/" ms.title="Connect_Blogs_Windows">Windows</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Resources_CommunityandForums">
+
+        <button id="Community&amp;Forums-navigation" aria-expanded="false" ms.title="Resources_CommunityandForums" ms.interactiontype="14">Community &amp; Forums</button>
+        <ul aria-labelledby="Community&amp;Forums-navigation" aria-hidden="true">
+    <li ms.cmpnm="CommunityandForums_Developers">
+        <a id="shellmenu_71" class="js-subm-uhf-nav-link" href="https://social.msdn.microsoft.com/Forums/en-US/home" ms.title="CommunityandForums_Developers">Developers</a>
+        
+    </li>
+    <li ms.cmpnm="CommunityandForums_Technet">
+        <a id="shellmenu_72" class="js-subm-uhf-nav-link" href="https://social.technet.microsoft.com/Forums/en-US/home" ms.title="CommunityandForums_Technet">TechNet</a>
+        
+    </li>
+    <li ms.cmpnm="CommunityandForums_MicrosoftTechCommunity">
+        <a id="shellmenu_73" class="js-subm-uhf-nav-link" href="https://techcommunity.microsoft.com/" ms.title="CommunityandForums_MicrosoftTechCommunity">Microsoft Tech Community</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Connect_CommunityandForums">
+
+        <button id="Subscriptions-navigation" aria-expanded="false" ms.title="Connect_CommunityandForums" ms.interactiontype="14">Subscriptions</button>
+        <ul aria-labelledby="Subscriptions-navigation" aria-hidden="true">
+    <li ms.cmpnm="Subscriptions_VisualStudioMSDNSubscriptions">
+        <a id="shellmenu_75" class="js-subm-uhf-nav-link" href="https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~UHF&amp;campaign=o~msft~UHF" ms.title="Subscriptions_VisualStudioMSDNSubscriptions">Visual Studio (MSDN) subscriptions</a>
+        
+    </li>
+    <li ms.cmpnm="Subscriptions_ITProCloudEssentials">
+        <a id="shellmenu_76" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/cloudessentials" ms.title="Subscriptions_ITProCloudEssentials">Microsoft Cloud Essentials</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm="Resources_Training">
+
+        <button id="Training-navigation" aria-expanded="false" ms.title="Resources_Training" ms.interactiontype="14">Training</button>
+        <ul aria-labelledby="Training-navigation" aria-hidden="true">
+    <li ms.cmpnm="Training_MicrosoftVirtualAcademy">
+        <a id="shellmenu_78" class="js-subm-uhf-nav-link" href="https://mva.microsoft.com/" ms.title="Training_MicrosoftVirtualAcademy">Microsoft Virtual Academy </a>
+        
+    </li>
+    <li ms.cmpnm="Training_ITProCareerCenter">
+        <a id="shellmenu_79" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/itprocareercenter" ms.title="Training_ITProCareerCenter">IT Pro Career Center</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li ms.cmpnm="Resources_MicrosoftEvaluationCenter">
+        <a id="shellmenu_80" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/evalcenter/" ms.title="Resources_MicrosoftEvaluationCenter">Microsoft Evaluation Center</a>
+        
+    </li>
+    <li ms.cmpnm="Connect_Channel9">
+        <a id="shellmenu_81" class="js-subm-uhf-nav-link" href="https://channel9.msdn.com/" ms.title="Connect_Channel9">Channel 9</a>
+        
+    </li>
+                                    
+                                    
+                                </ul>
+                            </div>
+                        </li>            </ul>
+            
+        </nav>
+
+            
+            <button class="c-action-trigger c-glyph glyph-chevron-right js-secondary-paddle" ms.title="Next" aria-label="Show next" tabindex="-1" style="display: none;"></button>
+
+                <div class="c-uhfh-actions" ms.cmpgrp="Header actions">
+                            <form class="c-search" autocomplete="off" id="searchForm" name="searchForm" role="search" action="https://docs.microsoft.com/en-us/search/index" method="GET" data-seautosuggest="{&quot;queryParams&quot;:{&quot;market&quot;:&quot;en-us&quot;,&quot;clientId&quot;:&quot;7F27B536-CF6B-4C65-8638-A0F8CBDFCA65&quot;,&quot;sources&quot;:&quot;Microsoft-Terms,Iris-Products,DCatAll-Products&quot;,&quot;counts&quot;:&quot;5,1,5&quot;},&quot;familyNames&quot;:{&quot;Apps&quot;:&quot;App&quot;,&quot;Books&quot;:&quot;Book&quot;,&quot;Bundles&quot;:&quot;Bundle&quot;,&quot;Devices&quot;:&quot;Device&quot;,&quot;Fees&quot;:&quot;Fee&quot;,&quot;Games&quot;:&quot;Game&quot;,&quot;MusicAlbums&quot;:&quot;Album&quot;,&quot;MusicTracks&quot;:&quot;Song&quot;,&quot;MusicVideos&quot;:&quot;Video&quot;,&quot;MusicArtists&quot;:&quot;Artist&quot;,&quot;OperatingSystem&quot;:&quot;Operating System&quot;,&quot;Software&quot;:&quot;Software&quot;,&quot;Movies&quot;:&quot;Movie&quot;,&quot;TV&quot;:&quot;TV&quot;,&quot;CSV&quot;:&quot;Gift Card&quot;,&quot;VideoActor&quot;:&quot;Actor&quot;}}" data-seautosuggestapi="https://www.microsoft.com/services/api/v3/suggest" aria-expanded="false">
+            <input data-m="{&quot;cN&quot;:&quot;cli_shellHeaderSearchInput&quot;,&quot;pid&quot;:&quot;search&quot;,&quot;id&quot;:&quot;nn3m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;m1r1a1&quot;}" id="cli_shellHeaderSearchInput" aria-label="Search" role="combobox" aria-autocomplete="list" aria-controls="universal-header-search-auto-suggest-transparent" aria-owns="universal-header-search-auto-suggest-ul" type="search" name="search" placeholder="Search" ms.title="SearchBox" style="padding-left: 64px;"><div class="x-screen-reader" aria-live="assertive"></div>
+            <button id="search" aria-label="Search" class="c-glyph" ms.title="Search" data-bi-dnt="true"></button>
+            <div class="m-auto-suggest" id="universal-header-search-auto-suggest-transparent" role="group">
+                <ul class="c-menu" id="universal-header-search-auto-suggest-ul" aria-hidden="true" data-bi-dnt="true" data-js-auto-suggest-position="default" role="listbox" data-tel="wedcs" ms.cmpgrp="search suggestions"></ul>
+                <ul class="c-menu f-auto-suggest-no-results" aria-hidden="true" data-js-auto-suggest-postion="default" data-js-auto-suggest-position="default" tabindex="0">
+                    <li class="c-menu-item"> <span tabindex="-1">No results</span></li>
+                </ul>
+            </div>
+            
+        <a class="searchScope" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#" role="button" title="Search filter is &quot;.NET&quot;. Tap to remove." style="">.NET</a><input name="scope" hidden=""></form>
+
+                    
+                    
+                    
+                    
+                </div>
+        </div>
+        
+        
+    </div>
+            <div class="theme-dark brand-purple js-cat-head" itemprop="brand" itemscope="itemscope" itemtype="http://schema.org/Brand" ms.cmpgrp="UHF category nav">
+
+<div>
+        <a id="uhfCatLogo" class="c-logo" href="https://docs.microsoft.com/dotnet" aria-label=".NET" itemprop="url" ms.title=".NET">
+                <span>.NET</span>
+        </a>
+    
+    <button class="c-action-trigger c-glyph glyph-chevron-left js-primary-paddle" aria-label="Scroll left" title="Scroll left" ms.title="Previous" tabindex="-1" style="display: none;"></button>
+    
+    <button class="c-action-trigger c-glyph glyph-chevron-right js-secondary-paddle" aria-label="Scroll right" title="Scroll right" ms.title="Next" tabindex="-1" style="display: none;"></button>
+            <nav id="uhf-c-nav" role="navigation" aria-labelledby="uhfCatLogo" class="js-paddle-items">
+
+<a id="shellmenu_82" class="c-uhf-nav-link" href="https://docs.microsoft.com/dotnet/api/" ms.title="APIs" style="transition: margin 0.667s cubic-bezier(0.16, 1, 0.29, 0.99);">APIs</a><a id=".NET Core" class="c-uhf-nav-link" href="https://docs.microsoft.com/dotnet/articles/core" ms.title=".NET Core">.NET Core</a><a id=".NET Framework" class="c-uhf-nav-link" href="https://docs.microsoft.com/dotnet/articles/framework" ms.title=".NET Framework">.NET Framework</a><a id="ASP.NET" class="c-uhf-nav-link" href="https://docs.microsoft.com/aspnet" ms.title="ASP.NET">ASP.NET</a><a id="Xamarin" class="c-uhf-nav-link" href="https://developer.xamarin.com/guides/" ms.title="Xamarin">Xamarin</a><a id="Azure" class="c-uhf-nav-link" href="https://docs.microsoft.com/azure" ms.title="Azure">Azure</a>                    </nav>
+
+</div>
+
+
+            
+        </div>
+
+    
+</header>
+
+
+    </div>
+            </div>
+
+    </section>
+</div>
+	<div id="disclaimer-holder" class="disclaimer-holder"></div>
+</div>
+
+	<div class="container mainContainer" ms.pgarea="body" data-bi-name="body">
+		<div class="primary-holder">
+
+			<main id="main" role="main" class="content" ms.cmpgrp="content" data-bi-name="content" lang="en-us" dir="ltr">
+
+
+				<h1 id="partial-classes-and-methods-c-programming-guide" sourcefile="docs/csharp/programming-guide/classes-and-structs/partial-classes-and-methods.md" sourcestartlinenumber="17" sourceendlinenumber="17">Partial Classes and Methods (C# Programming Guide)</h1>
+
+					<ul class="metadata page-metadata" ms.cmpgrp="page info" data-bi-name="page info">
+							<li class="displayDate docon-before docon-calendar inline">
+								<time datetime="2015-07-19T18:30:00.000Z">07/20/2015</time>
+							</li>
+							<li class="readingTime docon-before docon-clock inline">6 minutes to read</li>
+							<li class="contributors-holder inline">
+								<span class="contributors-text">Contributors</span>
+								<ul class="contributors" ms.cmpgrp="contributors" data-bi-name="contributors">
+											<li><img src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/contributor.svg" data-src="https://github.com/BillWagner.png?size=32" alt="Bill Wagner" title="Bill Wagner"></li>
+											<li><img src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/contributor.svg" data-src="https://github.com/mjhoffman65.png?size=32" alt="Matt Hoffman" title="Matt Hoffman"></li>
+											<li><img src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/contributor.svg" data-src="https://github.com/mairaw.png?size=32" alt="Maira Wenzel" title="Maira Wenzel"></li>
+											<li><img src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/contributor.svg" data-src="https://github.com/mikeblome.png?size=32" alt="Mike B" title="Mike B"></li>
+											<li><img src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/contributor.svg" data-src="https://github.com/guardrex.png?size=32" alt="Luke Latham" title="Luke Latham"></li>
+										<li><a href="https://github.com/dotnet/docs/blob/master/docs/csharp/programming-guide/classes-and-structs/partial-classes-and-methods.md" aria-label="all 6 contributors" ms.cmpnm="contributorshowall" data-bi-name="contributorshowall"><span aria-hidden="true">all</span></a></li>
+								</ul>
+							</li>
+
+					</ul>
+						<nav id="center-doc-outline" class="doc-outline" ms.cmpgrp="intopic toc" data-bi-name="intopic toc" role="navigation" aria-label="On page navigation">
+							<h3>In this article</h3>
+						<ol><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#partial-classes">Partial Classes</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#example-1">Example 1</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#example-2">Example 2</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#partial-methods">Partial Methods</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#c-language-specification">C# Language Specification</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#see-also">See Also</a></li></ol></nav>
+
+				<!-- <content> -->
+					<div>
+<p>It is possible to split the definition of a <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/class" data-linktype="relative-path">class</a> or a <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/struct" data-linktype="relative-path">struct</a>, an <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface" data-linktype="relative-path">interface</a> or a method over two or more source files. Each source file contains a section of the type or method definition, and all parts are combined when the application is compiled.  </p>
+<h2 id="partial-classes">Partial Classes</h2>
+<p> There are several situations when splitting a class definition is desirable:  </p>
+<ul>
+<li><p>When working on large projects, spreading a class over separate files enables multiple programmers to work on it at the same time.  </p>
+</li>
+<li><p>When working with automatically generated source, code can be added to the class without having to recreate the source file. Visual Studio uses this approach when it creates Windows Forms, Web service wrapper code, and so on. You can create code that uses these classes without having to modify the file created by Visual Studio.  </p>
+</li>
+<li><p>To split a class definition, use the <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/partial-type" data-linktype="relative-path">partial</a> keyword modifier, as shown here:  </p>
+</li>
+</ul>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_1.cs" name="csProgGuideObjects#26"><span class="hljs-keyword">public</span> <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Employee</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">DoWork</span>(<span class="hljs-params"></span>)
+    </span>{
+    }
+}
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Employee</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">GoToLunch</span>(<span class="hljs-params"></span>)
+    </span>{
+    }
+}
+</code></pre><p> The <code>partial</code> keyword indicates that other parts of the class, struct, or interface can be defined in the namespace. All the parts must use the <code>partial</code> keyword. All the parts must be available at compile time to form the final type. All the parts must have the same accessibility, such as <code>public</code>, <code>private</code>, and so on.  </p>
+<p> If any part is declared abstract, then the whole type is considered abstract. If any part is declared sealed, then the whole type is considered sealed. If any part declares a base type, then the whole type inherits that class.  </p>
+<p> All the parts that specify a base class must agree, but parts that omit a base class still inherit the base type. Parts can specify different base interfaces, and the final type implements all the interfaces listed by all the partial declarations. Any class, struct, or interface members declared in a partial definition are available to all the other parts. The final type is the combination of all the parts at compile time.  </p>
+<div class="NOTE alert"><p>Note</p><p> The <code>partial</code> modifier is not available on delegate or enumeration declarations.  </p>
+</div>
+<p> The following example shows that nested types can be partial, even if the type they are nested within is not partial itself.  </p>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_2.cs" name="csProgGuideObjects#25"><span class="hljs-keyword">class</span> <span class="hljs-title">Container</span>
+{
+    <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Nested</span>
+    {
+        <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">Test</span>(<span class="hljs-params"></span>) </span>{ }
+    }
+    <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Nested</span>
+    {
+        <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">Test2</span>(<span class="hljs-params"></span>) </span>{ }
+    }
+}
+</code></pre><p> At compile time, attributes of partial-type definitions are merged. For example, consider the following declarations:  </p>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_3.cs" name="csProgGuideObjects#23">[<span class="hljs-meta">SerializableAttribute</span>]
+<span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Moon</span> { }
+
+[<span class="hljs-meta">ObsoleteAttribute</span>]
+<span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Moon</span> { }
+</code></pre><p> They are equivalent to the following declarations:  </p>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_4.cs" name="csProgGuideObjects#24">[<span class="hljs-meta">SerializableAttribute</span>]
+[<span class="hljs-meta">ObsoleteAttribute</span>]
+<span class="hljs-keyword">class</span> <span class="hljs-title">Moon</span> { }
+</code></pre><p> The following are merged from all the partial-type definitions:  </p>
+<ul>
+<li><p>XML comments  </p>
+</li>
+<li><p>interfaces  </p>
+</li>
+<li><p>generic-type parameter attributes  </p>
+</li>
+<li><p>class attributes  </p>
+</li>
+<li><p>members  </p>
+</li>
+</ul>
+<p> For example, consider the following declarations:  </p>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_5.cs" name="csProgGuideObjects#21"><span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Earth</span> : <span class="hljs-title">Planet</span>, <span class="hljs-title">IRotate</span> { }
+<span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Earth</span> : <span class="hljs-title">IRevolve</span> { }
+</code></pre><p> They are equivalent to the following declarations:  </p>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_6.cs" name="csProgGuideObjects#22"><span class="hljs-keyword">class</span> <span class="hljs-title">Earth</span> : <span class="hljs-title">Planet</span>, <span class="hljs-title">IRotate</span>, <span class="hljs-title">IRevolve</span> { }
+</code></pre><h3 id="restrictions">Restrictions</h3>
+<p> There are several rules to follow when you are working with partial class definitions:  </p>
+<ul>
+<li><p>All partial-type definitions meant to be parts of the same type must be modified with <code>partial</code>. For example, the following class declarations generate an error:  </p>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_7.cs" name="csProgGuideObjects#20"><span class="hljs-keyword">public</span> <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">A</span> { }
+<span class="hljs-comment">//public class A { }  // Error, must also be marked partial</span>
+</code></pre></li>
+<li><p>The <code>partial</code> modifier can only appear immediately before the keywords <code>class</code>, <code>struct</code>, or <code>interface</code>.  </p>
+</li>
+<li><p>Nested partial types are allowed in partial-type definitions as illustrated in the following example:  </p>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_8.cs" name="csProgGuideObjects#19"><span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">ClassWithNestedClass</span>
+{
+    <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">NestedClass</span> { }
+}
+
+<span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">ClassWithNestedClass</span>
+{
+    <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">NestedClass</span> { }
+}
+</code></pre></li>
+<li><p>All partial-type definitions meant to be parts of the same type must be defined in the same assembly and the same module (.exe or .dll file). Partial definitions cannot span multiple modules.  </p>
+</li>
+<li><p>The class name and generic-type parameters must match on all partial-type definitions. Generic types can be partial. Each partial declaration must use the same parameter names in the same order.  </p>
+</li>
+<li><p>The following keywords on a partial-type definition are optional, but if present on one partial-type definition, cannot conflict with the keywords specified on another partial definition for the same type:  </p>
+<ul>
+<li><p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/public" data-linktype="relative-path">public</a>  </p>
+</li>
+<li><p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/private" data-linktype="relative-path">private</a>  </p>
+</li>
+<li><p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected" data-linktype="relative-path">protected</a>  </p>
+</li>
+<li><p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/internal" data-linktype="relative-path">internal</a>  </p>
+</li>
+<li><p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract" data-linktype="relative-path">abstract</a>  </p>
+</li>
+<li><p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/sealed" data-linktype="relative-path">sealed</a>  </p>
+</li>
+<li><p>base class  </p>
+</li>
+<li><p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/new" data-linktype="relative-path">new</a> modifier (nested parts)  </p>
+</li>
+<li><p>generic constraints  </p>
+<p> For more information, see <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters" data-linktype="relative-path">Constraints on Type Parameters</a>.  </p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="example-1">Example 1</h2>
+<h3 id="description">Description</h3>
+<p> In the following example, the fields and the constructor of the class, <code>CoOrds</code>, are declared in one partial class definition, and the member, <code>PrintCoOrds</code>, is declared in another partial class definition.  </p>
+<h3 id="code">Code</h3>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_9.cs" name="csProgGuideObjects#17"><span class="hljs-keyword">public</span> <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">CoOrds</span>
+{
+    <span class="hljs-keyword">private</span> <span class="hljs-keyword">int</span> x;
+    <span class="hljs-keyword">private</span> <span class="hljs-keyword">int</span> y;
+
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">CoOrds</span>(<span class="hljs-params"><span class="hljs-keyword">int</span> x, <span class="hljs-keyword">int</span> y</span>)
+    </span>{
+        <span class="hljs-keyword">this</span>.x = x;
+        <span class="hljs-keyword">this</span>.y = y;
+    }
+}
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">partial</span> <span class="hljs-keyword">class</span> <span class="hljs-title">CoOrds</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">PrintCoOrds</span>(<span class="hljs-params"></span>)
+    </span>{
+        Console.WriteLine(<span class="hljs-string">"CoOrds: {0},{1}"</span>, x, y);
+    }
+
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title">TestCoOrds</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">Main</span>(<span class="hljs-params"></span>)
+    </span>{
+        CoOrds myCoOrds = <span class="hljs-keyword">new</span> CoOrds(<span class="hljs-number">10</span>, <span class="hljs-number">15</span>);
+        myCoOrds.PrintCoOrds();
+
+        <span class="hljs-comment">// Keep the console window open in debug mode.</span>
+        Console.WriteLine(<span class="hljs-string">"Press any key to exit."</span>);
+        Console.ReadKey();
+    }
+}
+<span class="hljs-comment">// Output: CoOrds: 10,15</span>
+</code></pre><h2 id="example-2">Example 2</h2>
+<h3 id="description-1">Description</h3>
+<p> The following example shows that you can also develop partial structs and interfaces.  </p>
+<h3 id="code-1">Code</h3>
+<div class="codeHeader" data-bi-name="code-header"><span class="language">C#</span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code class="lang-csharp" data-src="https://github.com/dotnet/docs/blob/live/docs/csharp/programming-guide/classes-and-structs/codesnippet/CSharp/partial-classes-and-methods_10.cs" name="csProgGuideObjects#18"><span class="hljs-keyword">partial</span> <span class="hljs-keyword">interface</span> <span class="hljs-title">ITest</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">Interface_Test</span>(<span class="hljs-params"></span>)</span>;
+}
+
+<span class="hljs-keyword">partial</span> <span class="hljs-keyword">interface</span> <span class="hljs-title">ITest</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">Interface_Test2</span>(<span class="hljs-params"></span>)</span>;
+}
+
+<span class="hljs-keyword">partial</span> <span class="hljs-keyword">struct</span> S1
+{
+    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">Struct_Test</span>(<span class="hljs-params"></span>) </span>{ }
+}
+
+<span class="hljs-keyword">partial</span> <span class="hljs-keyword">struct</span> S1
+{
+    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">Struct_Test2</span>(<span class="hljs-params"></span>) </span>{ }
+}
+</code></pre><h2 id="partial-methods">Partial Methods</h2>
+<p> A partial class or struct may contain a partial method. One part of the class contains the signature of the method. An optional implementation may be defined in the same part or another part. If the implementation is not supplied, then the method and all calls to the method are removed at compile time.  </p>
+<p> Partial methods enable the implementer of one part of a class to define a method, similar to an event. The implementer of the other part of the class can decide whether to implement the method or not. If the method is not implemented, then the compiler removes the method signature and all calls to the method. The calls to the method, including any results that would occur from evaluation of arguments in the calls, have no effect at run time. Therefore, any code in the partial class can freely use a partial method, even if the implementation is not supplied. No compile-time or run-time errors will result if the method is called but not implemented.  </p>
+<p> Partial methods are especially useful as a way to customize generated code. They allow for a method name and signature to be reserved, so that generated code can call the method but the developer can decide whether to implement the method. Much like partial classes, partial methods enable code created by a code generator and code created by a human developer to work together without run-time costs.  </p>
+<p> A partial method declaration consists of two parts: the definition, and the implementation. These may be in separate parts of a partial class, or in the same part. If there is no implementation declaration, then the compiler optimizes away both the defining declaration and all calls to the method.  </p>
+<div class="codeHeader" data-bi-name="code-header"><span class="language"></span>
+			<button class="action copy" data-bi-name="copy">
+				<span>Copy</span>
+			</button></div><pre><code>// Definition in file1.cs  
+partial void onNameChanged();  
+
+// Implementation in file2.cs  
+partial void onNameChanged()  
+{  
+  // method body  
+}  
+</code></pre><ul>
+<li><p>Partial method declarations must begin with the contextual keyword <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/partial-type" data-linktype="relative-path">partial</a> and the method must return <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/void" data-linktype="relative-path">void</a>.  </p>
+</li>
+<li><p>Partial methods can have <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref" data-linktype="relative-path">ref</a> but not <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/out" data-linktype="relative-path">out</a> parameters.  </p>
+</li>
+<li><p>Partial methods are implicitly <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/private" data-linktype="relative-path">private</a>, and therefore they cannot be <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual" data-linktype="relative-path">virtual</a>.  </p>
+</li>
+<li><p>Partial methods cannot be <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/extern" data-linktype="relative-path">extern</a>, because the presence of the body determines whether they are defining or implementing.  </p>
+</li>
+<li><p>Partial methods can have <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static" data-linktype="relative-path">static</a> and <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/unsafe" data-linktype="relative-path">unsafe</a> modifiers.  </p>
+</li>
+<li><p>Partial methods can be generic. Constraints are put on the defining partial method declaration, and may optionally be repeated on the implementing one. Parameter and type parameter names do not have to be the same in the implementing declaration as in the defining one.  </p>
+</li>
+<li><p>You can make a <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/delegate" data-linktype="relative-path">delegate</a> to a partial method that has been defined and implemented, but not to a partial method that has only been defined.  </p>
+</li>
+</ul>
+<h2 id="c-language-specification">C# Language Specification</h2>
+<p>For more information, see the <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/index" data-linktype="relative-path">C# Language Specification</a>. The language specification is the definitive source for C# syntax and usage.</p>
+<h2 id="see-also">See Also</h2>
+<p> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index" data-linktype="relative-path">C# Programming Guide</a><br> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes" data-linktype="relative-path">Classes</a><br> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/structs" data-linktype="relative-path">Structs</a><br> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/index" data-linktype="relative-path">Interfaces</a><br> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/partial-type" data-linktype="relative-path">partial (Type)</a></p>
+</div>
+				<!-- </content> -->
+
+
+			</main>
+
+
+					<div id="comments-container" ms.cmpgrp="comments" data-bi-name="comments" role="form"></div>
+		</div>
+
+		<div class="pageActions">
+			<div id="page-actions" ms.cmpgrp="pageactions" data-bi-name="pageactions" role="complementary">
+				<div id="page-actions-content" style="top: 141px; bottom: 24px;">
+					<ul class="action-list">
+							<li>
+									<a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#comments-container" id="comments-link" ms.cmpnm="comments" data-bi-name="comments">
+										<i class="docon docon-comment-lines" aria-hidden="true"></i>Feedback									</a>
+							</li>
+									<li id="contenteditbtn">
+										<a href="https://github.com/dotnet/docs/blob/master/docs/csharp/programming-guide/classes-and-structs/partial-classes-and-methods.md" title="Edit This Document" ms.cmpnm="edit" data-bi-name="edit">
+											<i class="icon icon-editor"></i>Edit										</a>
+									</li>
+						<li>
+							<div class="flyout">
+								<a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#" class="flyout-button" title="Share This Document" ms.cmpnm="share" data-bi-name="share"><i class="icon icon-share"></i>Share</a>
+								<div class="flyout-container">
+										<div><a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2Fprogramming-guide%2Fclasses-and-structs%2Fpartial-classes-and-methods%3FWT.mc_id%3Ddocs-twitter&amp;text=Partial%20Classes%20and%20Methods%20(C%23%20Programming%20Guide)%20%7C%20Microsoft%20Docs&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2Fprogramming-guide%2Fclasses-and-structs%2Fpartial-classes-and-methods%3FWT.mc_id%3Ddocs-twitter" class="share-twitter" ms.cmpnm="twitter" data-bi-name="twitter"><i class="icon icon-twitter"></i>Twitter</a></div>
+										<div><a href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2Fprogramming-guide%2Fclasses-and-structs%2Fpartial-classes-and-methods%3FWT.mc_id%3Ddocs-linkedin" class="share-linkedin" ms.cmpnm="share-linkedin" data-bi-name="linkedin"><i class="icon icon-linkedin"></i>LinkedIn</a></div>
+										<div><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2Fprogramming-guide%2Fclasses-and-structs%2Fpartial-classes-and-methods%3FWT.mc_id%3Ddocs-facebook" class="share-facebook" ms.cmpnm="facebook" data-bi-name="facebook"><i class="icon icon-facebook"></i>Facebook</a></div>
+										<div><a href="mailto:?subject=%5BShared%20Article%5D%20Partial%20Classes%20and%20Methods%20(C%23%20Programming%20Guide)%20%7C%20Microsoft%20Docs&amp;body=Partial%20Classes%20and%20Methods%20(C%23%20Programming%20Guide)%20%7C%20Microsoft%20Docs%0A%0Ahttps%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2Fprogramming-guide%2Fclasses-and-structs%2Fpartial-classes-and-methods%3FWT.mc_id%3Ddocs-email" class="share-email" ms.cmpnm="email" data-bi-name="email"><i class="icon icon-email"></i>Email</a></div>
+								</div>
+							</div>
+						</li>
+						<li class="typeSep">|</li>
+						<li>
+							<label for="theme-selector">Theme</label>
+							<select id="theme-selector" data-bi-name="select-theme">
+								
+								<option value="">Light</option>
+								<option value="theme_night">Dark</option>
+							</select>
+						</li>
+					</ul>
+
+						<nav id="side-doc-outline" class="doc-outline" ms.cmpnm="intopic toc" data-bi-name="intopic toc" role="navigation" aria-label="On page navigation">
+							<h3>In this article</h3>
+						<ol><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#partial-classes">Partial Classes</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#example-1">Example 1</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#example-2">Example 2</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#partial-methods">Partial Methods</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#c-language-specification">C# Language Specification</a></li><li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#see-also">See Also</a></li></ol></nav>
+
+				</div>
+			</div>
+		</div>
+
+		<ul class="breadcrumbs" ms.cmpgrp="breadcrumb" data-bi-name="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList" role="navigation" aria-label="Breadcrumb"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://docs.microsoft.com/en-us/">Docs</a></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://docs.microsoft.com/en-us/dotnet/index">.NET</a></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://docs.microsoft.com/en-us/dotnet/csharp/index">C# Guide</a></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index">Programming guide</a></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/index">Classes and structs</a></li></ul>
+
+		<div class="sidebar" id="sidebar" ms.cmpgrp="left toc" data-bi-name="left toc" role="navigation" aria-label="Main Navigation">
+			<div id="sidebarContent" style="top: 141px; bottom: 24px;">
+				<div class="filterHolder">
+				<form class="tocFilter"><input placeholder="Filter" aria-label="Filter" type="search"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods#" title="Clear Filter" class="clearInput"><span class="visually-hidden">Clear Filter</span></a></form><div class="emptyFilterMessage">No results</div></div>
+				<nav class="toc" role="application"><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)" class="noSibs"><li aria-expanded="true" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)"><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/" data-text="classes and structs ">Classes and Structs</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes" data-text="classes ">Classes</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/objects" data-text="objects ">Objects</a></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/structs" data-text="structs ">Structs</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs" data-text="using structs ">Using Structs</a></li></ul></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance" data-text="inheritance ">Inheritance</a></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism" data-text="polymorphism ">Polymorphism</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/versioning-with-the-override-and-new-keywords" data-text="versioning with the override and new keywords ">Versioning with the Override and New Keywords</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords" data-text="knowing when to use override and new keywords ">Knowing When to Use Override and New Keywords</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-override-the-tostring-method" data-text="how to: override the tostring method ">How to: Override the To<wbr>String Method</a></li></ul></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members" data-text="abstract and sealed classes and class members ">Abstract and Sealed Classes and Class Members</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-define-abstract-properties" data-text="how to: define abstract properties ">How to: Define Abstract Properties</a></li></ul></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members" data-text="static classes and static class members ">Static Classes and Static Class Members</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/members" data-text="members ">Members</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers" data-text="access modifiers ">Access Modifiers</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields" data-text="fields ">Fields</a></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constants" data-text="constants ">Constants</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-define-constants" data-text="how to: define constants in c# ">How to: Define Constants in C#</a></li></ul></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties" data-text="properties ">Properties</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-properties" data-text="using properties ">Using Properties</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/interface-properties" data-text="interface properties ">Interface Properties</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/restricting-accessor-accessibility" data-text="restricting accessor accessibility ">Restricting Accessor Accessibility</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-declare-and-use-read-write-properties" data-text="how to: declare and use read write properties ">How to: Declare and Use Read Write Properties</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/auto-implemented-properties" data-text="auto-implemented properties ">Auto-Implemented Properties</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-a-lightweight-class-with-auto-implemented-properties" data-text="how to: implement a lightweight class with auto-implemented properties ">How to: Implement a Lightweight Class with Auto-Implemented Properties</a></li></ul></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods" data-text="methods ">Methods</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/local-functions" data-text="local functions ">Local functions</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/ref-returns" data-text="ref returns and ref locals ">Ref returns and ref locals</a></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-parameters" data-text="passing parameters ">Passing Parameters</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-value-type-parameters" data-text="passing value-type parameters ">Passing Value-Type Parameters</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-reference-type-parameters" data-text="passing reference-type parameters ">Passing Reference-Type Parameters</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-know-the-difference-passing-a-struct-and-passing-a-class-to-a-method" data-text="how to: know the difference between passing a struct and passing a class reference to a method ">How to: Know the Difference Between Passing a Struct and Passing a Class Reference to a Method</a></li></ul></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/implicitly-typed-local-variables" data-text="implicitly typed local variables ">Implicitly Typed Local Variables</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-use-implicitly-typed-local-variables-and-arrays-in-a-query-expression" data-text="how to: use implicitly typed local variables and arrays in a query expression ">How to: Use Implicitly Typed Local Variables and Arrays in a Query Expression</a></li></ul></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods" data-text="extension methods ">Extension Methods</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method" data-text="how to: implement and call a custom extension method ">How to: Implement and Call a Custom Extension Method</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration" data-text="how to: create a new method for an enumeration ">How to: Create a New Method for an Enumeration</a></li></ul></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/named-and-optional-arguments" data-text="named and optional arguments ">Named and Optional Arguments</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-use-named-and-optional-arguments-in-office-programming" data-text="how to: use named and optional arguments in office programming ">How to: Use Named and Optional Arguments in Office Programming</a></li></ul></li></ul></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors" data-text="constructors ">Constructors</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors" data-text="using constructors ">Using Constructors</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/instance-constructors" data-text="instance constructors ">Instance Constructors</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/private-constructors" data-text="private constructors ">Private Constructors</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-constructors" data-text="static constructors ">Static Constructors</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-write-a-copy-constructor" data-text="how to: write a copy constructor ">How to: Write a Copy Constructor</a></li></ul></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/destructors" data-text="finalizers ">Finalizers</a></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers" data-text="object and collection initializers ">Object and Collection Initializers</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-objects-by-using-an-object-initializer" data-text="how to: initialize objects by using an object initializer ">How to: Initialize Objects by Using an Object Initializer</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-a-dictionary-with-a-collection-initializer" data-text="how to: initialize a dictionary with a collection initializer ">How to: Initialize a Dictionary with a Collection Initializer</a></li></ul></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-access-a-collection-class-with-foreach" data-text="how to: access a collection class with foreach ">How to: Access a Collection Class with foreach</a></li><li><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types" data-text="nested types ">Nested Types</a></li><li class="selectedHolder"><a tabindex="0" class="selected" data-showme="true" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods" data-text="partial classes and methods ">Partial Classes and Methods</a></li><li aria-expanded="false" tabindex="0" aria-treeitem="true" onclick="event.stopPropagation();msDocs.functions.toggleAriaExpanded(this)" class="noSubs"><a tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/anonymous-types" data-text="anonymous types ">Anonymous Types</a><ul aria-treegrid="true" onclick="msDocs.functions.stopSomePropagation(event, &quot;top&quot;)"><li><a onclick="msDocs.functions.stopSomePropagation(event, &quot;left&quot;)" tabindex="0" href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-return-subsets-of-element-properties-in-a-query" data-text="how to: return subsets of element properties in a query ">How to: Return Subsets of Element Properties in a Query</a></li></ul></li></ul></li></ul></nav>
+				<div class="pdfDownloadHolder" style="display: block;"><a href="https://docs.microsoft.com/en-us/dotnet/opbuildpdf/csharp/programming-guide/classes-and-structs/toc.pdf?branch=live" ms.cmpnm="downloadPdf" data-bi-name="downloadPdf">Download PDF</a></div>
+			</div>
+			<div class="tocSpace"></div>
+		</div>
+
+		<div id="menu-nav" class="dropdown-container">
+			<div class="dropdown dropdown-full mobilenavi">
+					<select><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/">Classes and Structs</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes">&nbsp;&nbsp;&nbsp;Classes</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/objects">&nbsp;&nbsp;&nbsp;Objects</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/structs">&nbsp;&nbsp;&nbsp;Structs</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using Structs</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance">&nbsp;&nbsp;&nbsp;Inheritance</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism">&nbsp;&nbsp;&nbsp;Polymorphism</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/versioning-with-the-override-and-new-keywords">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Versioning with the Override and New Keywords</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knowing When to Use Override and New Keywords</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-override-the-tostring-method">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Override the ToString Method</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members">&nbsp;&nbsp;&nbsp;Abstract and Sealed Classes and Class Members</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-define-abstract-properties">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Define Abstract Properties</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members">&nbsp;&nbsp;&nbsp;Static Classes and Static Class Members</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/members">&nbsp;&nbsp;&nbsp;Members</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers">&nbsp;&nbsp;&nbsp;Access Modifiers</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields">&nbsp;&nbsp;&nbsp;Fields</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/constants">&nbsp;&nbsp;&nbsp;Constants</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-define-constants">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Define Constants in C#</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties">&nbsp;&nbsp;&nbsp;Properties</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-properties">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using Properties</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/interface-properties">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interface Properties</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/restricting-accessor-accessibility">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Restricting Accessor Accessibility</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-declare-and-use-read-write-properties">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Declare and Use Read Write Properties</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/auto-implemented-properties">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auto-Implemented Properties</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-a-lightweight-class-with-auto-implemented-properties">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Implement a Lightweight Class with Auto-Implemented Properties</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods">&nbsp;&nbsp;&nbsp;Methods</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/local-functions">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Local functions</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/ref-returns">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ref returns and ref locals</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-parameters">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passing Parameters</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-value-type-parameters">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passing Value-Type Parameters</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-reference-type-parameters">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passing Reference-Type Parameters</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-know-the-difference-passing-a-struct-and-passing-a-class-to-a-method">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Know the Difference Between Passing a Struct and Passing a Class Reference to a Method</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/implicitly-typed-local-variables">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implicitly Typed Local Variables</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-use-implicitly-typed-local-variables-and-arrays-in-a-query-expression">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Use Implicitly Typed Local Variables and Arrays in a Query Expression</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extension Methods</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Implement and Call a Custom Extension Method</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Create a New Method for an Enumeration</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/named-and-optional-arguments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Named and Optional Arguments</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-use-named-and-optional-arguments-in-office-programming">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Use Named and Optional Arguments in Office Programming</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors">&nbsp;&nbsp;&nbsp;Constructors</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using Constructors</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/instance-constructors">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instance Constructors</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/private-constructors">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Private Constructors</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-constructors">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Static Constructors</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-write-a-copy-constructor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Write a Copy Constructor</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/destructors">&nbsp;&nbsp;&nbsp;Finalizers</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers">&nbsp;&nbsp;&nbsp;Object and Collection Initializers</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-objects-by-using-an-object-initializer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Initialize Objects by Using an Object Initializer</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-a-dictionary-with-a-collection-initializer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Initialize a Dictionary with a Collection Initializer</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-access-a-collection-class-with-foreach">&nbsp;&nbsp;&nbsp;How to: Access a Collection Class with foreach</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types">&nbsp;&nbsp;&nbsp;Nested Types</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods" selected="selected">&nbsp;&nbsp;&nbsp;Partial Classes and Methods</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/anonymous-types">&nbsp;&nbsp;&nbsp;Anonymous Types</option><option value="/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-return-subsets-of-element-properties-in-a-query">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to: Return Subsets of Element Properties in a Query</option></select>
+			</div>
+		</div>
+
+	</div>
+
+	<div id="openFeedbackContainer" class="openfeedback-container"></div>
+
+	<div class="container footerContainer">
+<footer id="footer" ms.pgarea="footer" data-bi-name="footer" class="footer-layout">
+  <div class="container" role="contentinfo">
+
+    <a data-mscc-ic="false" id="locale-selector-link" href="https://docs.microsoft.com/en-us/locale?target=%2Fen-us%2Fdotnet%2Fcsharp%2Fprogramming-guide%2Fclasses-and-structs%2Fpartial-classes-and-methods" data-bi-name="select-locale" ms.cmpnm="select-locale">English (United States)</a>
+
+    <ul class="links" ms.cmpgrp="footerlinks" data-bi-name="footerlinks">
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/previous-versions/" data-bi-name="archivelink">Previous Version Docs</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/teamblog" ms.cmpnm="bloglink" data-bi-name="bloglink">Blog</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/contribute" ms.cmpnm="contributorGuide" data-bi-name="contributorGuide">How to contribute</a></li>
+		<li><a data-mscc-ic="false" href="https://privacy.microsoft.com/en-us/" ms.cmpnm="privacy" data-bi-name="privacy">Privacy &amp; Cookies</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/legal/termsofuse" ms.cmpnm="termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+		<li><a data-mscc-ic="false" href="https://aka.ms/sitefeedback" ms.cmpnm="feedback" data-bi-name="feedback">Feedback</a></li>
+		<li><a data-mscc-ic="false" href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx" ms.cmpnm="trademarks" data-bi-name="trademarks">Trademarks</a></li>
+    </ul>
+  </div>
+</footer>	</div>
+
+	<script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/6279661f360a6a254204.conceptual.js.download"></script>
+
+
+<script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/open-rating.entry.min.js.download" async="" defer=""></script><script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/Livefyre.js.download" async="" defer=""></script><script src="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/open-commenting.entry.min.js.download" async="" defer=""></script><link rel="stylesheet" type="text/css" href="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/open-commenting.ui.v1.0.2-7-g1b78816.master.min.css"><link rel="stylesheet" type="text/css" href="./Partial Classes and Methods (C# Programming Guide) _ Microsoft Docs_files/open-commenting.ui.docs.v1.0.2-7-g1b78816.master.min.css"></body></html>

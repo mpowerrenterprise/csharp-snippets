@@ -1,0 +1,5 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\bin\Debug\UsingSwitch.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\bin\Debug\UsingSwitch.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\obj\x86\Debug\UsingSwitch.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\obj\x86\Debug\UsingSwitch.pdb

@@ -1,0 +1,18 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\bin\Debug\WrtingXml.exe.config
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\bin\Debug\WrtingXml.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\bin\Debug\WrtingXml.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\obj\Debug\WrtingXml.csprojResolveAssemblyReference.cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\obj\Debug\WrtingXml.Form1.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\obj\Debug\WrtingXml.Properties.Resources.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\obj\Debug\WrtingXml.csproj.GenerateResource.Cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\obj\Debug\WrtingXml.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\WrtingXml\WrtingXml\obj\Debug\WrtingXml.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\bin\Debug\WrtingXml.exe.config
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\bin\Debug\WrtingXml.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\bin\Debug\WrtingXml.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.csprojResolveAssemblyReference.cache
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.Form1.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.Properties.Resources.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+#region
+
+code
+
+#endregion
+
+
+
+#define kuna;
+
+#undef gta;
+
+
+#if kuna MessgaeBox.Show("kuna is defind");
+
+#elif joker  MessgaeBox.Show("joerkis defind");
+
+#error kuna
+
+#warning kuna;
+

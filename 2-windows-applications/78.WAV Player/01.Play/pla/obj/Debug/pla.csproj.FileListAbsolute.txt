@@ -1,0 +1,11 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\bin\Debug\pla.exe.config
+c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\bin\Debug\pla.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\bin\Debug\pla.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pla.Form1.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pla.Properties.Resources.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pla.csproj.GenerateResource.Cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pla.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pla.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\78.WAV Player\01.Play\pla\bin\Debug\pla.exe.config
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\78.WAV Player\01.Play\pla\obj\Debug\pla.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\78.WAV Player\01.Play\pla\obj\Debug\pla.pdb

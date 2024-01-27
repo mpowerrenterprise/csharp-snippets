@@ -1,0 +1,18 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\bin\Debug\mdi.exe.config
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\bin\Debug\mdi.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\bin\Debug\mdi.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\obj\Debug\mdi.csprojResolveAssemblyReference.cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\obj\Debug\mdi.Form1.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\obj\Debug\mdi.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\mdi\mdi\obj\Debug\mdi.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\bin\Debug\mdi.exe.config
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\bin\Debug\mdi.exe
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\bin\Debug\mdi.pdb
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.csprojResolveAssemblyReference.cache
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.Form1.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.Properties.Resources.resources
+D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
