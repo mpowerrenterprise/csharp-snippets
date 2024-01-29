@@ -16,13 +16,6 @@ namespace OperatorsExpressionsStatements
             int b = 0;
 
 
-            myString = myFirstName + myLastName;
-            someValue = (3 * x) / 100;
-            if (x > y) z = "Bob";
-
-            x + y;
-
-
             // Assignment operator
             x = 3;
 
