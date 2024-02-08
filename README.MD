@@ -24,4 +24,3 @@ Its strong typing system enhances code safety, and it is commonly used with fram
 * [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
 * [Youtube Profile](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
 
-# csharp-snippets
