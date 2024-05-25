@@ -11,7 +11,7 @@ Its strong typing system enhances code safety, and it is commonly used with fram
 ## Learning Resources
 
 1. [Console Applications](1-console-applications/)
-2. [Windows Applications](1-windows-applications/)
+2. [Windows Applications](2-windows-applications/)
 
 
 ## Social Links
