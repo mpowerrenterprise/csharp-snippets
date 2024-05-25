@@ -3,3 +3,10 @@ C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\obj\x86\Debug\Variables.exe
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\obj\x86\Debug\Variables.pdb
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\1-variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\1-variables\Variables\bin\Debug\Variables.exe
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\1-variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\1-variables\Variables\obj\x86\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\1-variables\Variables\obj\x86\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\1-variables\Variables\obj\x86\Debug\Variables.exe
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\1-variables\Variables\obj\x86\Debug\Variables.pdb

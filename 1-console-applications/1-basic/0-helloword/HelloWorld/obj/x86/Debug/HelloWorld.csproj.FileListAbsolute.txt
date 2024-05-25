@@ -3,3 +3,10 @@ C:\Users\Robert Tabor\documents\visual studio 2010\Projects\HelloWorld\HelloWorl
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\0-helloword\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\0-helloword\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\0-helloword\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\0-helloword\HelloWorld\obj\x86\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\0-helloword\HelloWorld\obj\x86\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\0-helloword\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Gunarakulan\Desktop\csharp-snippets\1-console-applications\1-basic\0-helloword\HelloWorld\obj\x86\Debug\HelloWorld.pdb
