@@ -71,6 +71,7 @@ namespace OperatorsExpressionsStatements
 
             // Member access and Method invocation
             Console.WriteLine("Hi");
+            Console.ReadLine();
         }
     }
 }
