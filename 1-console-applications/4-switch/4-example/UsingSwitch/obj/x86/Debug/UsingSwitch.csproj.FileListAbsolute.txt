@@ -3,3 +3,8 @@ C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\bin\Debug\Usi
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\obj\x86\Debug\UsingSwitch.exe
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UsingSwitch\obj\x86\Debug\UsingSwitch.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\4-switch\4-example\UsingSwitch\obj\x86\Debug\UsingSwitch.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\4-switch\4-example\UsingSwitch\obj\x86\Debug\UsingSwitch.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\4-switch\4-example\UsingSwitch\bin\Debug\UsingSwitch.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\4-switch\4-example\UsingSwitch\bin\Debug\UsingSwitch.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\4-switch\4-example\UsingSwitch\obj\x86\Debug\UsingSwitch.csprojResolveAssemblyReference.cache

@@ -3,3 +3,8 @@ C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ComplexIfStatement\C
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ComplexIfStatement\ComplexIfStatement\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ComplexIfStatement\ComplexIfStatement\obj\x86\Debug\ComplexIfStatement.exe
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ComplexIfStatement\ComplexIfStatement\obj\x86\Debug\ComplexIfStatement.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\3-if-condition\6-example\ComplexIfStatement\obj\x86\Debug\ComplexIfStatement.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\3-if-condition\6-example\ComplexIfStatement\obj\x86\Debug\ComplexIfStatement.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\3-if-condition\6-example\ComplexIfStatement\bin\Debug\ComplexIfStatement.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\3-if-condition\6-example\ComplexIfStatement\bin\Debug\ComplexIfStatement.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\3-if-condition\6-example\ComplexIfStatement\obj\x86\Debug\ComplexIfStatement.csprojResolveAssemblyReference.cache

@@ -3,3 +3,5 @@ C:\Users\Ruthani\Desktop\csharp-snippets-main\1-console-applications\1-basic\3-o
 C:\Users\Ruthani\Desktop\csharp-snippets-main\1-console-applications\1-basic\3-operators-expressions-statements\OperatorsExpressionsStatements\obj\x86\Debug\OperatorsExpressionsStatements.csprojResolveAssemblyReference.cache
 C:\Users\Ruthani\Desktop\csharp-snippets-main\1-console-applications\1-basic\3-operators-expressions-statements\OperatorsExpressionsStatements\obj\x86\Debug\OperatorsExpressionsStatements.exe
 C:\Users\Ruthani\Desktop\csharp-snippets-main\1-console-applications\1-basic\3-operators-expressions-statements\OperatorsExpressionsStatements\obj\x86\Debug\OperatorsExpressionsStatements.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\1-basic\3-operators-expressions-statements\OperatorsExpressionsStatements\obj\x86\Debug\OperatorsExpressionsStatements.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\1-basic\3-operators-expressions-statements\OperatorsExpressionsStatements\obj\x86\Debug\OperatorsExpressionsStatements.pdb
