@@ -3,3 +3,8 @@ C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\bin\Debug\S
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\obj\x86\Debug\SimpleClasses.exe
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\obj\x86\Debug\SimpleClasses.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\11-classes\8-example\SimpleClasses\obj\x86\Debug\SimpleClasses.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\11-classes\8-example\SimpleClasses\obj\x86\Debug\SimpleClasses.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\11-classes\8-example\SimpleClasses\bin\Debug\SimpleClasses.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\11-classes\8-example\SimpleClasses\bin\Debug\SimpleClasses.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\11-classes\8-example\SimpleClasses\obj\x86\Debug\SimpleClasses.csprojResolveAssemblyReference.cache

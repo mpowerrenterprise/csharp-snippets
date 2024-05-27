@@ -5,3 +5,8 @@ C:\Users\Robert Tabor\AppData\Local\Temporary Projects\ForIterations\obj\x86\Deb
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\ForIterations\obj\x86\Debug\ForIterations.pdb
 C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\ForIterations\ForIterations\obj\x86\Debug\ForIterations.exe
 C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\ForIterations\ForIterations\obj\x86\Debug\ForIterations.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\5-loops\4-for-Iterations\ForIterations\obj\x86\Debug\ForIterations.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\5-loops\4-for-Iterations\ForIterations\obj\x86\Debug\ForIterations.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\5-loops\4-for-Iterations\ForIterations\bin\Debug\ForIterations.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\5-loops\4-for-Iterations\ForIterations\bin\Debug\ForIterations.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\5-loops\4-for-Iterations\ForIterations\obj\x86\Debug\ForIterations.csprojResolveAssemblyReference.cache

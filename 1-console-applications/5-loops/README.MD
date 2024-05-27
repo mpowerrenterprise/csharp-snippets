@@ -96,43 +96,241 @@ using System.Threading.Tasks;
 namespace ConsoleApplication1
 {
     class Program
-    {
-        public static void Main(string[] args)
+    {       
+        static void Main(string[] args)
         {
 
-            s:
+            for (int a = 1000; a >= 0; a++) {
 
-            int num1 = 10;
-            int num2 = 5;
-
-            Console.WriteLine("What is " + num1 + " is multiplyed by " + num2);
-
-            int userInp = Convert.ToInt32(Console.ReadLine());
-
-            if (userInp == num1 * num2)
-            {
-
-                Console.WriteLine("You are right");
-                Console.ReadKey();
-            }
-            else {
-
-                Console.WriteLine("Try agian");
-                goto s;
+                Console.WriteLine(a);
 
             }
+            Console.ReadKey();
 
-            
         }
     }
 }
+//This loop will not stop.
+//The condition is 'a' is greater than or equal to 0.
+//as long as the condition is true the loop will run.
+//so in this case loop will run infinitly.
+
+
+
 
 ```
 ### Ouput
 
-![if-condition](media/3exp.png)
+![1-for-loop](media/3.png)
 
 ## 4- Example
+
+### Program.cs
+
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {       
+        static void Main(string[] args)
+        {
+
+
+            for (int i = 1; i <= 100; i+=2) {
+
+                Console.WriteLine(i);
+            }
+
+            Console.ReadKey();
+
+
+        }
+    }
+}
+
+//in this loop the increment is 2 so it will increase the value by two each time this loop works.
+//This loop will print out the odd numbers.
+
+```
+### Ouput
+
+![1-for-loop](media/4.png)
+
+## 5- Example
+
+### Program.cs
+
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {       
+        static void Main(string[] args)
+        {
+
+
+            for (int i = 2; i <= 100; i+=2) {
+
+                Console.WriteLine(i);
+            }
+
+            Console.ReadKey();
+
+
+        }
+    }
+}
+
+//in this loop the increment is 2 so it will increase the value by two each time this loop works.
+//This loop will print out the even numbers.
+
+
+
+```
+### Ouput
+
+![1-for-loop](media/5.png)
+
+## 6- Example
+
+### Program.cs
+
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {       
+        static void Main(string[] args)
+        {
+
+
+            for (int i = 2; i <= 100; i++) {
+
+                if (i % 2 == 0) {
+
+                    Console.WriteLine(i);
+                }
+              
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+//every time this loop runs it checks the i value divided by 2 ==0.
+//if it is it will print.
+//so this loop will print even numbers.
+
+
+```
+### Ouput
+
+![1-for-loop](media/6.png)
+
+## 7- Example
+
+### Program.cs
+
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {       
+        static void Main(string[] args)
+        {
+
+
+            for (int i = 2; i <= 100; i++) {
+
+                if (i % 2 == 0==false) {
+
+                    Console.WriteLine(i);
+                }
+              
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+//every time this loop runs it checks the i value divided by 2 ==0 == false.
+//if it is it will print.
+//so this loop will print odd numbers.
+
+```
+### Ouput
+
+![1-for-loop](media/7.png)
+
+## 8- Example
+
+### Program.cs
+
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {       
+        static void Main(string[] args)
+        {
+
+            int total = 0;
+
+            for (int u = 0; u < 100; u++) {
+
+                total = total + u;
+              
+            }
+            Console.WriteLine(total);
+            Console.ReadKey();
+
+        }
+    }
+}
+//This program will add all itreation numbers together from 0 to 100.
+//first time total = 0 u is 1 so 0+1=1
+//secont time total= 1 u is 2 so 1+2=3;
+//third time total =3 u is 3 so 3+3=6;
+//and so on.  
+
+```
+### Ouput
+
+![1-for-loop](media/8.png)
+
+## 9- Example
 
 ### Program.cs
 
@@ -150,41 +348,73 @@ namespace ConsoleApplication1
         public static void Main(string[] args)
         {
 
-           
+            createGrid();
+            Console.ReadKey();
+        }
 
-            Random randomNumber = new Random();//This is the random number object.
+        public static void createGrid()
+        {
 
-            int num1 = randomNumber.Next(1, 11);//Next is a part of this obj.Next returns random integer number not negative number.
-            int num2 = randomNumber.Next(1, 11);//the first 1 is the minimum num 11 is the maximum number.
 
-            Console.WriteLine("What is " + num1 + " multiplay by " + num2);
-            startAgain://why i put the loop at here the reason is if the user give the wrong answer it must not change the question.
-            int userInput = Convert.ToInt32(Console.ReadLine());
+            for (int a = 1; a <= 1; a++) {
 
-            if (userInput == num1 * num2)
+                Console.Write(a+" ");
+
+            }
+
+            Console.WriteLine();
+
+            for (int b = 1; b <= 2; b++) {
+
+                Console.Write(b+" ");
+            }
+
+            Console.WriteLine();
+
+            for (int c = 1; c <= 3; c++) {
+
+                Console.Write(c + " ");
+            }
+
+            Console.WriteLine();
+
+            for (int d = 1; d <= 4; d++) {
+
+                Console.Write(d + " ");
+            }
+
+            Console.WriteLine();
+
+            for (int e = 1; e <= 5; e++)
             {
 
-                Console.WriteLine("You are right");
-                Console.ReadKey();
-
+                Console.Write(e + " ");
             }
-            else {
+            Console.WriteLine();
 
-                Console.WriteLine("Wrong");
-                goto startAgain;
+            for (int f = 1; f <= 6; f++) {
+
+                Console.Write(f + " ");
             }
-            
-            
+
+            Console.ReadKey();
+
+
         }
+
+
     }
 }
 
+
+
 ```
+
 ### Ouput
 
-![if-condition](media/4exp.png)
+![1-for-loop](media/9.png)
 
-## 5- Example
+## 10- Example
 
 ### Program.cs
 
@@ -193,55 +423,39 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace Decisions
+namespace ConsoleApplication1
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            //Console.WriteLine("Please type something and press Enter");
-            //string userValue;
-            //userValue = Console.ReadLine();
-            //Console.WriteLine("You typed: " + userValue);
-            //Console.ReadLine();
 
-            Console.WriteLine("Would you prefer what is behind door number 1, 2 or 3?");
-            string userValue = Console.ReadLine();
+            for (int a = 1; a <= 6; a++) {
 
-                        /*
-            string message = "";
+                for (int b = 1; b <= a; b++) {      // 1         first time
+                                                    // 1 2       secound time
+                                                    // 1 2 3     so on
+                    Console.Write(b+" ");           // 1 2 3 4
+                }                                   // 1 2 3 4 5
+                Console.WriteLine();                // 1 2 3 4 5 6
+            }
+               
 
-
-            if (userValue == "1")
-                message = "You won a new car!";
-
-            else if (userValue == "2")
-                message = "You won a new boat!";
-
-            else if (userValue == "3")
-                message = "You won a new cat!";
-
-            else
-                message = "Sorry, we didn't understand.  You lose!";
-            */
-
-            string message = (userValue == "1") ? "boat" : "strand of lint";
-            Console.WriteLine("You won a {0}!  And you typed {1}", message, userValue);
-
-            //Console.WriteLine(message);
-            Console.ReadLine();
-
+          Console.ReadKey();
         }
     }
 }
 
+
+
 ```
 ### Ouput
 
-![if-condition](media/5exp.png)
+![1-for-loop](media/10.png)
 
-## 6- Example
+## 11- Example
 
 ### Program.cs
 
@@ -250,27 +464,68 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace ComplexIfStatement
+namespace ConsoleApplication1
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Pick a number between 1 and 100:");
-            string userValue = Console.ReadLine();
 
-            int compareValue = int.Parse(userValue);
+            for (int a = 1; a <= 6; a++) {
 
-            if ((compareValue < 1) || (compareValue > 100))
-                Console.WriteLine("The number you chose was out of bounds.");
-            else if ((compareValue == 42) || (compareValue == 23) || (compareValue > 90))
-                Console.WriteLine("You found one of the numbers!");
-            else
-                Console.WriteLine("You didn't find one of the special numbers");
+                for (int b = a; b >= 1; b--) {
 
-            Console.ReadLine();
 
+                    Console.Write(b+" ");
+                }
+                Console.WriteLine();
+            }
+               
+
+          Console.ReadKey();
+        }
+    }
+}
+
+
+```
+### Ouput
+
+![1-for-loop](media/11.png)
+
+## 12- Example
+
+### Program.cs
+
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+
+            for (int a = 6; a >= 1; a--) {
+
+                for (int b = 1; b <= a; b++) {
+
+
+                    Console.Write(b+" ");
+                }
+
+                Console.WriteLine();
+            }
+               
+
+          Console.ReadKey();
         }
     }
 }
@@ -278,4 +533,46 @@ namespace ComplexIfStatement
 ```
 ### Ouput
 
-![if-condition](media/6exp.png)
+![1-for-loop](media/12.png)
+
+## 13- Example
+
+### Program.cs
+
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+
+            for (int loop1 = 1; loop1 <= 5; loop1 = loop1 + 1) {
+
+                for (int loop2 = 1; loop2 <= 5; loop2++) {
+
+
+                    Console.Write("*"+"\t");
+
+                }
+                Console.WriteLine();
+
+
+            }
+
+          Console.ReadKey();
+        }
+    }
+}
+
+
+```
+### Ouput
+
+![1-for-loop](media/13.png)

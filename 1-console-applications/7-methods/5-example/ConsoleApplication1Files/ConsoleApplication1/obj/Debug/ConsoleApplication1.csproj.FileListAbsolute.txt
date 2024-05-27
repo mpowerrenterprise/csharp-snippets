@@ -7,3 +7,9 @@ c:\users\jokerhacker\documents\visual studio 2015\Projects\ConsoleApplication1Fi
 E:\Computer Science\Software Engineering\Examples and Notes\08.C# Examples and Notes\01.Brackeys Basic\07.Methods\05.Example\ConsoleApplication1Files\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 E:\Computer Science\Software Engineering\Examples and Notes\08.C# Examples and Notes\01.Brackeys Basic\07.Methods\05.Example\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 E:\Computer Science\Software Engineering\Examples and Notes\08.C# Examples and Notes\01.Brackeys Basic\07.Methods\05.Example\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\7-methods\5-example\ConsoleApplication1Files\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\7-methods\5-example\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\7-methods\5-example\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\7-methods\5-example\ConsoleApplication1Files\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\7-methods\5-example\ConsoleApplication1Files\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\7-methods\5-example\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

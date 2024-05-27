@@ -8,3 +8,8 @@ C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumera
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumerations\bin\Debug\Enumerations.exe
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumerations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\13-enumerations\3-example\Enumerations\obj\x86\Debug\Enumerations.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\13-enumerations\3-example\Enumerations\obj\x86\Debug\Enumerations.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\13-enumerations\3-example\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\13-enumerations\3-example\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\13-enumerations\3-example\Enumerations\obj\x86\Debug\Enumerations.csprojResolveAssemblyReference.cache
