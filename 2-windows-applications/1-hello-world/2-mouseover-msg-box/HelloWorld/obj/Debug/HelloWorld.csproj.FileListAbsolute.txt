@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\HelloWorld\HelloWorl
 c:\users\joker hacker\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\1-hello-world\2-mouseover-msg-box\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache

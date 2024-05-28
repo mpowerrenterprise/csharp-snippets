@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\whileAndDo\whileAndD
 c:\users\joker hacker\documents\visual studio 2015\Projects\whileAndDo\whileAndDo\obj\Debug\whileAndDo.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\whileAndDo\whileAndDo\obj\Debug\whileAndDo.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\whileAndDo\whileAndDo\obj\Debug\whileAndDo.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\bin\Debug\whileAndDo.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\obj\Debug\whileAndDo.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\obj\Debug\whileAndDo.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\bin\Debug\whileAndDo.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\bin\Debug\whileAndDo.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\obj\Debug\whileAndDo.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\obj\Debug\whileAndDo.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\obj\Debug\whileAndDo.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\11-while\whileAndDo\obj\Debug\whileAndDo.csproj.GenerateResource.Cache

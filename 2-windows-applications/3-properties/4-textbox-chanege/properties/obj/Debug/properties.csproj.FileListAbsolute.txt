@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\properties\propertie
 c:\users\joker hacker\documents\visual studio 2015\Projects\properties\properties\obj\Debug\properties.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\properties\properties\obj\Debug\properties.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\properties\properties\obj\Debug\properties.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\bin\Debug\properties.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\obj\Debug\properties.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\obj\Debug\properties.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\bin\Debug\properties.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\bin\Debug\properties.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\obj\Debug\properties.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\obj\Debug\properties.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\obj\Debug\properties.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\3-properties\4-textbox-chanege\properties\obj\Debug\properties.csproj.GenerateResource.Cache

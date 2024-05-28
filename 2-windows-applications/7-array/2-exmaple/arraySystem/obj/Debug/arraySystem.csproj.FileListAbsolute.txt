@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\arraySystem\arraySys
 c:\users\joker hacker\documents\visual studio 2015\Projects\arraySystem\arraySystem\obj\Debug\arraySystem.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\arraySystem\arraySystem\obj\Debug\arraySystem.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\arraySystem\arraySystem\obj\Debug\arraySystem.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\bin\Debug\arraySystem.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\obj\Debug\arraySystem.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\obj\Debug\arraySystem.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\bin\Debug\arraySystem.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\bin\Debug\arraySystem.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\obj\Debug\arraySystem.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\obj\Debug\arraySystem.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\obj\Debug\arraySystem.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\7-array\2-exmaple\arraySystem\obj\Debug\arraySystem.csproj.GenerateResource.Cache

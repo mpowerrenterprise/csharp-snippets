@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\ifStae\ifStae\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\ifStae\ifStae\obj\Debug\ifStae.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\ifStae\ifStae\obj\Debug\ifStae.pdb
 c:\users\joker hacker\documents\visual studio 2015\Projects\ifStae\ifStae\obj\Debug\ifStae.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\bin\Debug\ifStae.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\obj\Debug\ifStae.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\obj\Debug\ifStae.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\bin\Debug\ifStae.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\bin\Debug\ifStae.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\obj\Debug\ifStae.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\obj\Debug\ifStae.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\obj\Debug\ifStae.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\4-if-else-if\7-example\ifStae\obj\Debug\ifStae.csproj.GenerateResource.Cache

@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\swSta\swSta\obj\Debu
 c:\users\joker hacker\documents\visual studio 2015\Projects\swSta\swSta\obj\Debug\swSta.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\swSta\swSta\obj\Debug\swSta.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\swSta\swSta\obj\Debug\swSta.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\bin\Debug\swSta.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\obj\Debug\swSta.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\obj\Debug\swSta.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\bin\Debug\swSta.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\bin\Debug\swSta.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\obj\Debug\swSta.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\obj\Debug\swSta.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\obj\Debug\swSta.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\6-mathamatical\swSta\obj\Debug\swSta.csproj.GenerateResource.Cache
