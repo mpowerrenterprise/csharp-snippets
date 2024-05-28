@@ -3,3 +3,8 @@ C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\bin\Debug\H
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\obj\x86\Debug\HelperMethods.exe
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\obj\x86\Debug\HelperMethods.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\19-helper-methods\HelperMethods\obj\x86\Debug\HelperMethods.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\19-helper-methods\HelperMethods\obj\x86\Debug\HelperMethods.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\19-helper-methods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\19-helper-methods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\19-helper-methods\HelperMethods\obj\x86\Debug\HelperMethods.csprojResolveAssemblyReference.cache

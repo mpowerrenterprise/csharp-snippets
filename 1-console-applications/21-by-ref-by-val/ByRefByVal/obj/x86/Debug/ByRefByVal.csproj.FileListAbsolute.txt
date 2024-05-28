@@ -3,3 +3,8 @@ C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVa
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVal\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVal\obj\x86\Debug\ByRefByVal.exe
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVal\obj\x86\Debug\ByRefByVal.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\21-by-ref-by-val\ByRefByVal\obj\x86\Debug\ByRefByVal.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\21-by-ref-by-val\ByRefByVal\obj\x86\Debug\ByRefByVal.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\21-by-ref-by-val\ByRefByVal\bin\Debug\ByRefByVal.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\21-by-ref-by-val\ByRefByVal\bin\Debug\ByRefByVal.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\21-by-ref-by-val\ByRefByVal\obj\x86\Debug\ByRefByVal.csprojResolveAssemblyReference.cache

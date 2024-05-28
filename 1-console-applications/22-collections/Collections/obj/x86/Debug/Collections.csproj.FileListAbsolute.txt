@@ -5,3 +5,8 @@ C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Collections\obj\x86\Debug
 C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Collections\obj\x86\Debug\Collections.pdb
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Collections\Collections\obj\x86\Debug\Collections.exe
 C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Collections\Collections\obj\x86\Debug\Collections.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\22-collections\Collections\obj\x86\Debug\Collections.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\22-collections\Collections\obj\x86\Debug\Collections.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\22-collections\Collections\bin\Debug\Collections.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\22-collections\Collections\bin\Debug\Collections.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\22-collections\Collections\obj\x86\Debug\Collections.csprojResolveAssemblyReference.cache

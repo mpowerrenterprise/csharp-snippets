@@ -4,3 +4,9 @@ c:\users\jokerhacker\documents\visual studio 2015\Projects\ConsoleApplication1Fi
 c:\users\jokerhacker\documents\visual studio 2015\Projects\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 c:\users\jokerhacker\documents\visual studio 2015\Projects\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\jokerhacker\documents\visual studio 2015\Projects\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\14-properties\5-example\ConsoleApplication1Files\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\14-properties\5-example\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\14-properties\5-example\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\14-properties\5-example\ConsoleApplication1Files\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\14-properties\5-example\ConsoleApplication1Files\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\1-console-applications\14-properties\5-example\ConsoleApplication1Files\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
