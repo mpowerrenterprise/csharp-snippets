@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\method\method\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\method\method\obj\Debug\method.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\method\method\obj\Debug\method.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\method\method\obj\Debug\method.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\bin\Debug\method.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\obj\Debug\method.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\obj\Debug\method.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\bin\Debug\method.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\bin\Debug\method.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\obj\Debug\method.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\obj\Debug\method.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\obj\Debug\method.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\14-method\1-example\method\obj\Debug\method.csproj.GenerateResource.Cache

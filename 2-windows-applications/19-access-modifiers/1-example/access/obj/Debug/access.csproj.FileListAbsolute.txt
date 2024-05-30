@@ -1,1 +1,5 @@
 c:\users\joker hacker\documents\visual studio 2015\Projects\access\access\bin\Debug\access.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\1-example\access\bin\Debug\access.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\1-example\access\obj\Debug\access.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\1-example\access\obj\Debug\access.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\1-example\access\obj\Debug\access.csproj.GenerateResource.Cache

@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\nameSpace\nameSpace\
 c:\users\joker hacker\documents\visual studio 2015\Projects\nameSpace\nameSpace\obj\Debug\nameSpace.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\nameSpace\nameSpace\obj\Debug\nameSpace.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\nameSpace\nameSpace\obj\Debug\nameSpace.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\bin\Debug\nameSpace.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\obj\Debug\nameSpace.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\obj\Debug\nameSpace.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\bin\Debug\nameSpace.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\bin\Debug\nameSpace.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\obj\Debug\nameSpace.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\obj\Debug\nameSpace.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\obj\Debug\nameSpace.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\17-namespace\nameSpace\obj\Debug\nameSpace.csproj.GenerateResource.Cache

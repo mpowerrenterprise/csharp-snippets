@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\Constu\Constu\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\Constu\Constu\obj\Debug\Constu.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\Constu\Constu\obj\Debug\Constu.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\Constu\Constu\obj\Debug\Constu.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\bin\Debug\Constu.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\obj\Debug\Constu.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\obj\Debug\Constu.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\bin\Debug\Constu.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\bin\Debug\Constu.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\obj\Debug\Constu.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\obj\Debug\Constu.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\obj\Debug\Constu.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\18-constructor\2-default-constructor\Constu\obj\Debug\Constu.csproj.GenerateResource.Cache

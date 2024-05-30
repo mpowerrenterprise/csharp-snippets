@@ -7,3 +7,10 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\proper\proper\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\proper\proper\obj\Debug\proper.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\proper\proper\obj\Debug\proper.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\proper\proper\obj\Debug\proper.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\22-properties\2-example\proper\bin\Debug\proper.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\22-properties\2-example\proper\obj\Debug\proper.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\22-properties\2-example\proper\obj\Debug\proper.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\22-properties\2-example\proper\obj\Debug\proper.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\22-properties\2-example\proper\obj\Debug\proper.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\22-properties\2-example\proper\obj\Debug\proper.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\22-properties\2-example\proper\obj\Debug\proper.csproj.GenerateResource.Cache

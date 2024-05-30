@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\errorStatic\errorSta
 c:\users\joker hacker\documents\visual studio 2015\Projects\errorStatic\errorStatic\bin\Debug\errorStatic.pdb
 c:\users\joker hacker\documents\visual studio 2015\Projects\errorStatic\errorStatic\obj\Debug\errorStatic.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\errorStatic\errorStatic\obj\Debug\errorStatic.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\bin\Debug\errorStatic.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\obj\Debug\errorStatic.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\obj\Debug\errorStatic.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\bin\Debug\errorStatic.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\bin\Debug\errorStatic.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\obj\Debug\errorStatic.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\obj\Debug\errorStatic.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\obj\Debug\errorStatic.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\23-custom-exception\errorStatic\obj\Debug\errorStatic.csproj.GenerateResource.Cache

@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\access\access\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\access\access\obj\Debug\access.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\access\access\obj\Debug\access.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\access\access\obj\Debug\access.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\bin\Debug\access.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\obj\Debug\access.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\obj\Debug\access.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\bin\Debug\access.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\bin\Debug\access.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\obj\Debug\access.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\obj\Debug\access.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\obj\Debug\access.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\19-access-modifiers\3-example\access\obj\Debug\access.csproj.GenerateResource.Cache
