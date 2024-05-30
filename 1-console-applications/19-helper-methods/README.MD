@@ -45,7 +45,7 @@ namespace HelperMethods
 
 ### Ouput
 
-![helper-methods](media/1.png)
+![helper-methods](media/1x.png)
 
 
 

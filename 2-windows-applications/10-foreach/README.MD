@@ -51,8 +51,8 @@ namespace forLoop
 
 ### Ouput
 
-![1-foreach-loop-with-lilst](media/1.png)
-![1-foreach-loop-with-lilst](media/2.png)
+![1-foreach-loop-with-lilst](media/1x.png)
+![1-foreach-loop-with-lilst](media/2x.png)
 
 ## 2- 1-for-loop-with-list Example
 
@@ -105,8 +105,8 @@ namespace forLoop
 
 ### Ouput
 
-![2-foreach-loop-with-array](media/3.png)
-![2-foreach-loop-with-array](media/4.png)
+![2-foreach-loop-with-array](media/3x.png)
+![2-foreach-loop-with-array](media/4x.png)
 
 
 

@@ -12,8 +12,8 @@
 
 ### Ouput
 
-![1- Example](media/1.png)
-![1- Example](media/2.png)
+![1- Example](media/1x.png)
+![1- Example](media/2x.png)
 
 ## 2- Example
 
@@ -24,8 +24,8 @@
 ```
 ### Ouput
 
-![2-example](media/3.png)
-![2-example](media/4.png)
+![2-example](media/3x.png)
+![2-example](media/4x.png)
 
 ## 3-Example
 
@@ -68,8 +68,8 @@ namespace access
 
 ### Ouput
 
-![3-example](media/5.png)
-![3-example](media/6.png)
+![3-example](media/5x.png)
+![3-example](media/6x.png)
 
 
 

@@ -40,8 +40,8 @@ namespace methodsOverloading
 
 ### Ouput
 
-![methodsOverloading](media/1.png)
-![methodsOverloading](media/2.png)
+![methodsOverloading](media/1x.png)
+![methodsOverloading](media/2x.png)
 
 
 

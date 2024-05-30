@@ -68,7 +68,7 @@ In other words, generics allow you to write a class or method that can work with
 
 ### Ouput
 
-![ConsoleApplication1](media/1.png)
+![ConsoleApplication1](media/1x.png)
 
 
 

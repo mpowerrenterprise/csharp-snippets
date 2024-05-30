@@ -36,7 +36,7 @@ namespace DestructorAndConstructor
         {
 
 
-            i = Image.FromFile("C:\\Users\\Joker Hacker\\Desktop\\k.png");
+            i = Image.FromFile("C:\\Users\\Joker Hacker\\Desktop\\kx.png");
 
         }
 

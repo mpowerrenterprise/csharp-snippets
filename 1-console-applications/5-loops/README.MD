@@ -35,7 +35,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![1-for-loops](media/1.png)
+![1-for-loops](media/1x.png)
 
 
 
@@ -80,7 +80,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![1-for-loop](media/2.png)
+![1-for-loop](media/2x.png)
 
 ## 3- Example
 
@@ -121,7 +121,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/3.png)
+![1-for-loop](media/3x.png)
 
 ## 4- Example
 
@@ -160,7 +160,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/4.png)
+![1-for-loop](media/4x.png)
 
 ## 5- Example
 
@@ -201,7 +201,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/5.png)
+![1-for-loop](media/5x.png)
 
 ## 6- Example
 
@@ -244,7 +244,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/6.png)
+![1-for-loop](media/6x.png)
 
 ## 7- Example
 
@@ -286,7 +286,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/7.png)
+![1-for-loop](media/7x.png)
 
 ## 8- Example
 
@@ -328,7 +328,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/8.png)
+![1-for-loop](media/8x.png)
 
 ## 9- Example
 
@@ -412,7 +412,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![1-for-loop](media/9.png)
+![1-for-loop](media/9x.png)
 
 ## 10- Example
 
@@ -453,7 +453,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/10.png)
+![1-for-loop](media/10x.png)
 
 ## 11- Example
 
@@ -493,7 +493,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/11.png)
+![1-for-loop](media/11x.png)
 
 ## 12- Example
 
@@ -533,7 +533,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/12.png)
+![1-for-loop](media/12x.png)
 
 ## 13- Example
 
@@ -575,4 +575,4 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![1-for-loop](media/13.png)
+![1-for-loop](media/13x.png)

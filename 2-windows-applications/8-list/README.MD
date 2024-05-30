@@ -46,8 +46,8 @@ namespace list
 
 ### Ouput
 
-![1-example](media/1.png)
-![1-example](media/2.png)
+![1-example](media/1x.png)
+![1-example](media/2x.png)
 
 ## 2- Example
 
@@ -93,8 +93,8 @@ namespace list
 
 ### Ouput
 
-![2-example](media/3.png)
-![2-example](media/4.png)
+![2-example](media/3x.png)
+![2-example](media/4x.png)
 
 
 

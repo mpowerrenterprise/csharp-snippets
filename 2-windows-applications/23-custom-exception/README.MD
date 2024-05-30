@@ -48,8 +48,8 @@ namespace errorStatic
 
 ### Ouput
 
-![errorStatic](media/1.png)
-![errorStatic](media/2.png)
+![errorStatic](media/1x.png)
+![errorStatic](media/2x.png)
 
 
 

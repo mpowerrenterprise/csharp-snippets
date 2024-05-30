@@ -24,7 +24,7 @@ namespace openfildia
 
             ofd.Title = "Select a image file Jpg or png";//Title for it.
 
-            ofd.Filter = "PNG Image|*.png|JPG image|*.jpg";//file types that shoud supports.
+            ofd.Filter = "PNG Image|*x.png|JPG image|*.jpg";//file types that shoud supports.
 
             if (ofd.ShowDialog() == DialogResult.OK) {//if the user select an item
 

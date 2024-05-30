@@ -38,8 +38,8 @@ namespace list
 
 ### Ouput
 
-![1-for-loop-with-array](media/1.png)
-![1-for-loop-with-array](media/2.png)
+![1-for-loop-with-array](media/1x.png)
+![1-for-loop-with-array](media/2x.png)
 
 ## 2- 1-for-loop-with-list Example
 
@@ -91,8 +91,8 @@ namespace forLoop
 
 ### Ouput
 
-![2-for-loop-with-list](media/3.png)
-![2-for-loop-with-list](media/4.png)
+![2-for-loop-with-list](media/3x.png)
+![2-for-loop-with-list](media/4x.png)
 
 
 

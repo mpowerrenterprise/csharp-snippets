@@ -45,7 +45,7 @@ namespace HelloWorld
 
 ### Ouput
 
-![2-mouseover-msg-box](media/1.png)
+![2-mouseover-msg-box](media/1x.png)
 
 
 

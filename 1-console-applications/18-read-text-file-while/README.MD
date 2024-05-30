@@ -39,7 +39,7 @@ namespace ReadTextFileWhile
 
 ### Ouput
 
-![read-text-file](media/1.png)
+![read-text-file](media/1x.png)
 
 
 

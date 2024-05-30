@@ -39,9 +39,9 @@ namespace properties
 
 ### Ouput
 
-![1-button-text-change](media/1.png)
+![1-button-text-change](media/1x.png)
 
-![1-button-text-change](media/2.png)
+![1-button-text-change](media/2x.png)
 
 ## 2-button-disable Example
 
@@ -82,7 +82,7 @@ namespace properties
 
 ### Ouput
 
-![2-button-disable](media/3.png)
+![2-button-disable](media/3x.png)
 
 
 ## 3-change-the-height-and-width Example
@@ -124,9 +124,9 @@ namespace properties
 ```
 ### Ouput
 
-![3-change-the-height-and-width](media/4.png)
+![3-change-the-height-and-width](media/4x.png)
 
-![3-change-the-height-and-width](media/5.png)
+![3-change-the-height-and-width](media/5x.png)
 
 ## 4-textbox-chanege Example
 
@@ -164,8 +164,8 @@ namespace properties
 ```
 ### Ouput
 
-![4-textbox-chanege](media/6.png)
-![4-textbox-chanege](media/7.png)
+![4-textbox-chanege](media/6x.png)
+![4-textbox-chanege](media/7x.png)
 
 ## 5-maxlength Example
 
@@ -205,8 +205,8 @@ namespace properties
 ```
 ### Ouput
 
-![5-maxlength](media/8.png)
-![5-maxlength](media/9.png)
+![5-maxlength](media/8x.png)
+![5-maxlength](media/9x.png)
 
 
 

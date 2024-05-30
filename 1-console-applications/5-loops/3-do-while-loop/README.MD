@@ -40,7 +40,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![3-do-while-loop](media/1.png)
+![3-do-while-loop](media/1x.png)
 
 
 

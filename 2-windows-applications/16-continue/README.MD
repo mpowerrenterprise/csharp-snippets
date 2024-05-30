@@ -56,8 +56,8 @@ namespace ConBrack
 
 ### Ouput
 
-![ConBrack](media/1.png)
-![ConBrack](media/2.png)
+![ConBrack](media/1x.png)
+![ConBrack](media/2x.png)
 
 
 

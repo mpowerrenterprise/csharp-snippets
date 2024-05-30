@@ -48,7 +48,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![1-example](media/exp1.png)
+![1-example](media/exp1x.png)
 
 ## 2- Example
 
@@ -104,7 +104,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![2-example](media/exp2.png)
+![2-example](media/exp2x.png)
 
 ## 3- Example
 
@@ -157,7 +157,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![3-example](media/exp3.png)
+![3-example](media/exp3x.png)
 
 ## 4- Example
 
@@ -213,7 +213,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![4-example](media/exp4.png)
+![4-example](media/exp4x.png)
 
 ## 5- Example
 
@@ -266,7 +266,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![5-example](media/exp5.png)
+![5-example](media/exp5x.png)
 
 ## 6- Example
 
@@ -335,7 +335,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![6-example](media/exp6.png)
+![6-example](media/exp6x.png)
 
 ## 7- Example
 
@@ -395,7 +395,7 @@ namespace ConsoleApplication1
 
 ```
 ### Output
-![7-example](media/exp7.png)
+![7-example](media/exp7x.png)
 
 ## 8- Example
 
@@ -459,5 +459,5 @@ namespace SimpleClasses
 
 ```
 ### Output
-![8-example](media/exp8.png)
+![8-example](media/exp8x.png)
 

@@ -6,7 +6,7 @@ C# is a powerful programming language developed by Microsoft, known for its vers
 
 Its strong typing system enhances code safety, and it is commonly used with frameworks like ASP.NET for web development. C# finds applications in game development (Unity), Windows desktop apps, and cloud services, making it a versatile choice within the Microsoft ecosystem.
 
-![Banner Image](0-media/0-banner-image.png)
+![Banner Image](0-media/0-banner-imagex.png)
 
 ## Learning Resources
 

@@ -56,8 +56,8 @@ namespace swSta
 
 ### Ouput
 
-![swSta](media/1.png)
-![swSta](media/2.png)
+![swSta](media/1x.png)
+![swSta](media/2x.png)
 
 
 
