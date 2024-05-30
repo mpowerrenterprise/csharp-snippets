@@ -44,7 +44,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![odd](media/odd2.png)
+![odd](media/odd2.PNG)
 
 
 

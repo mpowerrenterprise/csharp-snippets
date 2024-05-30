@@ -32,7 +32,7 @@ namespace HelloWorld
 
 ### Ouput
 
-![HelloWorld](media/helloword-exmaple.png)
+![HelloWorld](media/helloword-exmaple.PNG)
 
 
 
@@ -94,7 +94,7 @@ namespace Variables
 
 ### Ouput
 
-![HelloWorld](media/variables.png)
+![HelloWorld](media/variables.PNG)
 
 ## 2-strings Example
 
@@ -166,7 +166,7 @@ namespace Strings
 ```
 ### Ouput
 
-![HelloWorld](media/string.png)
+![HelloWorld](media/string.PNG)
 
 ## 3-operators-expressions-statements Example
 
@@ -253,7 +253,7 @@ namespace OperatorsExpressionsStatements
 
 ### Ouput
 
-![HelloWorld](media/operators.png)
+![HelloWorld](media/operators.PNG)
 
 ## 4-understanding-scope Example
 
@@ -334,4 +334,4 @@ namespace UnderstandingScope
 ```
 ### Ouput
 
-![HelloWorld](media/understandingscope.png)
+![HelloWorld](media/understandingscope.PNG)

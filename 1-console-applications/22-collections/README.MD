@@ -58,7 +58,7 @@ namespace Collections
 
 ### Ouput
 
-![collections](media/1.png)
+![collections](media/1.PNG)
 
 
 

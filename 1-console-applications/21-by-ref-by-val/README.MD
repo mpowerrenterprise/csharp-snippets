@@ -44,7 +44,7 @@ namespace ByRefByVal
 
 ### Ouput
 
-![ByRefByVal](media/1.png)
+![ByRefByVal](media/1.PNG)
 
 
 

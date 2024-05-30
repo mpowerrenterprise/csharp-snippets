@@ -50,7 +50,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![simple-calculator](media/1example.png)
+![simple-calculator](media/1example.PNG)
 
 
 
@@ -99,7 +99,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![simple-calculator](media/2example.png)
+![simple-calculator](media/2example.PNG)
 
 ## 3 Example
 
@@ -140,5 +140,5 @@ namespace ConsoleApplication1
 
 ```
 ### Output
-![simple-calculator](media/3example.png)
+![simple-calculator](media/3example.PNG)
 

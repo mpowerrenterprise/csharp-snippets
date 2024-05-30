@@ -41,8 +41,8 @@ namespace proper
 
 ### Ouput
 
-![1-example](media/1.png)
-![1-example](media/2.png)
+![1-example](media/1.PNG)
+![1-example](media/2.PNG)
 
 ## 2- Example
 
@@ -55,8 +55,8 @@ namespace proper
 
 ### Ouput
 
-![2-example](media/3.png)
-![2-example](media/4.png)
+![2-example](media/3.PNG)
+![2-example](media/4.PNG)
 
 ## 3- Example
 
@@ -100,8 +100,8 @@ namespace proper
 
 ### Ouput
 
-![3-example](media/5.png)
-![3-example](media/6.png)
+![3-example](media/5.PNG)
+![3-example](media/6.PNG)
 
 
 

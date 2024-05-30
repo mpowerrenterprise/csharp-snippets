@@ -45,7 +45,7 @@ namespace ForIterations
 
 ### Ouput
 
-![4-for-iterations](media/example1.png)
+![4-for-iterations](media/example1.PNG)
 
 
 

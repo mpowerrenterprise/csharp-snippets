@@ -58,9 +58,9 @@ namespace ifStae
 
 ### Ouput
 
-![1-example](media/1.png)
+![1-example](media/1.PNG)
 
-![1-example](media/2.png)
+![1-example](media/2.PNG)
 
 ## 2- Example
 
@@ -106,7 +106,7 @@ namespace ifStae
 
 ### Ouput
 
-![2-example](media/3.png)
+![2-example](media/3.PNG)
 
 ## 3- Example
 
@@ -151,7 +151,7 @@ namespace ifStae
 
 ### Ouput
 
-![3-example](media/4.png)
+![3-example](media/4.PNG)
 
 ## 4- Example
 
@@ -196,8 +196,8 @@ namespace ifStae
 ```
 ### Ouput
 
-![4-example](media/5.png)
-![4-example](media/6.png)
+![4-example](media/5.PNG)
+![4-example](media/6.PNG)
 
 ## 5- Example
 
@@ -248,8 +248,8 @@ namespace ifStae
 ```
 ### Ouput
 
-![5-example](media/7.png)
-![5-example](media/8.png)
+![5-example](media/7.PNG)
+![5-example](media/8.PNG)
 
 ## 6- Example
 
@@ -302,8 +302,8 @@ namespace ifStae
 
 ### Ouput
 
-![6-example](media/9.png)
-![6-example](media/10.png)
+![6-example](media/9.PNG)
+![6-example](media/10.PNG)
 
 ## 7- Example
 
@@ -354,8 +354,8 @@ namespace ifStae
 
 ```
 ### Output
-![7-example](media/10.png)
-![7-example](media/11.png)
+![7-example](media/10.PNG)
+![7-example](media/11.PNG)
 
 ## 8- and-if-concept
 
@@ -413,8 +413,8 @@ namespace ifStae
 
 ```
 ### Output
-![8-and-if-concept](media/13.png)
-![8-and-if-concept](media/12.png)
+![8-and-if-concept](media/13.PNG)
+![8-and-if-concept](media/12.PNG)
 
 ## 9- and-if
 
@@ -465,8 +465,8 @@ namespace ifStae
 
 ```
 ### Output
-![and-if](media/15.png)
-![and-if](media/14.png)
+![and-if](media/15.PNG)
+![and-if](media/14.PNG)
 
 ## 10- or-if
 
@@ -518,8 +518,8 @@ namespace ifStae
 
 ```
 ### Output
-![or-if](media/17.png)
-![or-if](media/18.png)
+![or-if](media/17.PNG)
+![or-if](media/18.PNG)
 
 
 

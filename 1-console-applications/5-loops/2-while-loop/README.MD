@@ -42,7 +42,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![2-while-loop](media/example1.png)
+![2-while-loop](media/example1.PNG)
 
 
 
@@ -96,7 +96,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![2-while-loop](media/example2.png)
+![2-while-loop](media/example2.PNG)
 
 
 

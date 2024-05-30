@@ -52,8 +52,8 @@ namespace method
 
 ### Ouput
 
-![1-example](media/1.png)
-![1-example](media/2.png)
+![1-example](media/1.PNG)
+![1-example](media/2.PNG)
 
 ## 2-method-paramete Example
 
@@ -109,8 +109,8 @@ namespace method
 
 ### Ouput
 
-![2-method-paramete](media/3.png)
-![2-method-paramete](media/4.png)
+![2-method-paramete](media/3.PNG)
+![2-method-paramete](media/4.PNG)
 
 ## 3-return-types Example
 
@@ -160,8 +160,8 @@ namespace methodretuen
 ```
 ### Ouput
 
-![3-return-types](media/5.png)
-![3-return-types](media/6.png)
+![3-return-types](media/5.PNG)
+![3-return-types](media/6.PNG)
 
 ## 4-advanced Example
 
@@ -215,8 +215,8 @@ namespace method
 ```
 ### Ouput
 
-![4-advanced](media/7.png)
-![4-advanced](media/8.png)
+![4-advanced](media/7.PNG)
+![4-advanced](media/8.PNG)
 
 ## 5-return-type-boolean Example
 
@@ -263,8 +263,8 @@ namespace retutnetho
 ```
 ### Ouput
 
-![5-return-type-boolean](media/9.png)
-![5-return-type-boolean](media/10.png)
+![5-return-type-boolean](media/9.PNG)
+![5-return-type-boolean](media/10.PNG)
 
 
 

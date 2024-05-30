@@ -44,7 +44,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![array](media/exp1.png)
+![array](media/exp1.PNG)
 
 
 
@@ -96,7 +96,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![array](media/exp2.png)
+![array](media/exp2.PNG)
 
 ## 3- Example
 
@@ -150,7 +150,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![array](media/exp3.png)
+![array](media/exp3.PNG)
 
 ## 4- Example
 
@@ -204,7 +204,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![array](media/exp4.png)
+![array](media/exp4.PNG)
 
 ## 5- Example
 
@@ -252,7 +252,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![array](media/exp5.png)
+![array](media/exp5.PNG)
 
 ## 6- Example
 
@@ -297,7 +297,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![array](media/exp6.png)
+![array](media/exp6.PNG)
 
 ## 7- Example
 
@@ -334,7 +334,7 @@ namespace ConsoleApplication1
 
 ```
 ### Output
-![array](media/exp7.png)
+![array](media/exp7.PNG)
 
 ## 8- Example
 
@@ -396,5 +396,5 @@ namespace UnderstandingArrays
 
 ```
 ### Output
-![array](media/exp8.png)
+![array](media/exp8.PNG)
 

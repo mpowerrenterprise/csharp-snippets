@@ -75,7 +75,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![switch](media/1.png)
+![switch](media/1.PNG)
 
 
 
@@ -144,7 +144,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![switch](media/2.png)
+![switch](media/2.PNG)
 
 
 ## 3 - Example
@@ -242,7 +242,7 @@ namespace ConsoleApplication1
 
 ```
 ### Output
-![switch](media/3.png)
+![switch](media/3.PNG)
 
 ## 4 - Example
 
@@ -287,4 +287,4 @@ namespace UsingSwitch
 }
 ```
 ### Output
-![switch](media/4.png)
+![switch](media/4.PNG)
