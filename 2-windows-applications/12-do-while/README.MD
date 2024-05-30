@@ -48,8 +48,8 @@ namespace whileAndDo
 
 ### Ouput
 
-![whilAndDo](media/1.PNG)
-![whilAndDo](media/2.PNG)
+![whilAndDo](media/1.png)
+![whilAndDo](media/2.png)
 
 
 

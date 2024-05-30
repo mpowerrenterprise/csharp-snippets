@@ -38,8 +38,8 @@ namespace nameSpace
 
 ### Ouput
 
-![nameSpace](media/1.PNG)
-![nameSpace](media/2.PNG)
+![nameSpace](media/1.png)
+![nameSpace](media/2.png)
 
 
 

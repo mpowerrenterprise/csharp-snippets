@@ -87,7 +87,7 @@ namespace variables
 
 ### Ouput
 
-![variables](media/1.PNG)
+![variables](media/1.png)
 
 
 

@@ -53,8 +53,8 @@ namespace tryandcatch
 
 ### Ouput
 
-![1-example](media/1.PNG)
-![1-example](media/2.PNG)
+![1-example](media/1.png)
+![1-example](media/2.png)
 
 ## 2-with-finally Example
 
@@ -114,8 +114,8 @@ namespace tryandcatch
 
 ### Ouput
 
-![2-with-finally](media/3.PNG)
-![2-with-finally](media/4.PNG)
+![2-with-finally](media/3.png)
+![2-with-finally](media/4.png)
 
 
 

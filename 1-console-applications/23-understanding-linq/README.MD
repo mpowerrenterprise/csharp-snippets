@@ -64,7 +64,7 @@ namespace UnderstandingLINQ
 
 ### Ouput
 
-![understandingLINQ](media/1.PNG)
+![understandingLINQ](media/1.png)
 
 
 

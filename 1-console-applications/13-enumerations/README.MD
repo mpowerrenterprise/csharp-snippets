@@ -69,7 +69,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![1-example](media/example1.PNG)
+![1-example](media/example1.png)
 
 
 
@@ -144,7 +144,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![2-example](media/example2.PNG)
+![2-example](media/example2.png)
 
 ## 3 Example
 
@@ -204,5 +204,5 @@ namespace Enumerations
 
 ```
 ### Output
-![3-example](media/example3.PNG)
+![3-example](media/example3.png)
 

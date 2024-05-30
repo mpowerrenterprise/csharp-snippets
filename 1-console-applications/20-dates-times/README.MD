@@ -42,7 +42,7 @@ namespace DatesAndTimes
 
 ### Ouput
 
-![datesAndTimes](media/1.PNG)
+![datesAndTimes](media/1.png)
 
 
 

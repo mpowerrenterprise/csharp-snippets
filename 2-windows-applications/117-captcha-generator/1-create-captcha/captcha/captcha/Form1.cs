@@ -101,7 +101,7 @@ namespace captcha
 
             foreach (Image im in images) {
 
-                im.Save(label1.Text + "\\" + strings[g] + ".PNG");
+                im.Save(label1.Text + "\\" + strings[g] + ".png");
                 g++;
             }
             MessageBox.Show("Completed");

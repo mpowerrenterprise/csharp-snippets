@@ -46,7 +46,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![methods](media/exp1.PNG)
+![methods](media/exp1.png)
 
 
 
@@ -103,7 +103,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![methods](media/exp2.PNG)
+![methods](media/exp2.png)
 
 ## 3- Example
 
@@ -149,7 +149,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![methods](media/exp3.PNG)
+![methods](media/exp3.png)
 
 ## 4- Example
 
@@ -193,7 +193,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![methods](media/exp4.PNG)
+![methods](media/exp4.png)
 
 ## 5- Example
 
@@ -250,7 +250,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![methods](media/exp5.PNG)
+![methods](media/exp5.png)
 
 ## 6- Example
 
@@ -303,7 +303,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![methods](media/exp6.PNG)
+![methods](media/exp6.png)
 
 ## 7- Example
 
@@ -343,4 +343,4 @@ namespace ConsoleApplication1
 
 
 ```
-![methods](media/exp7.PNG)
+![methods](media/exp7.png)

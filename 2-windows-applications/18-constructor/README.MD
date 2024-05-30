@@ -38,8 +38,8 @@ namespace Constu
 
 ### Ouput
 
-![1-overloading-constructor](media/1.PNG)
-![1-overloading-constructor](media/2.PNG)
+![1-overloading-constructor](media/1.png)
+![1-overloading-constructor](media/2.png)
 
 ## 2-default-constructor Example
 
@@ -80,8 +80,8 @@ namespace Constu
 ```
 ### Ouput
 
-![2-default-constructor](media/3.PNG)
-![2-default-constructor](media/4.PNG)
+![2-default-constructor](media/3.png)
+![2-default-constructor](media/4.png)
 
 ## 3-overloing Example
 
@@ -121,7 +121,7 @@ namespace methodsOverloading
 
 ### Ouput
 
-![3-overloing](media/5.PNG)
+![3-overloing](media/5.png)
 
 
 

@@ -42,7 +42,7 @@ namespace HelloWorld
 
 ### Ouput
 
-![1-message-box](media/1.PNG)
+![1-message-box](media/1.png)
 
 
 

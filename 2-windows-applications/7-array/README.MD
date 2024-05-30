@@ -44,8 +44,8 @@ namespace arraySystem
 
 ### Ouput
 
-![1-example](media/1.PNG)
-![1-example](media/2.PNG)
+![1-example](media/1.png)
+![1-example](media/2.png)
 
 ## 2- Example
 
@@ -92,8 +92,8 @@ namespace arraySystem
 
 ### Ouput
 
-![2-example](media/3.PNG)
-![2-example](media/4.PNG)
+![2-example](media/3.png)
+![2-example](media/4.png)
 
 ## 3- Example
 
@@ -139,8 +139,8 @@ namespace arraySystem
 ```
 ### Ouput
 
-![3-example](media/5.PNG)
-![3-example](media/6.PNG)
+![3-example](media/5.png)
+![3-example](media/6.png)
       
 
 

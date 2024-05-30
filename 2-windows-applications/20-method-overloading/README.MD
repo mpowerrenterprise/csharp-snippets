@@ -11,8 +11,8 @@
 
 ### Ouput
 
-![methodsOverloading](media/1.PNG)
-![methodsOverloading](media/2.PNG)
+![methodsOverloading](media/1.png)
+![methodsOverloading](media/2.png)
 
 
 

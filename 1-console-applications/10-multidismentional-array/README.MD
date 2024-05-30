@@ -54,7 +54,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![1-example](media/exp1.PNG)
+![1-example](media/exp1.png)
 
 
 
@@ -118,4 +118,4 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![2-example](media/exp2.PNG)
+![2-example](media/exp2.png)

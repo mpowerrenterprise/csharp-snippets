@@ -43,7 +43,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![even](media/even1.PNG)
+![even](media/even1.png)
 
 
 

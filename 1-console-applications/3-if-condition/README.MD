@@ -59,7 +59,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![if-condition](media/1exp.PNG)
+![if-condition](media/1exp.png)
 
 
 
@@ -110,7 +110,7 @@ namespace ConsoleApplication1
 
 ### Ouput
 
-![if-condition](media/2exp.PNG)
+![if-condition](media/2exp.png)
 
 ## 3- Example
 
@@ -160,7 +160,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![if-condition](media/3exp.PNG)
+![if-condition](media/3exp.png)
 
 ## 4- Example
 
@@ -212,7 +212,7 @@ namespace ConsoleApplication1
 ```
 ### Ouput
 
-![if-condition](media/4exp.PNG)
+![if-condition](media/4exp.png)
 
 ## 5- Example
 
@@ -269,7 +269,7 @@ namespace Decisions
 ```
 ### Ouput
 
-![if-condition](media/5exp.PNG)
+![if-condition](media/5exp.png)
 
 ## 6- Example
 
@@ -308,4 +308,4 @@ namespace ComplexIfStatement
 ```
 ### Ouput
 
-![if-condition](media/6exp.PNG)
+![if-condition](media/6exp.png)
