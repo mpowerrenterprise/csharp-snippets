@@ -6,3 +6,6 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildi
 c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\obj\Debug\openfildia.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\obj\Debug\openfildia.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildia\obj\Debug\openfildia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\2-example\openfildia\bin\Debug\openfildia.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\2-example\openfildia\obj\Debug\openfildia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\2-example\openfildia\obj\Debug\openfildia.pdb

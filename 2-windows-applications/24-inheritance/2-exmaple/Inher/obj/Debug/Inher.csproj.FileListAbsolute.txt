@@ -7,3 +7,10 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\Inher\Inher\obj\Debu
 c:\users\joker hacker\documents\visual studio 2015\Projects\Inher\Inher\obj\Debug\Inher.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\Inher\Inher\obj\Debug\Inher.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\Inher\Inher\obj\Debug\Inher.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\24-inheritance\2-exmaple\Inher\bin\Debug\Inher.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\24-inheritance\2-exmaple\Inher\obj\Debug\Inher.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\24-inheritance\2-exmaple\Inher\obj\Debug\Inher.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\24-inheritance\2-exmaple\Inher\obj\Debug\Inher.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\24-inheritance\2-exmaple\Inher\obj\Debug\Inher.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\24-inheritance\2-exmaple\Inher\obj\Debug\Inher.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\24-inheritance\2-exmaple\Inher\obj\Debug\Inher.csproj.GenerateResource.Cache

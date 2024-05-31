@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\Convertt\Convertt\ob
 c:\users\joker hacker\documents\visual studio 2015\Projects\Convertt\Convertt\obj\Debug\Convertt.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\Convertt\Convertt\obj\Debug\Convertt.pdb
 c:\users\joker hacker\documents\visual studio 2015\Projects\Convertt\Convertt\obj\Debug\Convertt.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\bin\Debug\Convertt.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\obj\Debug\Convertt.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\obj\Debug\Convertt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\bin\Debug\Convertt.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\bin\Debug\Convertt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\obj\Debug\Convertt.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\obj\Debug\Convertt.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\obj\Debug\Convertt.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\2-example\Convertt\obj\Debug\Convertt.csproj.GenerateResource.Cache

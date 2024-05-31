@@ -14,3 +14,12 @@ D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Appl
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\40.Casting Conversion\01.Example\Convertt\obj\Debug\Convertt.Form1.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\40.Casting Conversion\01.Example\Convertt\obj\Debug\Convertt.Properties.Resources.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\40.Casting Conversion\01.Example\Convertt\obj\Debug\Convertt.csproj.GenerateResource.Cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\bin\Debug\Convertt.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\obj\Debug\Convertt.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\obj\Debug\Convertt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\bin\Debug\Convertt.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\bin\Debug\Convertt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\obj\Debug\Convertt.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\obj\Debug\Convertt.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\obj\Debug\Convertt.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\40-casting-conversion\1-example\Convertt\obj\Debug\Convertt.csproj.GenerateResource.Cache

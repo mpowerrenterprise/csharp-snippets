@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\ternary\ternary\obj\
 c:\users\joker hacker\documents\visual studio 2015\Projects\ternary\ternary\obj\Debug\ternary.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\ternary\ternary\obj\Debug\ternary.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\ternary\ternary\obj\Debug\ternary.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\bin\Debug\ternary.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\obj\Debug\ternary.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\obj\Debug\ternary.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\bin\Debug\ternary.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\bin\Debug\ternary.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\obj\Debug\ternary.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\obj\Debug\ternary.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\obj\Debug\ternary.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\32-ternary\ternary\obj\Debug\ternary.csproj.GenerateResource.Cache

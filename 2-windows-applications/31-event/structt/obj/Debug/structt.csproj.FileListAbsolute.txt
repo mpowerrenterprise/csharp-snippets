@@ -10,3 +10,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\structt\structt\obj\
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\31.Event\01.Exmaple\structt\bin\Debug\structt.exe.config
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\31.Event\01.Exmaple\structt\obj\Debug\structt.exe
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\31.Event\01.Exmaple\structt\obj\Debug\structt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\bin\Debug\structt.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\obj\Debug\structt.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\obj\Debug\structt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\bin\Debug\structt.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\bin\Debug\structt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\obj\Debug\structt.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\obj\Debug\structt.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\obj\Debug\structt.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\31-event\structt\obj\Debug\structt.csproj.GenerateResource.Cache

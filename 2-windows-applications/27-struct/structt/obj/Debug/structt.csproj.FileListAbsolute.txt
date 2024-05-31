@@ -1,1 +1,5 @@
 c:\users\joker hacker\documents\visual studio 2015\Projects\structt\structt\bin\Debug\structt.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\27-struct\structt\bin\Debug\structt.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\27-struct\structt\obj\Debug\structt.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\27-struct\structt\obj\Debug\structt.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\27-struct\structt\obj\Debug\structt.csproj.GenerateResource.Cache

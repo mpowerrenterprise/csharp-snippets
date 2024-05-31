@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\StreamREader2\Stream
 c:\users\joker hacker\documents\visual studio 2015\Projects\StreamREader2\StreamREader2\obj\Debug\StreamREader2.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\StreamREader2\StreamREader2\obj\Debug\StreamREader2.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\StreamREader2\StreamREader2\obj\Debug\StreamREader2.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\bin\Debug\StreamREader2.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\obj\Debug\StreamREader2.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\obj\Debug\StreamREader2.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\bin\Debug\StreamREader2.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\bin\Debug\StreamREader2.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\obj\Debug\StreamREader2.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\obj\Debug\StreamREader2.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\obj\Debug\StreamREader2.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\34-stream-reader\6-peek-vs-read\StreamREader2\obj\Debug\StreamREader2.csproj.GenerateResource.Cache

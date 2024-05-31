@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\saveFileia\saveFilei
 c:\users\joker hacker\documents\visual studio 2015\Projects\saveFileia\saveFileia\obj\Debug\saveFileia.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\saveFileia\saveFileia\obj\Debug\saveFileia.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\saveFileia\saveFileia\obj\Debug\saveFileia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\bin\Debug\saveFileia.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\obj\Debug\saveFileia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\obj\Debug\saveFileia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\bin\Debug\saveFileia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\bin\Debug\saveFileia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\obj\Debug\saveFileia.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\obj\Debug\saveFileia.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\obj\Debug\saveFileia.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\38-save-file-dialog\1-example\saveFileia\obj\Debug\saveFileia.csproj.GenerateResource.Cache

@@ -6,3 +6,10 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\structt\structt\obj\
 c:\users\joker hacker\documents\visual studio 2015\Projects\structt\structt\obj\Debug\structt.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\structt\structt\obj\Debug\structt.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\structt\structt\obj\Debug\structt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\29-abstract\1-example\structt\bin\Debug\structt.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\29-abstract\1-example\structt\obj\Debug\structt.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\29-abstract\1-example\structt\obj\Debug\structt.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\29-abstract\1-example\structt\obj\Debug\structt.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\29-abstract\1-example\structt\obj\Debug\structt.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\29-abstract\1-example\structt\obj\Debug\structt.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\29-abstract\1-example\structt\obj\Debug\structt.csproj.GenerateResource.Cache

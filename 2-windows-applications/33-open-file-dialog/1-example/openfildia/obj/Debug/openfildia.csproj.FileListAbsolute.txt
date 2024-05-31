@@ -9,3 +9,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\openfildia\openfildi
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\33.OpenFileDialog\01.Example\openfildia\bin\Debug\openfildia.exe.config
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\33.OpenFileDialog\01.Example\openfildia\obj\Debug\openfildia.exe
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\33.OpenFileDialog\01.Example\openfildia\obj\Debug\openfildia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\bin\Debug\openfildia.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\obj\Debug\openfildia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\obj\Debug\openfildia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\bin\Debug\openfildia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\bin\Debug\openfildia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\obj\Debug\openfildia.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\obj\Debug\openfildia.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\obj\Debug\openfildia.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\33-open-file-dialog\1-example\openfildia\obj\Debug\openfildia.csproj.GenerateResource.Cache
