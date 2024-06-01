@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\path\path\obj\Debug\
 c:\users\joker hacker\documents\visual studio 2015\Projects\path\path\obj\Debug\path.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\path\path\obj\Debug\path.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\path\path\obj\Debug\path.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\bin\Debug\path.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\obj\Debug\path.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\obj\Debug\path.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\bin\Debug\path.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\bin\Debug\path.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\obj\Debug\path.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\obj\Debug\path.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\obj\Debug\path.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\54-path\4-get-file-name-without-extension\path\obj\Debug\path.csproj.GenerateResource.Cache

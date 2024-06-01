@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\FolderBrowerDia\Fold
 c:\users\joker hacker\documents\visual studio 2015\Projects\FolderBrowerDia\FolderBrowerDia\obj\Debug\FolderBrowerDia.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\FolderBrowerDia\FolderBrowerDia\obj\Debug\FolderBrowerDia.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\FolderBrowerDia\FolderBrowerDia\obj\Debug\FolderBrowerDia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\bin\Debug\FolderBrowerDia.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\obj\Debug\FolderBrowerDia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\obj\Debug\FolderBrowerDia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\bin\Debug\FolderBrowerDia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\bin\Debug\FolderBrowerDia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\obj\Debug\FolderBrowerDia.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\obj\Debug\FolderBrowerDia.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\obj\Debug\FolderBrowerDia.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\52-directory\8-create-directory\FolderBrowerDia\obj\Debug\FolderBrowerDia.csproj.GenerateResource.Cache
