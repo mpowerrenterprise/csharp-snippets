@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\imageBox\imageBox\ob
 c:\users\joker hacker\documents\visual studio 2015\Projects\imageBox\imageBox\obj\Debug\imageBox.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\imageBox\imageBox\obj\Debug\imageBox.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\imageBox\imageBox\obj\Debug\imageBox.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\bin\Debug\imageBox.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\obj\Debug\imageBox.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\obj\Debug\imageBox.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\bin\Debug\imageBox.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\bin\Debug\imageBox.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\obj\Debug\imageBox.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\obj\Debug\imageBox.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\obj\Debug\imageBox.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\62-picture-box\2-example\imageBox\obj\Debug\imageBox.csproj.GenerateResource.Cache

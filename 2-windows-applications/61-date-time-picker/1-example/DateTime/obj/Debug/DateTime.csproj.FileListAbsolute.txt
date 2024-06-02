@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\DateTime\DateTime\ob
 c:\users\joker hacker\documents\visual studio 2015\Projects\DateTime\DateTime\obj\Debug\DateTime.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\DateTime\DateTime\obj\Debug\DateTime.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\DateTime\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\obj\Debug\DateTime.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\bin\Debug\DateTime.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\obj\Debug\DateTime.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\obj\Debug\DateTime.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\61-date-time-picker\1-example\DateTime\obj\Debug\DateTime.csproj.GenerateResource.Cache

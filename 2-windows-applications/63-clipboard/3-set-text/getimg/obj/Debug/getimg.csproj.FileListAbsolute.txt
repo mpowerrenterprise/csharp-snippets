@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\getimg\getimg\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\getimg\getimg\obj\Debug\getimg.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\getimg\getimg\obj\Debug\getimg.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\getimg\getimg\obj\Debug\getimg.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\bin\Debug\getimg.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\obj\Debug\getimg.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\obj\Debug\getimg.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\bin\Debug\getimg.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\bin\Debug\getimg.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\obj\Debug\getimg.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\obj\Debug\getimg.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\obj\Debug\getimg.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\63-clipboard\3-set-text\getimg\obj\Debug\getimg.csproj.GenerateResource.Cache

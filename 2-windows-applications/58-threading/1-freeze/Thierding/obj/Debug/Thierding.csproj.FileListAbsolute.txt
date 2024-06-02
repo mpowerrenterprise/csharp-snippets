@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\
 c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\obj\Debug\Thierding.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\obj\Debug\Thierding.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\Thierding\Thierding\obj\Debug\Thierding.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\bin\Debug\Thierding.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\obj\Debug\Thierding.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\obj\Debug\Thierding.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\bin\Debug\Thierding.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\bin\Debug\Thierding.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\obj\Debug\Thierding.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\obj\Debug\Thierding.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\obj\Debug\Thierding.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\58-threading\1-freeze\Thierding\obj\Debug\Thierding.csproj.GenerateResource.Cache

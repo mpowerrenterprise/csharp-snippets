@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\Bitwse\Bitwse\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\Bitwse\Bitwse\obj\Debug\Bitwse.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\Bitwse\Bitwse\obj\Debug\Bitwse.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\Bitwse\Bitwse\obj\Debug\Bitwse.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\bin\Debug\Bitwse.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\obj\Debug\Bitwse.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\obj\Debug\Bitwse.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\bin\Debug\Bitwse.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\bin\Debug\Bitwse.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\obj\Debug\Bitwse.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\obj\Debug\Bitwse.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\obj\Debug\Bitwse.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\57-bitwise-operator\2-and\Bitwse\obj\Debug\Bitwse.csproj.GenerateResource.Cache

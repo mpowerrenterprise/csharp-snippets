@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\ColorDia\ColorDia\ob
 c:\users\joker hacker\documents\visual studio 2015\Projects\ColorDia\ColorDia\obj\Debug\ColorDia.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\ColorDia\ColorDia\obj\Debug\ColorDia.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\ColorDia\ColorDia\obj\Debug\ColorDia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\bin\Debug\ColorDia.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\obj\Debug\ColorDia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\obj\Debug\ColorDia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\bin\Debug\ColorDia.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\bin\Debug\ColorDia.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\obj\Debug\ColorDia.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\obj\Debug\ColorDia.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\obj\Debug\ColorDia.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\64-color-dialog\4-show-help\ColorDia\obj\Debug\ColorDia.csproj.GenerateResource.Cache
