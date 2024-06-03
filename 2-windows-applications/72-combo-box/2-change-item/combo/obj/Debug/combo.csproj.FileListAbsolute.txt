@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\combo\combo\obj\Debu
 c:\users\joker hacker\documents\visual studio 2015\Projects\combo\combo\obj\Debug\combo.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\combo\combo\obj\Debug\combo.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\combo\combo\obj\Debug\combo.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\bin\Debug\combo.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\obj\Debug\combo.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\obj\Debug\combo.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\bin\Debug\combo.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\bin\Debug\combo.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\obj\Debug\combo.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\obj\Debug\combo.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\obj\Debug\combo.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\72-combo-box\2-change-item\combo\obj\Debug\combo.csproj.GenerateResource.Cache

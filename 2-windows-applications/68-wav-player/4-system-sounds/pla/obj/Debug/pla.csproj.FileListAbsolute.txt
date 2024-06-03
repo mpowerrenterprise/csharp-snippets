@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pl
 c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pla.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pla.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\pla\pla\obj\Debug\pla.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\bin\Debug\pla.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\obj\Debug\pla.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\obj\Debug\pla.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\bin\Debug\pla.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\bin\Debug\pla.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\obj\Debug\pla.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\obj\Debug\pla.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\obj\Debug\pla.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\68-wav-player\4-system-sounds\pla\obj\Debug\pla.csproj.GenerateResource.Cache

@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\fontDIa\fontDIa\obj\
 c:\users\joker hacker\documents\visual studio 2015\Projects\fontDIa\fontDIa\obj\Debug\fontDIa.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\fontDIa\fontDIa\obj\Debug\fontDIa.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\fontDIa\fontDIa\obj\Debug\fontDIa.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\bin\Debug\fontDIa.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\obj\Debug\fontDIa.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\obj\Debug\fontDIa.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\bin\Debug\fontDIa.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\bin\Debug\fontDIa.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\obj\Debug\fontDIa.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\obj\Debug\fontDIa.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\obj\Debug\fontDIa.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\66-font-dialog\1-example\fontDIa\obj\Debug\fontDIa.csproj.GenerateResource.Cache

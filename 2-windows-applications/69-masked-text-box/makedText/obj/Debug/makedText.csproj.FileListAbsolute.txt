@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\makedText\makedText\
 c:\users\joker hacker\documents\visual studio 2015\Projects\makedText\makedText\obj\Debug\makedText.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\makedText\makedText\obj\Debug\makedText.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\makedText\makedText\obj\Debug\makedText.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\bin\Debug\makedText.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\obj\Debug\makedText.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\obj\Debug\makedText.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\bin\Debug\makedText.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\bin\Debug\makedText.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\obj\Debug\makedText.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\obj\Debug\makedText.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\obj\Debug\makedText.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\69-masked-text-box\makedText\obj\Debug\makedText.csproj.GenerateResource.Cache

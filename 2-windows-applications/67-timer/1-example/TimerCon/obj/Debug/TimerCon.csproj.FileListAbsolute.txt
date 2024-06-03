@@ -15,3 +15,12 @@ D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Appl
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.csproj.GenerateResource.Cache
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.exe
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\77.Timer\01.Example\TimerCon\obj\Debug\TimerCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\bin\Debug\TimerCon.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\obj\Debug\TimerCon.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\obj\Debug\TimerCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\bin\Debug\TimerCon.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\bin\Debug\TimerCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\obj\Debug\TimerCon.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\obj\Debug\TimerCon.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\obj\Debug\TimerCon.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\67-timer\1-example\TimerCon\obj\Debug\TimerCon.csproj.GenerateResource.Cache

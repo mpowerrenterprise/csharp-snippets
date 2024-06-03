@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\tool\tool\obj\Debug\
 c:\users\joker hacker\documents\visual studio 2015\Projects\tool\tool\obj\Debug\tool.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\tool\tool\obj\Debug\tool.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\tool\tool\obj\Debug\tool.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\bin\Debug\tool.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\obj\Debug\tool.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\obj\Debug\tool.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\bin\Debug\tool.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\bin\Debug\tool.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\obj\Debug\tool.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\obj\Debug\tool.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\obj\Debug\tool.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\75-tool-strip\1-example\tool\obj\Debug\tool.csproj.GenerateResource.Cache

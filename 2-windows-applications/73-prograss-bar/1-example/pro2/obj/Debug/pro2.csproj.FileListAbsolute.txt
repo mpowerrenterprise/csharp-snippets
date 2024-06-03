@@ -14,3 +14,12 @@ D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Appl
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\01.Example\pro2\obj\Debug\pro2.Form1.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\01.Example\pro2\obj\Debug\pro2.Properties.Resources.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\83.PrograssBar\01.Example\pro2\obj\Debug\pro2.csproj.GenerateResource.Cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\bin\Debug\pro2.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\obj\Debug\pro2.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\obj\Debug\pro2.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\bin\Debug\pro2.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\bin\Debug\pro2.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\obj\Debug\pro2.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\obj\Debug\pro2.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\obj\Debug\pro2.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\73-prograss-bar\1-example\pro2\obj\Debug\pro2.csproj.GenerateResource.Cache

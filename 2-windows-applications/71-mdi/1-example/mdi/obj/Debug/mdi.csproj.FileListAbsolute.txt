@@ -16,3 +16,12 @@ D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Appl
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.Form1.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.Properties.Resources.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\81.MDI\01.Example\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\bin\Debug\mdi.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\obj\Debug\mdi.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\obj\Debug\mdi.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\bin\Debug\mdi.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\bin\Debug\mdi.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\obj\Debug\mdi.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\obj\Debug\mdi.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\obj\Debug\mdi.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\71-mdi\1-example\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
