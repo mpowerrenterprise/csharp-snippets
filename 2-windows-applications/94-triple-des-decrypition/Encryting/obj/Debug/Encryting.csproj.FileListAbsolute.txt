@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\Encryting\Encryting\
 c:\users\joker hacker\documents\visual studio 2015\Projects\Encryting\Encryting\obj\Debug\Encryting.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\Encryting\Encryting\obj\Debug\Encryting.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\Encryting\Encryting\obj\Debug\Encryting.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\bin\Debug\Encryting.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\obj\Debug\Encryting.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\obj\Debug\Encryting.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\bin\Debug\Encryting.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\bin\Debug\Encryting.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\obj\Debug\Encryting.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\obj\Debug\Encryting.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\obj\Debug\Encryting.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\94-triple-des-decrypition\Encryting\obj\Debug\Encryting.csproj.GenerateResource.Cache

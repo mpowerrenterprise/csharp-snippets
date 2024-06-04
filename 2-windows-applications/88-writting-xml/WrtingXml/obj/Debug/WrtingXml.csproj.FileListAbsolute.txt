@@ -16,3 +16,12 @@ D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Appl
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.Form1.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.Properties.Resources.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\98.Writting XML\01.Example\WrtingXml\obj\Debug\WrtingXml.csproj.GenerateResource.Cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\bin\Debug\WrtingXml.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\obj\Debug\WrtingXml.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\obj\Debug\WrtingXml.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\bin\Debug\WrtingXml.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\bin\Debug\WrtingXml.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\obj\Debug\WrtingXml.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\obj\Debug\WrtingXml.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\obj\Debug\WrtingXml.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\88-writting-xml\WrtingXml\obj\Debug\WrtingXml.csproj.GenerateResource.Cache

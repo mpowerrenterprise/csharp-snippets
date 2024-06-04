@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\treeViewCon\treeView
 c:\users\joker hacker\documents\visual studio 2015\Projects\treeViewCon\treeViewCon\obj\Debug\treeViewCon.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\treeViewCon\treeViewCon\obj\Debug\treeViewCon.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\treeViewCon\treeViewCon\obj\Debug\treeViewCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\bin\Debug\treeViewCon.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\obj\Debug\treeViewCon.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\obj\Debug\treeViewCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\bin\Debug\treeViewCon.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\bin\Debug\treeViewCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\obj\Debug\treeViewCon.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\obj\Debug\treeViewCon.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\obj\Debug\treeViewCon.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\80-tree-view\2-remove-and-clear\treeViewCon\obj\Debug\treeViewCon.csproj.GenerateResource.Cache

@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\openingFiles\opening
 c:\users\joker hacker\documents\visual studio 2015\Projects\openingFiles\openingFiles\obj\Debug\openingFiles.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\openingFiles\openingFiles\obj\Debug\openingFiles.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\openingFiles\openingFiles\obj\Debug\openingFiles.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\bin\Debug\openingFiles.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\obj\Debug\openingFiles.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\obj\Debug\openingFiles.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\bin\Debug\openingFiles.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\bin\Debug\openingFiles.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\obj\Debug\openingFiles.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\obj\Debug\openingFiles.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\obj\Debug\openingFiles.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\78-opening-files\SoruceFiles\openingFiles\obj\Debug\openingFiles.csproj.GenerateResource.Cache

@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\AddNotestoanExitingX
 c:\users\joker hacker\documents\visual studio 2015\Projects\AddNotestoanExitingXML\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\AddNotestoanExitingXML\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\AddNotestoanExitingXML\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\bin\Debug\AddNotestoanExitingXML.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\bin\Debug\AddNotestoanExitingXML.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\bin\Debug\AddNotestoanExitingXML.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\89-adding-notes-to-an-exiting-xml\AddNotestoanExitingXML\obj\Debug\AddNotestoanExitingXML.csproj.GenerateResource.Cache

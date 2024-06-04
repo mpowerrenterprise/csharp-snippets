@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\dragAndDrop\dragAndD
 c:\users\joker hacker\documents\visual studio 2015\Projects\dragAndDrop\dragAndDrop\obj\Debug\dragAndDrop.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\dragAndDrop\dragAndDrop\obj\Debug\dragAndDrop.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\dragAndDrop\dragAndDrop\obj\Debug\dragAndDrop.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\bin\Debug\dragAndDrop.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\obj\Debug\dragAndDrop.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\obj\Debug\dragAndDrop.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\bin\Debug\dragAndDrop.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\bin\Debug\dragAndDrop.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\obj\Debug\dragAndDrop.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\obj\Debug\dragAndDrop.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\obj\Debug\dragAndDrop.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\95-drag-and-drop\dragAndDrop\obj\Debug\dragAndDrop.csproj.GenerateResource.Cache

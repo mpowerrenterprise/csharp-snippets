@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\AccessAllController\
 c:\users\joker hacker\documents\visual studio 2015\Projects\AccessAllController\AccessAllController\obj\Debug\AccessAllController.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\AccessAllController\AccessAllController\obj\Debug\AccessAllController.pdb
 c:\users\joker hacker\documents\visual studio 2015\Projects\AccessAllController\AccessAllController\obj\Debug\AccessAllController.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\bin\Debug\AccessAllController.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\obj\Debug\AccessAllController.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\obj\Debug\AccessAllController.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\bin\Debug\AccessAllController.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\bin\Debug\AccessAllController.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\obj\Debug\AccessAllController.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\obj\Debug\AccessAllController.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\obj\Debug\AccessAllController.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\82-access-control\4-diabled-buttons\AccessAllController\obj\Debug\AccessAllController.csproj.GenerateResource.Cache

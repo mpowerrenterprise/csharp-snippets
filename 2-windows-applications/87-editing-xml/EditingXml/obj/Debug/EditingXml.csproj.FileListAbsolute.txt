@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\EditingXml\EditingXm
 c:\users\joker hacker\documents\visual studio 2015\Projects\EditingXml\EditingXml\obj\Debug\EditingXml.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\EditingXml\EditingXml\obj\Debug\EditingXml.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\EditingXml\EditingXml\obj\Debug\EditingXml.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\bin\Debug\EditingXml.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\obj\Debug\EditingXml.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\obj\Debug\EditingXml.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\bin\Debug\EditingXml.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\bin\Debug\EditingXml.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\obj\Debug\EditingXml.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\obj\Debug\EditingXml.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\obj\Debug\EditingXml.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\87-editing-xml\EditingXml\obj\Debug\EditingXml.csproj.GenerateResource.Cache

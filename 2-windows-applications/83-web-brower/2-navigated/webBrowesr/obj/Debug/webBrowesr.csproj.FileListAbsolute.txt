@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\webBrowesr\webBrowes
 c:\users\joker hacker\documents\visual studio 2015\Projects\webBrowesr\webBrowesr\obj\Debug\webBrowesr.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\webBrowesr\webBrowesr\obj\Debug\webBrowesr.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\webBrowesr\webBrowesr\obj\Debug\webBrowesr.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\bin\Debug\webBrowesr.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\obj\Debug\webBrowesr.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\obj\Debug\webBrowesr.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\bin\Debug\webBrowesr.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\bin\Debug\webBrowesr.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\obj\Debug\webBrowesr.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\obj\Debug\webBrowesr.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\obj\Debug\webBrowesr.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\2-navigated\webBrowesr\obj\Debug\webBrowesr.csproj.GenerateResource.Cache

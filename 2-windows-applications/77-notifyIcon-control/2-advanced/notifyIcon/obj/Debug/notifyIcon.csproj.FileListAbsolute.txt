@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\notifyIcon\notifyIco
 c:\users\joker hacker\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\bin\Debug\notifyIcon.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\obj\Debug\notifyIcon.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\obj\Debug\notifyIcon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\bin\Debug\notifyIcon.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\bin\Debug\notifyIcon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\obj\Debug\notifyIcon.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\obj\Debug\notifyIcon.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\obj\Debug\notifyIcon.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\77-notifyIcon-control\2-advanced\notifyIcon\obj\Debug\notifyIcon.csproj.GenerateResource.Cache

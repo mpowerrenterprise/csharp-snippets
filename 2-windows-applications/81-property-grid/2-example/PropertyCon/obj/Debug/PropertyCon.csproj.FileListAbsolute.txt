@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\PropertyCon\Property
 c:\users\joker hacker\documents\visual studio 2015\Projects\PropertyCon\PropertyCon\obj\Debug\PropertyCon.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\PropertyCon\PropertyCon\obj\Debug\PropertyCon.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\PropertyCon\PropertyCon\obj\Debug\PropertyCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\bin\Debug\PropertyCon.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\obj\Debug\PropertyCon.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\obj\Debug\PropertyCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\bin\Debug\PropertyCon.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\bin\Debug\PropertyCon.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\obj\Debug\PropertyCon.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\obj\Debug\PropertyCon.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\obj\Debug\PropertyCon.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\81-property-grid\2-example\PropertyCon\obj\Debug\PropertyCon.csproj.GenerateResource.Cache

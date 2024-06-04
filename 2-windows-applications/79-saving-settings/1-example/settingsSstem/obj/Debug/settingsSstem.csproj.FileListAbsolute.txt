@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\settingsSstem\settin
 c:\users\joker hacker\documents\visual studio 2015\Projects\settingsSstem\settingsSstem\obj\Debug\settingsSstem.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\settingsSstem\settingsSstem\obj\Debug\settingsSstem.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\settingsSstem\settingsSstem\obj\Debug\settingsSstem.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\bin\Debug\settingsSstem.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\obj\Debug\settingsSstem.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\obj\Debug\settingsSstem.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\bin\Debug\settingsSstem.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\bin\Debug\settingsSstem.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\obj\Debug\settingsSstem.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\obj\Debug\settingsSstem.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\obj\Debug\settingsSstem.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\79-saving-settings\1-example\settingsSstem\obj\Debug\settingsSstem.csproj.GenerateResource.Cache

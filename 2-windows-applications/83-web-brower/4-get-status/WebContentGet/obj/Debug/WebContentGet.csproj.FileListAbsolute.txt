@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\WebContentGet\WebCon
 c:\users\joker hacker\documents\visual studio 2015\Projects\WebContentGet\WebContentGet\obj\Debug\WebContentGet.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\WebContentGet\WebContentGet\obj\Debug\WebContentGet.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\WebContentGet\WebContentGet\obj\Debug\WebContentGet.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\bin\Debug\WebContentGet.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\obj\Debug\WebContentGet.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\obj\Debug\WebContentGet.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\bin\Debug\WebContentGet.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\bin\Debug\WebContentGet.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\obj\Debug\WebContentGet.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\obj\Debug\WebContentGet.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\obj\Debug\WebContentGet.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\83-web-brower\4-get-status\WebContentGet\obj\Debug\WebContentGet.csproj.GenerateResource.Cache
