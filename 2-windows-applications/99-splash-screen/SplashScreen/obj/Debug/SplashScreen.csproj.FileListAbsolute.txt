@@ -7,3 +7,13 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\SplashScreen\SplashS
 c:\users\joker hacker\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\obj\Debug\SplashScreen.Form2.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\99-splash-screen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache

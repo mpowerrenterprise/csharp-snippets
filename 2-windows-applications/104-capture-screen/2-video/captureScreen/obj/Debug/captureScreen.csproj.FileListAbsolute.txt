@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\captureScreen\captur
 c:\users\joker hacker\documents\visual studio 2015\Projects\captureScreen\captureScreen\obj\Debug\captureScreen.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\captureScreen\captureScreen\obj\Debug\captureScreen.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\captureScreen\captureScreen\obj\Debug\captureScreen.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\bin\Debug\captureScreen.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\obj\Debug\captureScreen.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\obj\Debug\captureScreen.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\bin\Debug\captureScreen.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\bin\Debug\captureScreen.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\obj\Debug\captureScreen.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\obj\Debug\captureScreen.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\obj\Debug\captureScreen.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\104-capture-screen\2-video\captureScreen\obj\Debug\captureScreen.csproj.GenerateResource.Cache

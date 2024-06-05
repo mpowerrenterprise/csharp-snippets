@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\makingKeyboradShortc
 c:\users\joker hacker\documents\visual studio 2015\Projects\makingKeyboradShortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\makingKeyboradShortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\makingKeyboradShortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\bin\Debug\makingKeyboradShortcut.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\bin\Debug\makingKeyboradShortcut.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\bin\Debug\makingKeyboradShortcut.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\105-keyboard-shortcut\makingKeyboradShortcut\obj\Debug\makingKeyboradShortcut.csproj.GenerateResource.Cache

@@ -14,3 +14,12 @@ D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Appl
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\106.Graphics\09.DrawLine with Pen\drawshape\obj\Debug\drawshape.Form1.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\106.Graphics\09.DrawLine with Pen\drawshape\obj\Debug\drawshape.Properties.Resources.resources
 D:\03.Computer Science\06.My Notes\01.Software Engineering\08.C#\02.Windows Application\01.The New Bonston\106.Graphics\09.DrawLine with Pen\drawshape\obj\Debug\drawshape.csproj.GenerateResource.Cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\bin\Debug\drawshape.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\obj\Debug\drawshape.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\obj\Debug\drawshape.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\bin\Debug\drawshape.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\bin\Debug\drawshape.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\obj\Debug\drawshape.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\obj\Debug\drawshape.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\obj\Debug\drawshape.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\96-graphics\9-drawline-with-pen\drawshape\obj\Debug\drawshape.csproj.GenerateResource.Cache

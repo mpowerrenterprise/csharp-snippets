@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\hangmanGame\hangmanG
 c:\users\joker hacker\documents\visual studio 2015\Projects\hangmanGame\hangmanGame\obj\Debug\hangmanGame.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\hangmanGame\hangmanGame\obj\Debug\hangmanGame.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\hangmanGame\hangmanGame\obj\Debug\hangmanGame.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\bin\Debug\hangmanGame.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\obj\Debug\hangmanGame.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\obj\Debug\hangmanGame.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\bin\Debug\hangmanGame.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\bin\Debug\hangmanGame.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\obj\Debug\hangmanGame.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\obj\Debug\hangmanGame.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\obj\Debug\hangmanGame.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\110-hangman-game\hangmanGame\obj\Debug\hangmanGame.csproj.GenerateResource.Cache

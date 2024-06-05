@@ -6,3 +6,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\outKey\outKey\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\outKey\outKey\obj\Debug\outKey.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\outKey\outKey\obj\Debug\outKey.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\outKey\outKey\obj\Debug\outKey.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\bin\Debug\outKey.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\obj\Debug\outKey.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\obj\Debug\outKey.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\bin\Debug\outKey.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\bin\Debug\outKey.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\obj\Debug\outKey.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\obj\Debug\outKey.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\obj\Debug\outKey.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\109-out-keyword\outKey\obj\Debug\outKey.csproj.GenerateResource.Cache

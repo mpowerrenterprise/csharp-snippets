@@ -3,3 +3,8 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\bin\Debu
 c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\obj\Debug\MyDll.dll
 c:\users\joker hacker\documents\visual studio 2015\Projects\MyDll\MyDll\obj\Debug\MyDll.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\100-dll\DLL Code\MyDll\bin\Debug\MyDll.dll
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\100-dll\DLL Code\MyDll\bin\Debug\MyDll.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\100-dll\DLL Code\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\100-dll\DLL Code\MyDll\obj\Debug\MyDll.dll
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\100-dll\DLL Code\MyDll\obj\Debug\MyDll.pdb

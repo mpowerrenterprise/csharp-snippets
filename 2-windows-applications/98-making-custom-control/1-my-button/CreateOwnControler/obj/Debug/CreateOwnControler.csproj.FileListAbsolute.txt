@@ -8,3 +8,13 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\CreateOwnControler\C
 c:\users\joker hacker\documents\visual studio 2015\Projects\CreateOwnControler\CreateOwnControler\obj\Debug\CreateOwnControler.pdb
 c:\users\joker hacker\documents\visual studio 2015\Projects\CreateOwnControler\CreateOwnControler\obj\Debug\CreateOwnControler.Form1.resources
 c:\users\joker hacker\documents\visual studio 2015\Projects\CreateOwnControler\CreateOwnControler\obj\Debug\CreateOwnControler.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\bin\Debug\CreateOwnControler.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\obj\Debug\CreateOwnControler.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\obj\Debug\CreateOwnControler.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\bin\Debug\CreateOwnControler.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\bin\Debug\CreateOwnControler.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\obj\Debug\CreateOwnControler.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\obj\Debug\CreateOwnControler.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\obj\Debug\CreateOwnControler.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\obj\Debug\CreateOwnControler.MyButton.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\98-making-custom-control\1-my-button\CreateOwnControler\obj\Debug\CreateOwnControler.csproj.GenerateResource.Cache

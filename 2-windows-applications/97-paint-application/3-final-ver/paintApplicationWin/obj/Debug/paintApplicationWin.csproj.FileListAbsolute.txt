@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\paintApplicationWin\
 c:\users\joker hacker\documents\visual studio 2015\Projects\paintApplicationWin\paintApplicationWin\obj\Debug\paintApplicationWin.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\paintApplicationWin\paintApplicationWin\obj\Debug\paintApplicationWin.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\paintApplicationWin\paintApplicationWin\obj\Debug\paintApplicationWin.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\bin\Debug\paintApplicationWin.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\obj\Debug\paintApplicationWin.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\obj\Debug\paintApplicationWin.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\bin\Debug\paintApplicationWin.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\bin\Debug\paintApplicationWin.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\obj\Debug\paintApplicationWin.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\obj\Debug\paintApplicationWin.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\obj\Debug\paintApplicationWin.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\97-paint-application\3-final-ver\paintApplicationWin\obj\Debug\paintApplicationWin.csproj.GenerateResource.Cache

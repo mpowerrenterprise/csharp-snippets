@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\gotoAndRegin\gotoAnd
 c:\users\joker hacker\documents\visual studio 2015\Projects\gotoAndRegin\gotoAndRegin\obj\Debug\gotoAndRegin.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\gotoAndRegin\gotoAndRegin\obj\Debug\gotoAndRegin.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\gotoAndRegin\gotoAndRegin\obj\Debug\gotoAndRegin.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\bin\Debug\gotoAndRegin.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\obj\Debug\gotoAndRegin.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\obj\Debug\gotoAndRegin.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\bin\Debug\gotoAndRegin.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\bin\Debug\gotoAndRegin.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\obj\Debug\gotoAndRegin.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\obj\Debug\gotoAndRegin.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\obj\Debug\gotoAndRegin.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\103-region\gotoAndRegin\obj\Debug\gotoAndRegin.csproj.GenerateResource.Cache
