@@ -6,3 +6,11 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\Clonesys\Clonesys\ob
 c:\users\joker hacker\documents\visual studio 2015\Projects\Clonesys\Clonesys\obj\Debug\Clonesys.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\Clonesys\Clonesys\obj\Debug\Clonesys.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\Clonesys\Clonesys\obj\Debug\Clonesys.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\121-clone\2-clone-class\Clonesys\Clonesys\obj\Debug\Clonesys.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\121-clone\2-clone-class\Clonesys\Clonesys\obj\Debug\Clonesys.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\121-clone\2-clone-class\Clonesys\Clonesys\bin\Debug\Clonesys.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\121-clone\2-clone-class\Clonesys\Clonesys\bin\Debug\Clonesys.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\121-clone\2-clone-class\Clonesys\Clonesys\obj\Debug\Clonesys.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\121-clone\2-clone-class\Clonesys\Clonesys\obj\Debug\Clonesys.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\121-clone\2-clone-class\Clonesys\Clonesys\obj\Debug\Clonesys.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\121-clone\2-clone-class\Clonesys\Clonesys\obj\Debug\Clonesys.csproj.GenerateResource.Cache

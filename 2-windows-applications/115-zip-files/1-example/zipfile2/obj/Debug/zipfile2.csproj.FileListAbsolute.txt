@@ -8,3 +8,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\zipfile2\zipfile2\ob
 c:\users\joker hacker\documents\visual studio 2015\Projects\zipfile2\zipfile2\obj\Debug\zipfile2.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\zipfile2\zipfile2\obj\Debug\zipfile2.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\zipfile2\zipfile2\obj\Debug\zipfile2.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\bin\Debug\zipfile2.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\obj\Debug\zipfile2.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\obj\Debug\zipfile2.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\bin\Debug\zipfile2.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\bin\Debug\zipfile2.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\obj\Debug\zipfile2.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\obj\Debug\zipfile2.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\obj\Debug\zipfile2.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\115-zip-files\1-example\zipfile2\obj\Debug\zipfile2.csproj.GenerateResource.Cache

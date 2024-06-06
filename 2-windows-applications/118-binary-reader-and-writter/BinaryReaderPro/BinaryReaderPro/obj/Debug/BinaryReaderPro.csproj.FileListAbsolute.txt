@@ -6,3 +6,11 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\BinaryReaderPro\Bina
 c:\users\joker hacker\documents\visual studio 2015\Projects\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\118-binary-reader-and-writter\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\118-binary-reader-and-writter\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\118-binary-reader-and-writter\BinaryReaderPro\BinaryReaderPro\bin\Debug\BinaryReaderPro.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\118-binary-reader-and-writter\BinaryReaderPro\BinaryReaderPro\bin\Debug\BinaryReaderPro.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\118-binary-reader-and-writter\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\118-binary-reader-and-writter\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\118-binary-reader-and-writter\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\118-binary-reader-and-writter\BinaryReaderPro\BinaryReaderPro\obj\Debug\BinaryReaderPro.csproj.GenerateResource.Cache

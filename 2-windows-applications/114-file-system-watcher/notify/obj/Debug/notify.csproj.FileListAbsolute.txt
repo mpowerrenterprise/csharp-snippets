@@ -7,3 +7,12 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\notify\notify\obj\De
 c:\users\joker hacker\documents\visual studio 2015\Projects\notify\notify\obj\Debug\notify.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\notify\notify\obj\Debug\notify.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\notify\notify\obj\Debug\notify.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\bin\Debug\notify.exe.config
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\obj\Debug\notify.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\obj\Debug\notify.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\bin\Debug\notify.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\bin\Debug\notify.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\obj\Debug\notify.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\obj\Debug\notify.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\obj\Debug\notify.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\114-file-system-watcher\notify\obj\Debug\notify.csproj.GenerateResource.Cache

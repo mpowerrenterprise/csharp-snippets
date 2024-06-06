@@ -6,3 +6,11 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\captcha\captcha\bin\
 c:\users\joker hacker\documents\visual studio 2015\Projects\captcha\captcha\bin\Debug\captcha.pdb
 c:\users\joker hacker\documents\visual studio 2015\Projects\captcha\captcha\obj\Debug\captcha.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\captcha\captcha\obj\Debug\captcha.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\117-captcha-generator\2-full-app\captcha\captcha\obj\Debug\captcha.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\117-captcha-generator\2-full-app\captcha\captcha\obj\Debug\captcha.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\117-captcha-generator\2-full-app\captcha\captcha\bin\Debug\captcha.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\117-captcha-generator\2-full-app\captcha\captcha\bin\Debug\captcha.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\117-captcha-generator\2-full-app\captcha\captcha\obj\Debug\captcha.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\117-captcha-generator\2-full-app\captcha\captcha\obj\Debug\captcha.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\117-captcha-generator\2-full-app\captcha\captcha\obj\Debug\captcha.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\117-captcha-generator\2-full-app\captcha\captcha\obj\Debug\captcha.csproj.GenerateResource.Cache

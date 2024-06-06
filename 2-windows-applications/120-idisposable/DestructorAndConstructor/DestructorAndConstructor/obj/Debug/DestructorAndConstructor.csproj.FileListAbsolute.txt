@@ -6,3 +6,11 @@ c:\users\joker hacker\documents\visual studio 2015\Projects\DestructorAndConstru
 c:\users\joker hacker\documents\visual studio 2015\Projects\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.csproj.GenerateResource.Cache
 c:\users\joker hacker\documents\visual studio 2015\Projects\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.exe
 c:\users\joker hacker\documents\visual studio 2015\Projects\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\120-idisposable\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\120-idisposable\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\120-idisposable\DestructorAndConstructor\DestructorAndConstructor\bin\Debug\DestructorAndConstructor.exe
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\120-idisposable\DestructorAndConstructor\DestructorAndConstructor\bin\Debug\DestructorAndConstructor.pdb
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\120-idisposable\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.csprojResolveAssemblyReference.cache
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\120-idisposable\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.Form1.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\120-idisposable\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.Properties.Resources.resources
+C:\Users\Ruthani\Desktop\csharp-snippets\2-windows-applications\120-idisposable\DestructorAndConstructor\DestructorAndConstructor\obj\Debug\DestructorAndConstructor.csproj.GenerateResource.Cache
