@@ -17,7 +17,7 @@ Its strong typing system enhances code safety, and it is commonly used with fram
 ## Social Links
 
 * [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
-* [Facebook Profile](https://www.facebook.com/gunarakulangunaratnam)
+* [Facebook Profile](https://www.facebook.com/gunarakulangunaretnam)
 * [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
 * [Twitter Profile ](https://twitter.com/gunarakulangr)
 * [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
