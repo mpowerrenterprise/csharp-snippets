@@ -1,4 +1,4 @@
-# C# SNIPPETS
+# C# Snippets
 
 ## Introduction
 
