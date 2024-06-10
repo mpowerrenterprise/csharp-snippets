@@ -14,7 +14,7 @@ Its strong typing system enhances code safety, and it is commonly used with fram
 2. [Windows Applications](2-windows-applications/)
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
